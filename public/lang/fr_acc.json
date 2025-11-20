@@ -1,0 +1,15 @@
+{
+  "account_info": "Informations sur le compte Minecraft",
+  "player_name": "Nom du joueur",
+  "status": "Statut :",
+  "last_skin_change": "Dernière mise à jour de la peau :",
+  "last_activity": "Dernière vue:",
+  "cape": "Cape :",
+  "uuid": "UUID :",
+  "download_skin": "⬇️ Télécharger le skin",
+  "skin_3d": "Afficher la peau 3D",
+  "dinnerbone_mode": "Activer le mode Dinnerbone (Inversion de peau)",
+  "quota_loading": "Chargement en cours...",
+  "quota_remaining": "Demandes ✅ restantes aujourd'hui :",
+  "back_home": "Retour à l’accueil"
+}

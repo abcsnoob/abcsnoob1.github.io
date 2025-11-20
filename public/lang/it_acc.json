@@ -1,0 +1,15 @@
+{
+  "account_info": "Informazioni sull'account Minecraft",
+  "player_name": "Nome del Giocatore:",
+  "status": "Stato:",
+  "last_skin_change": "Ultimo aggiornamento skin:",
+  "last_activity": "Ultimo visto:",
+  "cape": "Manto",
+  "uuid": "UUID",
+  "download_skin": "⬇️ Scarica Skin",
+  "skin_3d": "Visualizza skin 3D",
+  "dinnerbone_mode": "Abilita la modalità Dinnerbone (Flip Skin)",
+  "quota_loading": "Caricamento in corso...",
+  "quota_remaining": "Domande ✅ rimanenti oggi:",
+  "back_home": "Torna alla home"
+}

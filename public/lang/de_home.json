@@ -1,0 +1,22 @@
+{
+  "title": "Minecraft-Kontosuche",
+  "search_label": "Name des Spielers eingeben",
+  "search_button": " Suche..",
+  "advanced_search": "Erweiterte suche",
+  "popular_accounts": "Beliebte Konten",
+  "popular_skin": "Beliebte Skins",
+  "popular_youtubers": "Ausgewählte Youtuber",
+  "no_data": "Noch keine Daten.",
+  "footer_privacy": "Datenschutz",
+  "footer_terms": "Allgemeine Geschäftsbedingungen",
+  "footer_api": "Verwenden Sie die <a href='https://abcsmc.42web.io/' class='popup-link'>API</a> für automatische Abfragen.",
+  "quota_exceeded": "Kontingent überschritten.",
+  "quota_message": "Bitte kommen Sie später noch einmal.",
+  "quota_reset": "Zurücksetzen um:",
+  "quota_remaining": "✅ Anzahl der verbleibenden Stimmen heute:",
+  "language_switch": "Sprache:",
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "Englisch",
+  "lang_ru": "Русский",
+  "generous_translate": "Übersetzungen auf GitHub 🌐 beitragen"
+}

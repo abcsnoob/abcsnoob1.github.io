@@ -1,0 +1,22 @@
+{
+  "title": "Recherche de compte Minecraft",
+  "search_label": "Entrez le nom du joueur",
+  "search_button": "Rechercher",
+  "advanced_search": "recherche avancée",
+  "popular_accounts": "Comptes populaires",
+  "popular_skin": "Peaux populaires",
+  "popular_youtubers": "Youtubeurs en vedette",
+  "no_data": "Aucune donnée pour le moment.",
+  "footer_privacy": "Politique de Confidentialité",
+  "footer_terms": "Conditions d’utilisation",
+  "footer_api": "Utilisez <a href='https://abcsmc.42web.io/' class='popup-link'>l'API</a> pour les requêtes automatiques.",
+  "quota_exceeded": "Quota Dépassé",
+  "quota_message": "Revenez plus tard.",
+  "quota_reset": "Réinitialiser à :",
+  "quota_remaining": "✅ Nombre de votes restants aujourd'hui :",
+  "language_switch": "Langue :",
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "Français",
+  "lang_ru": "Русский",
+  "generous_translate": "🌐 Contribuer aux traductions sur GitHub"
+}

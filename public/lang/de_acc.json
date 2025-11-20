@@ -1,0 +1,15 @@
+{
+  "account_info": "Minecraft-Kontoinformationen",
+  "player_name": "Spielername:",
+  "status": "Status:",
+  "last_skin_change": "Letztes Skin-Update:",
+  "last_activity": "Zuletzt gesehen: ",
+  "cape": "Umhang",
+  "uuid": "UUID:",
+  "download_skin": "Skin ⬇️ herunterladen",
+  "skin_3d": "3D-Skin anzeigen",
+  "dinnerbone_mode": "Dinnerbone-Modus aktivieren (Flip-Skin)",
+  "quota_loading": "Wird geladen …",
+  "quota_remaining": "✅ Verbleibende Anfragen heute:",
+  "back_home": "Zurück zur Startseite"
+}

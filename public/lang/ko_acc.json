@@ -1,0 +1,15 @@
+{
+  "account_info": "마인크래프트 계정 정보",
+  "player_name": "플레이어 이름",
+  "status": "상태:",
+  "last_skin_change": "마지막 스킨 업데이트:",
+  "last_activity": "최근 확인:",
+  "cape": "케이프",
+  "uuid": "UUID:",
+  "download_skin": "스킨 ⬇️ 다운로드",
+  "skin_3d": "3D 스킨 보기",
+  "dinnerbone_mode": "Dinnerbone 모드 활성화 (스킨 뒤집기)",
+  "quota_loading": "로드 중...",
+  "quota_remaining": "오늘 ✅ 남은 질의:",
+  "back_home": "집으로 돌아가기"
+}

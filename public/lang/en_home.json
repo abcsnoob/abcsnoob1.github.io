@@ -1,0 +1,22 @@
+{
+  "title": "Minecraft Account Search",
+  "search_label": "Enter player name:",
+  "search_button": "🔍 Search",
+  "advanced_search": "advanced search",
+  "popular_accounts": "Popular Accounts",
+  "popular_skin": "Popular Skins",
+  "popular_youtubers": "Featured Youtubers",
+  "no_data": "No data yet.",
+  "footer_privacy": "Privacy Policy",
+  "footer_terms": "Terms of Service",
+  "footer_api": "Use <a href='https://abcsmc.42web.io/' class='popup-link'>API</a> for automatic queries.",
+  "quota_exceeded": "🚫 Quota Exceeded",
+  "quota_message": "Please come back later.",
+  "quota_reset": "Reset at:",
+  "quota_remaining": "✅ Number of remaining votes today:",
+  "language_switch": "Language:",
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "English",
+  "lang_ru": "Русский",
+"generous_translate": "🌐 Contribute translations on GitHub"
+}

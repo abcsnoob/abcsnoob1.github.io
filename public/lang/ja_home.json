@@ -1,0 +1,22 @@
+{
+  "title": "Minecraftアカウント検索",
+  "search_label": "プレイヤー名を入力してください",
+  "search_button": "検索",
+  "advanced_search": "詳細検索",
+  "popular_accounts": "人気のアカウント",
+  "popular_skin": "人気のスキン",
+  "popular_youtubers": "注目のユーチューバー",
+  "no_data": "データはまだありません。",
+  "footer_privacy": "プライバシーポリシー",
+  "footer_terms": "利用規約",
+  "footer_api": "自動クエリに<a href='https://abcsmc.42web.io/' class='popup-link'>API</a>を使用します。",
+  "quota_exceeded": "クォータを超過しました",
+  "quota_message": "後で再度ご確認ください。",
+  "quota_reset": "リセット時刻:",
+  "quota_remaining": "本日の残り投票✅数：",
+  "language_switch": "言語：",
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "日本語",
+  "lang_ru": "Русский",
+  "generous_translate": "GitHubで翻訳を投稿🌐する"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Minecraft Hesap Arama",
+  "search_label": "Oyuncu adı gir",
+  "search_button": " Anahtar Kelimeyle Ara ",
+  "advanced_search": "gelişmiş arama",
+  "popular_accounts": "Popüler Hesaplar",
+  "popular_skin": "Popüler Görünümler",
+  "popular_youtubers": "Öne Çıkan Youtuber'lar",
+  "no_data": "Henüz veri yok.",
+  "footer_privacy": "Gizlilik Politikası",
+  "footer_terms": "Hizmet Maddeleri",
+  "footer_api": "Otomatik sorgular için <a href='https://abcsmc.42web.io/' class='popup-link'>API</a> kullanın.",
+  "quota_exceeded": "Kota aşıldı",
+  "quota_message": "Lütfen daha sonra tekrar gel.",
+  "quota_reset": "Reset at:",
+  "quota_remaining": "Bugün kalan oy ✅ sayısı:",
+  "language_switch": "Dil:",
+  "lang_vi": "Vietnam",
+  "lang_en": "İngilizce",
+  "lang_ru": "Русский",
+  "generous_translate": "GitHub'da çevirilere 🌐 katkıda bulunun"
+}

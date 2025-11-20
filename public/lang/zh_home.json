@@ -1,0 +1,22 @@
+{
+  "title": "Minecraft帐户搜索",
+  "search_label": "输入角色名字",
+  "search_button": "搜索",
+  "advanced_search": "高级搜索",
+  "popular_accounts": "热门账号",
+  "popular_skin": "热门皮肤",
+  "popular_youtubers": "精选Youtubers",
+  "no_data": "还没有数据。",
+  "footer_privacy": "隐私条款",
+  "footer_terms": "服務條款",
+  "footer_api": "使用<a href='https://abcsmc.42web.io/' class='popup-link'>API</a>进行自动查询。",
+  "quota_exceeded": "超过配额",
+  "quota_message": "请稍后再来。",
+  "quota_reset": "重置时间：",
+  "quota_remaining": "✅ 今日剩余投票数：",
+  "language_switch": "语言：",
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "English",
+  "lang_ru": "Русский",
+  "generous_translate": "🌐 在GitHub上提供翻译"
+}
