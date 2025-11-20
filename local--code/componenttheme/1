@@ -1,0 +1,8 @@
+/* Site Theme */
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Ahallprint/1);
+
+/* Collapsible Sidebar */
+@import url("https://backrooms-wiki.wikidot.com/component:sidebar-theme/code/1");
+
+/* User Flairs */
+@import url("https://backrooms-wiki.wikidot.com/component:user-flairs/code/1");

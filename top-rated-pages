@@ -1,0 +1,1208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Top Rated Pages - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "top-rated-pages";
+        OZONE.request.timestamp = 1763635965;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "top-rated-pages";
+        WIKIREQUEST.info.pageId = 1014692592;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="Top Rated Pages"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+                    @import url(https://backrooms-wiki.wikidot.com/component:theme/code/1);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+/* FAQ Block Style */
+
+@keyframes colappear {
+  from { margin-top: -3rem; opacity: 0; }
+  to { margin-top: 0; opacity: 1; }
+}
+
+#page-content .collapsible-block {
+  background: rgb(var(--swatch-menubg-dark-color));
+  color: rgb(var(--swatch-text-secondary-color));
+  padding: 0 0.5rem;
+  overflow: hidden;
+  margin: 0.5rem 0;
+}
+
+#page-content .collapsible-block-link, .collapsible-block-link:is(:focus, :hover, :focus-within) {
+  color: rgb(var(--swatch-text-secondary-color));
+  background: rgb(var(--swatch-menubg-dark-color));
+  position: relative;
+  z-index: 5;
+  font-family: var(--header-font);
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.5rem;
+  padding: 0.75rem 0.25rem;
+  text-decoration: none !important;
+  max-width: 100%;
+}
+
+#page-content .collapsible-block-link::after {
+  content: ">";
+  display: block;
+  transform: translateY(0) rotate(90deg);
+  transition: 0.2s;
+}
+
+#page-content .collapsible-block-link:is(:focus, :hover, :focus-within) {
+  text-decoration-color: rgb(var(--bright-accent));
+  text-decoration-thickness: 0.2rem;
+}
+
+#page-content .collapsible-block-link:is(:focus, :hover, :focus-within)::after {
+  transform: translateY(0.2rem) rotate(90deg);
+}
+
+#page-content .collapsible-block-unfolded-link a::after {
+  transform: translateY(0) rotate(-90deg);
+  margin-right: 0.17rem;
+}
+
+#page-content .collapsible-block-unfolded-link a:is(:focus, :hover, :focus-within)::after {
+  transform: translateY(-0.2rem) rotate(-90deg);
+  margin-right: 0.17rem;
+}
+
+#page-content .collapsible-block-content {
+  background: rgb(var(--swatch-text-secondary-color));
+  color: rgb(var(--swatch-text-general));
+  padding: 0.05rem 0.5rem;
+  margin-bottom: 0.5rem;
+  animation: colappear cubic-bezier(0,0.8,.2,1) 0.4s;
+}
+</style>
+<style>
+.collapsible-block-content { padding: 0.5rem 1.5rem !important; }
+@media only screen and (min-width: 56.25rem) {
+#page-content .extra ol { column-count: 2; column-gap: 1.5rem; }
+}
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Top Rated Pages
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+<p>This is a dynamically-updating feed of the top 50 most highly-rated pages of all time overall and for each article category.</p>
+<hr />
+<div class="collapsible-block">
+<div class="collapsible-block-folded" style="display:none"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Pages</a></div>
+<div class="collapsible-block-unfolded">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Pages</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/level-0">Level 0 - &quot;Tutorial Level&quot;</a> by etoisle, <span style="color: green">+ 1109</span> (+1158, -49)</li>
+<li><a href="/level-404">level 404 - &quot;my dearly fragmented&quot;</a> by etoisle, <span style="color: green">+ 410</span> (+455, -45)</li>
+<li><a href="/joke-level-145">Joke Level 145</a> by CementSandwich, <span style="color: green">+ 315</span> (+351, -36)</li>
+<li><a href="/level-37">Level 37 - &quot;Sublimity&quot;</a> by egglord, <span style="color: green">+ 268</span> (+273, -5)</li>
+<li><a href="/entity-3">Entity 3 - &quot;Smilers&quot;</a> by ShroomDispencer, <span style="color: green">+ 237</span> (+264, -27)</li>
+<li><a href="/th3-sh4dy-gr3y">Unnumbered Level - &quot;Th3 Sh4dy Gr3y&quot;</a> by Natedagreat563, <span style="color: green">+ 235</span> (+259, -24)</li>
+<li><a href="/entity-140">Entity 140 - &quot;Blanche&quot;</a> by SnomWriting, <span style="color: green">+ 224</span> (+234, -10)</li>
+<li><a href="/joke-level-vibe">Joke Level 𝙫𝙞𝙗𝙚</a> by DrBobtail, <span style="color: green">+ 223</span> (+229, -6)</li>
+<li><a href="/level-3">Level 3 - &quot;Electrical Station&quot;</a> by Natedagreat563, <span style="color: green">+ 220</span> (+228, -8)</li>
+<li><a href="/level-14">Level 14 - &quot;Paradise&quot;</a> by CutTheBirch, <span style="color: green">+ 215</span> (+238, -23)</li>
+<li><a href="/level-5">Level 5 - &quot;Terror Hotel&quot;</a> by Stretchsterz, <span style="color: green">+ 215</span> (+236, -21)</li>
+<li><a href="/joke-level-backroom">the backroom</a> by SingleTag, <span style="color: green">+ 202</span> (+217, -15)</li>
+<li><a href="/level-4">Level 4 - &quot;Abandoned Office&quot;</a> by Stretchsterz, <span style="color: green">+ 195</span> (+238, -43)</li>
+<li><a href="/entity-8">Entity 8 - &quot;Hound&quot;</a> by ShroomDispencer, <span style="color: green">+ 194</span> (+216, -22)</li>
+<li><a href="/nostalgi-gaius">Unnumbered Entity - &quot;Nostalgi Gaius&quot;</a> by etoisle, <span style="color: green">+ 190</span> (+200, -10)</li>
+<li><a href="/level-200">Level 200 - &quot;Home&quot;</a> by J Dune, <span style="color: green">+ 186</span> (+195, -9)</li>
+<li><a href="/level-289">Level 289 - &quot;Overflow&quot;</a> by Stretchsterz, <span style="color: green">+ 181</span> (+187, -6)</li>
+<li><a href="/the-frontrooms">Unnumbered Level - &quot;The Frontrooms&quot;</a> by Greggita Mahayfaio, <span style="color: green">+ 180</span> (+196, -16)</li>
+<li><a href="/level-9">Level 9 - &quot;The Suburbs&quot;</a> by Stretchsterz, <span style="color: green">+ 179</span> (+218, -39)</li>
+<li><a href="/entity-18">Entity 18 - &quot;The Beast of Level 5&quot;</a> by Stretchsterz, <span style="color: green">+ 178</span> (+186, -8)</li>
+<li><a href="/level-906">Level 906 - &quot;The Cygnus Archive&quot;</a> by SnomWriting, <span style="color: green">+ 172</span> (+180, -8)</li>
+<li><a href="/level-28">Level 28 - &quot;Stormstone Keep&quot;</a> by Kitty Rika, <span style="color: green">+ 170</span> (+183, -13)</li>
+<li><a href="/entity-10">Entity 10 - &quot;Skin-Stealer&quot;</a> by Stretchsterz, <span style="color: green">+ 168</span> (+183, -15)</li>
+<li><a href="/level-6">Level 6 - &quot;Lights Out&quot;</a> by Bart0nius, <span style="color: green">+ 167</span> (+190, -23)</li>
+<li><a href="/the-m-e-g">The M.E.G.</a> by Stretchsterz, <span style="color: green">+ 165</span> (+189, -24)</li>
+</ol>
+
+    
+    <div class="pager"><span class="pager-no">page 1 of 2</span><span class="current">1</span><span class="target"><a href="/top-rated-pages/p/2">2</a></span><span class="target"><a href="/top-rated-pages/p/2">next &raquo;</a></span></div>
+    
+    </div></div>
+</div>
+</div>
+<hr />
+<div class="extra">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Levels</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Levels</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/level-0">Level 0 - &quot;Tutorial Level&quot;</a> (+1109)</li>
+<li><a href="/level-404">level 404 - &quot;my dearly fragmented&quot;</a> (+410)</li>
+<li><a href="/joke-level-145">Joke Level 145</a> (+315)</li>
+<li><a href="/level-37">Level 37 - &quot;Sublimity&quot;</a> (+268)</li>
+<li><a href="/th3-sh4dy-gr3y">Unnumbered Level - &quot;Th3 Sh4dy Gr3y&quot;</a> (+235)</li>
+<li><a href="/joke-level-vibe">Joke Level 𝙫𝙞𝙗𝙚</a> (+223)</li>
+<li><a href="/level-3">Level 3 - &quot;Electrical Station&quot;</a> (+220)</li>
+<li><a href="/level-14">Level 14 - &quot;Paradise&quot;</a> (+215)</li>
+<li><a href="/level-5">Level 5 - &quot;Terror Hotel&quot;</a> (+215)</li>
+<li><a href="/joke-level-backroom">the backroom</a> (+202)</li>
+<li><a href="/level-4">Level 4 - &quot;Abandoned Office&quot;</a> (+195)</li>
+<li><a href="/level-200">Level 200 - &quot;Home&quot;</a> (+186)</li>
+<li><a href="/level-289">Level 289 - &quot;Overflow&quot;</a> (+181)</li>
+<li><a href="/the-frontrooms">Unnumbered Level - &quot;The Frontrooms&quot;</a> (+180)</li>
+<li><a href="/level-9">Level 9 - &quot;The Suburbs&quot;</a> (+179)</li>
+<li><a href="/level-906">Level 906 - &quot;The Cygnus Archive&quot;</a> (+172)</li>
+<li><a href="/level-28">Level 28 - &quot;Stormstone Keep&quot;</a> (+170)</li>
+<li><a href="/level-6">Level 6 - &quot;Lights Out&quot;</a> (+167)</li>
+<li><a href="/the-hub">Unnumbered Level - &quot;The Hub&quot;</a> (+158)</li>
+<li><a href="/level-256">Level 256 - &quot;Demoscene&quot;</a> (+158)</li>
+<li><a href="/level-263">Level 263 - &quot;Untextured&quot;</a> (+157)</li>
+<li><a href="/level-601">Level 601 - &quot;The End&quot;</a> (+153)</li>
+<li><a href="/blue-channel">Unnumbered Level - &quot;The Blue Channel&quot;</a> (+152)</li>
+<li><a href="/level-7">Level 7 - &quot;Thalassophobia&quot;</a> (+139)</li>
+<li><a href="/level-5-1">Level 5.1 - &quot;GRAND OPENING OF THE TERROR HOTEL CASINO&quot;</a> (+137)</li>
+<li><a href="/deleted-level-14">Unnumbered Level - &quot;Deleted Level 14&quot;</a> (+133)</li>
+<li><a href="/level-512">Level 512 - &quot;LEVEL_TEMPLATE&quot;</a> (+130)</li>
+<li><a href="/level-611">Level 611 - &quot;The maze, the creatures, the monster&quot;</a> (+128)</li>
+<li><a href="/level-999">Level 999</a> (+125)</li>
+<li><a href="/level-911">Level 911 - &quot;Set of Rules&quot;</a> (+125)</li>
+<li><a href="/level-756">Level 756 - &quot;On big island live only one cow.&quot;</a> (+125)</li>
+<li><a href="/joke-level-mild-hell">Joke Level Mild Hell</a> (+121)</li>
+<li><a href="/level-6-1">Level 6.1 - &quot;The Snackrooms&quot;</a> (+121)</li>
+<li><a href="/long-forgotten-exclamation">Unnumbered Level - &quot;A Long Forgotten Exclamation...&quot;</a> (+120)</li>
+<li><a href="/level-0-1">Level 0.1 - &quot;Zenith Station&quot;</a> (+117)</li>
+<li><a href="/level-503">Level 503 - &quot;!!THIS PAGE DOES NOT EXIST YET!!&quot;</a> (+116)</li>
+<li><a href="/level-69">Level 69 - &quot;The Road Trip of Affliction&quot;</a> (+116)</li>
+<li><a href="/level-53">Level 53 - &quot;Alone&quot;</a> (+115)</li>
+<li><a href="/level-71">Level 71 - &quot;Void Basement&quot;</a> (+115)</li>
+<li><a href="/level-12">Level 12 - &quot;Matrix&quot;</a> (+115)</li>
+<li><a href="/level-23">Level 23 - &quot;The Petrified Garden&quot;</a> (+113)</li>
+<li><a href="/level-1-3">Level 1.3 - &quot;Malignance&quot;</a> (+112)</li>
+<li><a href="/level-0-2">Level 0.2 - &quot;Remodeled Mess&quot;</a> (+112)</li>
+<li><a href="/level-1">Level 1 - &quot;Habitable Zone&quot;</a> (+111)</li>
+<li><a href="/level-8">Level 8 - &quot;Cave Systems&quot;</a> (+110)</li>
+<li><a href="/level-994">Level 994 - &quot;Exist Here&quot;</a> (+110)</li>
+<li><a href="/level-1-1">Level 1.1 - &quot;Corrupted Corridor&quot;</a> (+109)</li>
+<li><a href="/level-22">Level 22 - &quot;Ruins Left Behind&quot;</a> (+108)</li>
+<li><a href="/level-11-3">Level 11.3 - &quot;The Red Light District&quot;</a> (+105)</li>
+<li><a href="/level-365">Level 365 - &quot;Your Worst Enemy&quot;</a> (+105)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Entities</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Entities</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/entity-3">Entity 3 - &quot;Smilers&quot;</a> (+237)</li>
+<li><a href="/entity-140">Entity 140 - &quot;Blanche&quot;</a> (+224)</li>
+<li><a href="/entity-8">Entity 8 - &quot;Hound&quot;</a> (+194)</li>
+<li><a href="/nostalgi-gaius">Unnumbered Entity - &quot;Nostalgi Gaius&quot;</a> (+190)</li>
+<li><a href="/entity-18">Entity 18 - &quot;The Beast of Level 5&quot;</a> (+178)</li>
+<li><a href="/entity-10">Entity 10 - &quot;Skin-Stealer&quot;</a> (+168)</li>
+<li><a href="/entity-71">Entity 71 - &quot;The Red Knight&quot;</a> (+162)</li>
+<li><a href="/icarus-procidens">Unnumbered Entity - &quot;Icarus Procidens&quot;</a> (+147)</li>
+<li><a href="/entity-5">Entity 5 - &quot;Clump&quot;</a> (+132)</li>
+<li><a href="/entity-67">Entity 67 - &quot;Partygoers =)&quot;</a> (+127)</li>
+<li><a href="/entity-15">Entity 15 - &quot;Wretches&quot;</a> (+101)</li>
+<li><a href="/entity-27">Entity 27 - &quot;Athenian Ducks&quot;</a> (+100)</li>
+<li><a href="/entity-4">Entity 4 - &quot;Deathmoths&quot;</a> (+89)</li>
+<li><a href="/entity-180">Entity 180 - &quot;Berry&quot;</a> (+87)</li>
+<li><a href="/entity-106">Entity 106 - &quot;tgochi.exe&quot;</a> (+86)</li>
+<li><a href="/entity-26">Entity 26 - &quot;Samantha&quot;</a> (+86)</li>
+<li><a href="/joke-entity-xx">Joke Entity XX</a> (+83)</li>
+<li><a href="/entity-50">Entity 50 - &quot;The Numbed Man&quot;</a> (+83)</li>
+<li><a href="/joke-entity-666">Joke Entity 666</a> (+82)</li>
+<li><a href="/entity-29">Entity 29 - “Blub Cats”</a> (+80)</li>
+<li><a href="/entity-666">Entity 666 - “The HappyFiles Virus”</a> (+80)</li>
+<li><a href="/entity-500">Entity 500 - &quot;SPLIT(!)HEAD&quot;</a> (+78)</li>
+<li><a href="/entity-52">Entity 52 - &quot;Null-06&quot;</a> (+77)</li>
+<li><a href="/entity-99">Entity 99 - &quot;The Game Master&quot;</a> (+74)</li>
+<li><a href="/entity-72">Entity 72 - &quot;Man, Machine, My Dearest Creation&quot;</a> (+74)</li>
+<li><a href="/entity-33">Entity 33 - &quot;The King&quot;</a> (+71)</li>
+<li><a href="/entity-257">Entity 257 - &quot;The Sun over the Void&quot;</a> (+69)</li>
+<li><a href="/entity-12">Entity 12 - &quot;Dunks&quot;</a> (+69)</li>
+<li><a href="/entity-17">Entity 17 - &quot;Crawlers&quot;</a> (+68)</li>
+<li><a href="/entity-200">Entity 200 - &quot;my friends&quot;</a> (+67)</li>
+<li><a href="/entity-22">Entity 22 - &quot;Warning Kites&quot;</a> (+66)</li>
+<li><a href="/entity-128">Entity 128 - &quot;ΩMEGA&quot;</a> (+66)</li>
+<li><a href="/entity-23">Entity 23 - &quot;Unapproachable Horse&quot;</a> (+65)</li>
+<li><a href="/entity-84">Entity 84 - &quot;King Rasputin Bartholemew III&quot;</a> (+64)</li>
+<li><a href="/entity-185">Entity 185 - &quot;The Comedian&quot;</a> (+62)</li>
+<li><a href="/entity-198">Entity 198 - &quot;The Plush Dino&quot;</a> (+61)</li>
+<li><a href="/entity-40">Entity 40 - &quot;Reverse Defecation Bird&quot;</a> (+60)</li>
+<li><a href="/entity-155">Entity 155 - “This Meat is Gummy”</a> (+59)</li>
+<li><a href="/entity-75">Entity 75 - &quot;Wranglers&quot;</a> (+59)</li>
+<li><a href="/the-jaws-of-emendation">Unnumbered Entity - &quot;The Jaws of Emendation&quot;</a> (+58)</li>
+<li><a href="/entity-76">Entity 76 - &quot;What the hell is this?&quot;</a> (+57)</li>
+<li><a href="/entity-13">Entity 13 - &quot;Transporters&quot;</a> (+56)</li>
+<li><a href="/entity-720">Entity 720 - &quot;Tiny&quot;</a> (+56)</li>
+<li><a href="/entity-123">Entity 123 - &quot;Your Name Here&quot;</a> (+55)</li>
+<li><a href="/entity-135">Entity 135 - &quot;The Bellhopper&quot;</a> (+55)</li>
+<li><a href="/entity-999">Entity 999 - “Consciousness Disease”</a> (+53)</li>
+<li><a href="/entity-92">Entity 92 - &quot;Ferren&quot;</a> (+52)</li>
+<li><a href="/entity-365">Entity 365 - &quot;Sightless Seers&quot;</a> (+52)</li>
+<li><a href="/joke-entity-667">Joke Entity 667 - &quot;Satan&quot;</a> (+52)</li>
+<li><a href="/entity-35">Entity 35 - &quot;Light Guides&quot;</a> (+52)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Tales</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Tales</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/troubleshooting">troubleshooting</a> (+125)</li>
+<li><a href="/long-forgotten-exclamation">Unnumbered Level - &quot;A Long Forgotten Exclamation...&quot;</a> (+120)</li>
+<li><a href="/blackout">The Blackout</a> (+104)</li>
+<li><a href="/basics-of-the-backrooms-a-guide">Basics of the Backrooms; A Guide</a> (+94)</li>
+<li><a href="/blanche-net">Blanche.net</a> (+86)</li>
+<li><a href="/the-sun-vanished">The Sun Vanished</a> (+81)</li>
+<li><a href="/article-with-totally-great-ambience">Article with Totally Great Ambience</a> (+75)</li>
+<li><a href="/curiosity-killed-the-cat-comic">Curiosity Killed The Cat (Comic)</a> (+71)</li>
+<li><a href="/th">The Terminus</a> (+68)</li>
+<li><a href="/integration-point-symphony">Integration Point Symphony</a> (+58)</li>
+<li><a href="/vultures-in-the-paper-oasis">Vultures In The Paper Oasis</a> (+55)</li>
+<li><a href="/the-beginning-of-the-m-e-g">The Beginning Of The M.E.G.</a> (+55)</li>
+<li><a href="/infinity">INFINITY</a> (+54)</li>
+<li><a href="/stop-posting-about-the-backrooms">Stop Posting About The Backrooms</a> (+47)</li>
+<li><a href="/party-list">Party List</a> (+46)</li>
+<li><a href="/carrion-equus">Pray Carrion Equus</a> (+43)</li>
+<li><a href="/homewardbound-ch-1">Homeward Bound: Chapter 1</a> (+43)</li>
+<li><a href="/desolation-backrooms-guide">Desolation Backrooms Guide</a> (+42)</li>
+<li><a href="/an-encounter-longing">An Encounter Longing</a> (+42)</li>
+<li><a href="/archived-journals-of-lucy-fox">Archived Journals Of Lucy Fox</a> (+41)</li>
+<li><a href="/memories-in-binary">Memories In Binary</a> (+39)</li>
+<li><a href="/i-have-met-the-devil-and-his-name-is-garfield">I have met the devil, and his name is Garfield</a> (+39)</li>
+<li><a href="/the-crimson-family-part-i">The Crimson Family Part I</a> (+38)</li>
+<li><a href="/five-years-since-you-went-missing">Five Years Since You Went Missing</a> (+37)</li>
+<li><a href="/i-don-t-know-dear">I don't know, dear.</a> (+37)</li>
+<li><a href="/greyking-unparalleled">Greyking Unparalleled</a> (+37)</li>
+<li><a href="/annes-farewell">Anne's Farewell (3 of 3)</a> (+37)</li>
+<li><a href="/pillar-scribe">Silenced by the Wrath of a Guilty God</a> (+37)</li>
+<li><a href="/talking-with-quinoa-extended-episode-log">'Talking With Quinoa' - Extended Episode Log</a> (+36)</li>
+<li><a href="/damage-control">Damage Control</a> (+35)</li>
+<li><a href="/lost-and-found">Lost and Found Forum Thread</a> (+35)</li>
+<li><a href="/things-that-go-bump-in-the-light">Things That Go Bump In The Light</a> (+35)</li>
+<li><a href="/the-history-of-the-order">The History of the Order</a> (+35)</li>
+<li><a href="/fun-war-turning-point">Fun War - Turning Point</a> (+34)</li>
+<li><a href="/a-long-awaited-reunion">A Long Awaited Reunion</a> (+34)</li>
+<li><a href="/project-gaia">Project Gaia</a> (+34)</li>
+<li><a href="/houses-of-the-holy">Houses of the Holy</a> (+33)</li>
+<li><a href="/a-christmas-keyrol">‌A Christmas Keyrol</a> (+33)</li>
+<li><a href="/annes-lament">Anne's Lament (1 of 3)</a> (+33)</li>
+<li><a href="/level-250-extension">Level 250 Extended Document</a> (+33)</li>
+<li><a href="/chatroom">Chatroom</a> (+33)</li>
+<li><a href="/apeshit">DON'T YOU WANT TO GO FUCKING APESHIT</a> (+32)</li>
+<li><a href="/entity-64">Entity 64 - &quot;The Puzzle Maker&quot;</a> (+32)</li>
+<li><a href="/entryway">Entryway</a> (+32)</li>
+<li><a href="/spilled-blilk">Don't Cry Over Spilled Blilk</a> (+32)</li>
+<li><a href="/blanches-halloween-party">Blanche’s Halloween Party</a> (+32)</li>
+<li><a href="/the-snake-crawls-part-1">The Snake Crawls Part 1: Walk In The Mono-Yellow Park</a> (+32)</li>
+<li><a href="/city-boy">City Boy</a> (+32)</li>
+<li><a href="/jun-17-1993">Jun 17 1993</a> (+32)</li>
+<li><a href="/testing-log-black-knights-recovered-item-01-instance-24">Testing Log: Black Knights Recovered Item 01, Instance 24</a> (+32)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Objects</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Objects</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/object-40">Object 40 - &quot;The Backrooms TCG&quot;</a> (+129)</li>
+<li><a href="/object-1">Object 1 - &quot;Almond Water&quot;</a> (+108)</li>
+<li><a href="/object-15">Object 15 - &quot;Firesalt&quot;</a> (+92)</li>
+<li><a href="/object-77">Object 77 - &quot;Involuntarily Portable Radio&quot;</a> (+86)</li>
+<li><a href="/object-74">Object 74 - &quot;Warpberries!&quot;</a> (+85)</li>
+<li><a href="/object-2">Object 2 - &quot;Level Keys&quot;</a> (+85)</li>
+<li><a href="/object-16">Object 16 - &quot;Royal Rations&quot;</a> (+84)</li>
+<li><a href="/object-365">Object 365 - &quot;Seer Tea&quot;</a> (+78)</li>
+<li><a href="/object-95">Object 95 - &quot;Temporal Apotheosis&quot;</a> (+72)</li>
+<li><a href="/object-56">Object 56 - “Ultimate Backrooms Cookbook”</a> (+70)</li>
+<li><a href="/object-9">Object 9 - &quot;Dumb Gum&quot;</a> (+69)</li>
+<li><a href="/joke-object-245">Joke Object 245 - &quot;Bagel&quot;</a> (+69)</li>
+<li><a href="/object-28">Object 28 - “Lucky O’ Milk”</a> (+68)</li>
+<li><a href="/object-24">Object 24 - &quot;Wall Masks&quot;</a> (+67)</li>
+<li><a href="/object-92">Object 92 — &quot;ClipSkips!&quot;</a> (+65)</li>
+<li><a href="/object-42">Object 42 - &quot;Lightning In a Bottle&quot;</a> (+62)</li>
+<li><a href="/object-17">Object 17 - &quot;Liquid Silence&quot;</a> (+60)</li>
+<li><a href="/joke-object-47">Joke Object 47 - &quot;the stupidest thing I've ever heard&quot;</a> (+59)</li>
+<li><a href="/object-32">Object 32 - &quot;Reality Fresheners&quot;</a> (+57)</li>
+<li><a href="/object-86">Object 86 - &quot;Reality Lag Machine&quot;</a> (+56)</li>
+<li><a href="/object-100">Object 100 - “Super Almond Water”</a> (+55)</li>
+<li><a href="/object-99">Object 99 - &quot;Hermes Device&quot;</a> (+54)</li>
+<li><a href="/object-21">Object 21 - &quot;Wi-Fi&quot;</a> (+54)</li>
+<li><a href="/object-51">Object 51 - &quot;Pockets&quot;</a> (+53)</li>
+<li><a href="/object-3">Object 3 - &quot;Smiler Repellent&quot;</a> (+53)</li>
+<li><a href="/object-48">Object 48 - &quot;Liquid Pain&quot;</a> (+52)</li>
+<li><a href="/object-5">Object 5 - &quot;Candy&quot;</a> (+52)</li>
+<li><a href="/object-96">Object 96 - &quot;Blanche's Gifts&quot;</a> (+51)</li>
+<li><a href="/object-19">Object 19 - &quot;Squirt Gun&quot;</a> (+51)</li>
+<li><a href="/object-80">Object 80 - &quot;Retributors&quot;</a> (+49)</li>
+<li><a href="/object-35">Object 35 - &quot;Dark Reparation Vials&quot;</a> (+49)</li>
+<li><a href="/object-216">Object 216 - &quot;Hyrum Lanterns&quot;</a> (+48)</li>
+<li><a href="/object-85">Object 85: &quot;Agrugua Fruit&quot;</a> (+48)</li>
+<li><a href="/object-30">Object 30 - &quot;Greasy Marshmallows&quot;</a> (+45)</li>
+<li><a href="/object-6">Object 6 - &quot;The Mirror&quot;</a> (+44)</li>
+<li><a href="/object-7">Object 7 - &quot;Memory Jars&quot;</a> (+44)</li>
+<li><a href="/object-50">Object 50 - &quot;Voidstone&quot;</a> (+43)</li>
+<li><a href="/object-88">Object 88 - &quot;The Apocrypha Flute&quot;</a> (+43)</li>
+<li><a href="/object-98">Object 98 - &quot;To Those Who've Hollowed&quot;</a> (+42)</li>
+<li><a href="/object-57">Object 57 - &quot;Crimson Map&quot;</a> (+40)</li>
+<li><a href="/object-94">Object 94: &quot;Back OS™&quot;</a> (+39)</li>
+<li><a href="/object-47">Object 47 - &quot;BackROM&quot;</a> (+39)</li>
+<li><a href="/object-43">Object 43 - &quot;Tarot Decks&quot;</a> (+39)</li>
+<li><a href="/object-11">Object 11 - &quot;Ghost Lights&quot;</a> (+38)</li>
+<li><a href="/object-8">Object 8 - &quot;Lamps&quot;</a> (+38)</li>
+<li><a href="/object-55">Object 55 - &quot;Darling, please stay alive.&quot;</a> (+37)</li>
+<li><a href="/object-25">Object 25 - &quot;Babel Balm&quot;</a> (+37)</li>
+<li><a href="/object-59">Object 59 - &quot;Prayer Glass&quot;</a> (+36)</li>
+<li><a href="/object-82">Object 82 - &quot;Sage Crystals&quot;</a> (+35)</li>
+<li><a href="/object-10">Object 10 - &quot;Scarecrows&quot;</a> (+35)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;POIs</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;POIs</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/a-river">A. River</a> (+83)</li>
+<li><a href="/lines-please">Notable Person - The Actor</a> (+70)</li>
+<li><a href="/partygoer-zero">Partygoer Zero</a> (+68)</li>
+<li><a href="/joey-q">&amp;Ã£é‰9jöè Q_¶Ã©w¾¥ &quot;or&quot; 1'=1'</a> (+55)</li>
+<li><a href="/tom-von-haderach">Tom Von Haderach</a> (+52)</li>
+<li><a href="/kimiko">Kimiko</a> (+50)</li>
+<li><a href="/eden-g">Eden G</a> (+50)</li>
+<li><a href="/janus">Janus</a> (+43)</li>
+<li><a href="/spec">Spec</a> (+41)</li>
+<li><a href="/evangeline-holmes">Evangeline Holmes</a> (+41)</li>
+<li><a href="/dr-mr-awsome-and-cool">Dr Mr Awsome And Cool</a> (+38)</li>
+<li><a href="/pillar-scribe">Silenced by the Wrath of a Guilty God</a> (+37)</li>
+<li><a href="/james-a-garfield">James A. Garfield</a> (+34)</li>
+<li><a href="/the-ghost-killer">The Ghost Killer</a> (+33)</li>
+<li><a href="/the-augur">The Augur</a> (+32)</li>
+<li><a href="/fogel">FOGEL</a> (+31)</li>
+<li><a href="/herne-the-huntmaster">Herne The Huntmaster</a> (+31)</li>
+<li><a href="/bill">Person of Interest - &quot;Bill&quot;</a> (+31)</li>
+<li><a href="/johnny-mason">Johnny Mason</a> (+31)</li>
+<li><a href="/callum-andrews">Callum Andrews</a> (+30)</li>
+<li><a href="/the-heretic">The Heretic</a> (+30)</li>
+<li><a href="/panda">Panda</a> (+28)</li>
+<li><a href="/father-pigeon">Father Pigeon</a> (+26)</li>
+<li><a href="/leo-castellos">Leo Castellos</a> (+26)</li>
+<li><a href="/philia">Ode to Love</a> (+24)</li>
+<li><a href="/ironsoul-the-trickster-prophet">Ironsoul, The Trickster Prophet</a> (+24)</li>
+<li><a href="/ryan-scrawling">Ryan Scrawling</a> (+24)</li>
+<li><a href="/gani">Gani</a> (+23)</li>
+<li><a href="/the-alchemist">The Alchemist</a> (+22)</li>
+<li><a href="/the-rat-master">The Rat Master</a> (+22)</li>
+<li><a href="/the-intruder">The Intruder</a> (+21)</li>
+<li><a href="/xavier-cooper">Xavier Cooper</a> (+20)</li>
+<li><a href="/maria">Maria</a> (+20)</li>
+<li><a href="/j-doe">J. Doe</a> (+19)</li>
+<li><a href="/the-catalyst">The Catalyst</a> (+18)</li>
+<li><a href="/nyx">Nyx</a> (+18)</li>
+<li><a href="/aiko-sato">Aiko Sato</a> (+18)</li>
+<li><a href="/poi-s">Persons of Interest</a> (+18)</li>
+<li><a href="/the-warren-jester">The Warren Jester</a> (+17)</li>
+<li><a href="/caspianlangellier">Caspian Langellier</a> (+15)</li>
+<li><a href="/the-tarantula">The Tarantula</a> (+15)</li>
+<li><a href="/kubileya-shepherdess">Kubileya/Shepherdess</a> (+12)</li>
+<li><a href="/m-guevara">Mr. Guevara</a> (+10)</li>
+<li><a href="/lucy-chabar">Lucy Chabar</a> (+3)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Rooms</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Rooms</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Joke&nbsp;Entries</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Top&nbsp;Rated&nbsp;Joke&nbsp;Entries</a></div>
+<div class="collapsible-block-content"><div class="list-pages-box">    
+
+<ol>
+<li><a href="/joke-level-145">Joke Level 145</a> (+315)</li>
+<li><a href="/joke-level-vibe">Joke Level 𝙫𝙞𝙗𝙚</a> (+223)</li>
+<li><a href="/joke-level-backroom">the backroom</a> (+202)</li>
+<li><a href="/how-to-get-a-greenlight">How to Get a Greenlight (100% Real No Fake)</a> (+154)</li>
+<li><a href="/joke-level-mild-hell">Joke Level Mild Hell</a> (+121)</li>
+<li><a href="/joke-phenomenon-5">Joke Phenomenon 5 - &quot;Yes-clipping&quot;</a> (+101)</li>
+<li><a href="/joke-level-818">Joke Level 818</a> (+94)</li>
+<li><a href="/joke-level-xxx">Joke Level XXX</a> (+90)</li>
+<li><a href="/joke-entity-xx">Joke Entity XX</a> (+83)</li>
+<li><a href="/joke-entity-666">Joke Entity 666</a> (+82)</li>
+<li><a href="/article-with-totally-great-ambience">Article with Totally Great Ambience</a> (+75)</li>
+<li><a href="/joke-object-245">Joke Object 245 - &quot;Bagel&quot;</a> (+69)</li>
+<li><a href="/joke-level-100">Joke Level 100 - &quot;Washing Machine&quot;</a> (+59)</li>
+<li><a href="/joke-object-47">Joke Object 47 - &quot;the stupidest thing I've ever heard&quot;</a> (+59)</li>
+<li><a href="/joke-very-important-level-document">Joke Level Very Important Level Document</a> (+56)</li>
+<li><a href="/joke-phenomenon-27">Joke Phenomenon 27 - &quot;Google Translate is Helpful Sometimes&quot;</a> (+53)</li>
+<li><a href="/joke-entity-667">Joke Entity 667 - &quot;Satan&quot;</a> (+52)</li>
+<li><a href="/joke-entity-418">Joke Entity 418 - &quot;Of Coffee And Criminals&quot;</a> (+49)</li>
+<li><a href="/joke-scrimblo-catalog">Joke Entity 9.9+1e70 - &quot;scrimblo catalog&quot;</a> (+48)</li>
+<li><a href="/stop-posting-about-the-backrooms">Stop Posting About The Backrooms</a> (+47)</li>
+<li><a href="/miitfs">Joke Phenomenon Pending Title</a> (+44)</li>
+<li><a href="/joke-level-blancherooms">Joke Level The Blancherooms</a> (+44)</li>
+<li><a href="/joke-gerald">Joke Entity Gerald</a> (+42)</li>
+<li><a href="/dr-mr-awsome-and-cool">Dr Mr Awsome And Cool</a> (+38)</li>
+<li><a href="/joke-vibe-guardians">Joke Entity - &quot;𝙑𝙞𝙗𝙚 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝙨&quot;</a> (+38)</li>
+<li><a href="/james-a-garfield">James A. Garfield</a> (+34)</li>
+<li><a href="/spilled-blilk">Don't Cry Over Spilled Blilk</a> (+32)</li>
+<li><a href="/blancherooms-supplementary-interview-logs">Blancherooms Supplementary Interview Logs</a> (+31)</li>
+<li><a href="/ad-astronaut">Ad Astronaut</a> (+27)</li>
+<li><a href="/joke-level-canal">Joke Unnumbered Level - &quot;Canal&quot;</a> (+26)</li>
+<li><a href="/spilled-blilk-2">Don't Cry Over Spilled Blilk 2: Blilklectric Blilkaloo (feat. Smash Mouth)</a> (+25)</li>
+<li><a href="/secret-personal-info">SECRET PERSONAL INFO</a> (+24)</li>
+<li><a href="/great-tofu-history">The Great History of Tofu</a> (+22)</li>
+<li><a href="/oneshot">THIS WAS WRITTEN AS A JOKE DON'T JUDGE ME FOR THIS YOU DON'T GET TO JUDGE ME FOR THIS</a> (+21)</li>
+<li><a href="/balloony-tunes">Balloony Tunes</a> (+16)</li>
+<li><a href="/three-plus-one">3+1</a> (+13)</li>
+<li><a href="/joke-byt-pl-2">Joke Entity PL-2 – &quot;Fly&quot;</a> (+12)</li>
+</ol>
+
+    
+    
+    
+    </div></div>
+</div>
+</div>
+</div>
+
+
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_sys#pages">_sys</a><a href="/system:page-tags/tag/hub#pages">hub</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 25, last edited: <span class="odate time_1745722782 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">27 Apr 2025 02:59</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+20</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-13852989/top-rated-pages" class="btn btn-default" id="discuss-button">Discuss (3)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

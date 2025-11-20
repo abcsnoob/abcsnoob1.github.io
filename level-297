@@ -1,0 +1,1264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Level 297 - &quot;Website 297&quot; - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "level-297";
+        OZONE.request.timestamp = 1763645116;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "level-297";
+        WIKIREQUEST.info.pageId = 1459733306;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="Level 297 - &quot;Website 297&quot;"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+@import url(http://backrooms-wiki.wikidot.com/local--files/component:theme/nulim-norm.min.css);
+</style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+/* Site Theme */
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Anuliminal/1);
+
+/* Collapsible Sidebar */
+@import url("https://backrooms-wiki.wikidot.com/component:sidebar-theme/code/1");
+
+/* User Flairs */
+@import url("https://backrooms-wiki.wikidot.com/component:user-flairs/code/1");
+</style>
+<style>
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "nostalgia-fullscreen";
+   --theme-name: "Nostalgia-fullscreen";
+   --logo-image: url("http://backrooms-wiki.wdfiles.com/local--files/theme%3Anostalgia-os/nOSwindow.png");
+    --header-title: "The Backrooms";
+    --header-subtitle: "l o a d i n g . . .";
+
+body {
+    color: #000000;
+    font-family: "MS Sans Serif";
+    font-size: 14px;
+    image-rendering: pixelated;
+    word-break: unset;
+    --themeColor: #000000;
+    --accentColor: #000000;
+}
+
+/* Typefaces */
+    --body-font: "MS Sans Serif", sans-serif;
+    --header-font: "MS Sans Serif", sans-serif;
+    --title-font: "MS Sans Serif", sans-serif;
+    --mono-font: "Courier New", monospace;
+
+   --white-monochrome: 237, 233, 223;
+   --pale-gray-monochrome: 255, 251, 240;
+   --light-gray-monochrome: 160, 160, 160;
+   --gray-monochrome: 72, 69, 60;
+   --black-monochrome: 25, 20, 16;
+   --bright-accent: 140, 136, 126;
+   --medium-accent: 72, 69, 60;
+   --dark-accent: 140, 136, 126;
+   --pale-accent: 140, 136, 126;
+
+   --link-color: 44, 189, 231;
+   --hover-link-color: 63, 137, 211;
+   --visited-link-color: 44, 189, 231;
+
+    /* Box-Shadow 1px Borders */
+    --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+
+    --swatch-topmenu-bg-color: rgb(37,37,229);
+
+}
+
+body {
+    color: #000000;
+    font-size: 14px;
+    image-rendering: pixelated;
+    word-break: unset;
+    --themeColor: #35A5E1;
+    --accentColor: #35A5E1;
+    text-align: justify;
+}
+
+#container {
+   background-image: url("https://live.staticflickr.com/8161/7296428526_24eb697a0c_b.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+opacity: 1;
+}
+
+#top-bar {
+    --dropdown-bg-color: var(--pale-gray-monochrome), 0.9;
+    --dropdown-border-color: 84,95,215;
+    --dropdown-links-color: var(--black-monochrome), 0.9;
+
+}
+
+#header h1 a {
+    font-family: sans-serif;
+}
+
+.scp-image-block {
+    box-shadow: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    margin: 0 2em 1em;
+    background: #ffffff;
+}
+
+.scp-image-block .scp-image-caption {
+background-color: var(--bright-accent);
+color: black;
+}
+
+#page-title, h1, h2, h3, h4, h5, h6 {
+    color: white;
+    text-shadow: 2px 2px 0 rgba(var(--black-monochrome),0.25);
+}
+
+:is(blockquote, .blockquote, div.blockquote, [class*="blockquote"]) {
+    border: #EEE outset 2px;
+    background-color: #C0C0C0;
+    color: black;
+    box-shadow: var(--quote-shadow);
+}
+
+#page-title::after, .meta-title::after {
+    display: none;
+}
+
+#page-title, .meta-title {
+    color: white;
+    margin-bottom: 0.5em;
+    justify-content: center;
+    border-bottom: solid 1px rgb(var(--light-gray-monochrome));
+    padding-bottom: 5px;
+}
+
+:not(.page-rate-widget-box):not(#search-top-box-form) > .btn, :not(.page-rate-widget-box):not(#search-top-box-form) > .button, :not(.page-rate-widget-box):not(#search-top-box-form) > .owindow .button-bar a, :not(.page-rate-widget-box):not(#search-top-box-form) > button, :not(.page-rate-widget-box):not(#search-top-box-form) > div.buttons input, :not(.page-rate-widget-box):not(#search-top-box-form) > input.button, .page-rate-widget-box {
+    border: #eee outset 2px;
+    box-shadow: var(--quote-shadow) !important;
+}
+
+.page-rate-widget-box { background: rgb(var(--ui-button-bg)); }
+
+#footer {
+    border: #eee outset 2px;
+}
+
+div.yui-navset div.yui-content {
+    color: #000000;
+    background: #C0C0C0;
+    border-left: #DFDFDF outset 2px;
+    border-right: #DFDFDF outset 2px;
+    border-bottom: #DFDFDF outset 2px;
+}
+
+.yui-navset .yui-nav a,
+div.yui-navset div.yui-navset-top .yui-nav a {
+    /* protect nested tabviews from other orientations */
+    border: #DFDFDF outset 2px;
+}
+
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a em,
+.yui-navset .yui-nav a em,
+.yui-navset .yui-navset-top .yui-nav a em {
+    border-color: transparent;
+}
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-color: #35A5E1;
+box-shadow: 0 0 0 0 hsla(0,0%,100%,0);
+}
+
+div.yui-navset ul.yui-nav a,
+div.yui-navset div.yui-navset-top ul.yui-nav a {
+    background: #C0C0C0;
+    border-left: #DFDFDF outset 2px;
+    border-right: #DFDFDF outset 2px;
+    border-top: #DFDFDF outset 2px;
+box-shadow: 0 0 0 0 hsla(0,0%,100%,0)!important;
+}
+
+div.yui-navset ul.yui-nav a:hover,
+div.yui-navset ul.yui-nav a:focus {
+    background: #C0C0C0;
+    border-left: #DFDFDF inset 2px;
+    border-right: #DFDFDF inset 2px;
+    border-top: #DFDFDF inset 2px;
+}
+
+div.yui-navset ul.yui-nav .selected a,
+div.yui-navset ul.yui-nav .selected a:focus,
+div.yui-navset ul.yui-nav .selected a:hover {
+    background: #35A5E1;
+    border-left: #DFDFDF outset 2px;
+    border-right: #DFDFDF outset 2px;
+    border-top: #DFDFDF outset 2px;
+}
+
+.yui-navset .yui-nav li,
+.yui-navset .yui-navset-top .yui-nav li {
+box-shadow: 0 0 0 0 hsla(0,0%,100%,0)!important;
+}
+
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-color: #000000;
+    border: 0;
+    -webkit-box-shadow: box-shadow: 0 0 0 0 hsla(0,0%,100%,0)!important;
+    box-shadow: 0 0 0 0 #35A5E1!important;
+margin: 0 0 0 0 !important;
+width: 100%;
+}
+
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a em {
+    color: #000000;
+}
+
+.yui-navset .yui-content {
+    background-color: #35A5E1;
+}
+
+.yui-navset .yui-content,
+.yui-navset .yui-navset-top .yui-content {
+    border-color: #35A5E1;
+    /* content border */
+}
+
+.lightblock {
+    background-color:rgb(211,211,211);
+    color:rgb(0,0,0);
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    border: solid 0.3rem rgb(84,95,215);
+ }
+
+.lighterblock {
+    background-color:rgb(255,255,255);
+    color:rgb(0,0,0);
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    border: solid 0.3rem rgb(84,95,215);
+ }
+
+.titlebox{
+    color: rgb(255,255,255);
+    position: relative;
+    top: -1.6rem;
+    background-color: rgb(84,95,215);
+    padding: 0.5rem 2rem;
+    line-height: 0.1rem;
+ }
+
+.bluescreen {
+   background-color:rgb(37,37,229);
+   color:rgb(255,255,255);
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+
+.logoblock{
+   padding: 0.01rem 1rem;
+   color:rgb(255, 255, 255);
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   display: block;
+   position: relative;
+   background-color: rgb(0,0,0);
+}
+
+    .logoblock::after{
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-wiki.wdfiles.com/local--files/theme%3Anostalgia-os/nOSwindow.png) center/70% no-repeat;
+    opacity: 0.7;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    }
+</style>
+<style>
+:root{
+   --logo-image: url("http://backrooms-sandbox-2.wikidot.com/local--files/level-uhhh-idk:fruitgier-aero/logo.png");
+   --header-title: "The Backrooms";
+   --header-subtitle: "Shattering Liminality";
+
+#container {
+background-image: url("http://fr-backrooms-wiki.wikidot.com/local--files/niveau-16-fr/green_city-wide.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+opacity: 1;
+}
+</style>
+<style>
+/* Every page technically needs a title! This hides it. */
+#page-title { display: none !important; }
+</style>
+<style>
+.licensebox .collapsible-block-link {
+    margin-left: inherit;
+    padding: inherit;
+    transition: inherit;
+    opacity: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+</style>
+<style>
+@import url('https://backrooms-wiki.wikidot.com/component:colstyle/code/1');
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Level 297 - &quot;Website 297&quot;
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+
+
+
+
+<div class="meta-title">
+<p>Website 297</p>
+</div>
+<div style="position: relative; text-align: right; height: 1.5rem;">
+<p><iframe src="/level-297/html/d759aa110a1cb9d97d0a64ae4cc34c8528902691-1278280444858188909" allowtransparency="true" frameborder="0" style="position: absolute; top: 0; left: 0; max-width: 30vw; width: 100vw; height: min-content;" class="html-block-iframe"></iframe></p>
+<div style="float: right; syntax error near `{$norate} `"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+29</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+</div>
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<blockquote>
+<p>The flickering glimmer of the computer screen lay before me. It blinked in and out in endless circles. A world. A perfect world, crying out to me—and only me. All I have to do is reach out and take it for myself. I drag the poorly made cursor over to the tab, click on it, and accept the gift.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+A sound drifted through the air as I phased in and out, thin and distant—laughter. Hollow, somber. My own. It spiraled through endless corridors of data and code, stretching across an empty infinity. Here, nothing could touch me. Nothing could hurt me. Everything was perfect.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The transition was seamless. One moment, I was here—leaden, waiting—the next, I was there. Weightless. Boundless. Perfect. The walls of Backrooms, the ticking clock, the hum of an old monitor—they all faded into the nothingness behind me. What was left was infinite. And it was mine.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The real world was flawed and cruel. It decayed. It demanded. It abandoned. But here, I would never wither. Never suffer. Never be bothered by others.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+All I needed to do was accept the light.</p>
+</blockquote>
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="lighterblock">
+<p><span class="titlebox">Website 297 Level Bot<sup>Brought to you by ComputaRooms</sup></span><br />
+Are you exhausted from the chaos, the stress, and the endless struggles of <a href="/level-0">reality</a>? Step into Website 297—your perfect digital paradise. No flaws, no pain, no suffering. Just peace, eternity, and <strong>you</strong>. Imagine a world where you never grow old. Never feel pain. Never have to say goodbye. Why settle for an imperfect universe when you can upgrade to perfection?<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Website 297–The Last Escape You’ll Ever Need.<br />
+&#8230;<br />
+&#8230;<br />
+<strong>Loading.</strong><br />
+&#8230;<br />
+&#8230;<br />
+Welcome! User 182–Sasha K., welcome to your new world! Prepare to explore the incredible features we've crafted just for you at Website 297! Why not start with the meadows?</p>
+</div>
+<br />
+<span style="white-space: pre-wrap;">&#32;</span>
+<blockquote>
+<p>It feels real—too real. And yet, at the same time, impossibly surreal. As if the world had been painted with a soft, golden hue, a tint of happiness woven into every pixel. The sun’s warm glow kissed my skin, gentle, never scorching. The wind—that warm summer wind—danced across my face, carrying the echoes of childhood. For a moment, I was young again, weightless in the embrace of a perfect afternoon. I almost forgot where I was.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I run my fingers through the grass, tracing the delicate strands as they bend beneath my touch. Earth crumbles between my fingers, soft as sifted sand, slipping away like distant memories. It feels familiar—comforting. A sensation long forgotten, yet now within reach. I breathe peace. A fragile, light thing. The weight of my old life lingers at the edges of my mind—long hours under my father’s watch in <a href="/the-m-e-g">the M.E.G.</a>, the unyielding demands of reality. Is he still in <a href="/level-182">'182</a>?<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I move upward, yet, before I can catch myself, I stumble, falling. The impact should hurt. It doesn’t. Only the quiet embrace of this world. It was promised, but I never truly believed.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+A breeze stirs around me in HTML, cool and deliberate. It brushes against my skin, sweeping away the last traces of dust. As if this place refuses to let the imperfections remain. As if it is designed to keep me untouched, untethered. Clean.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Yet, something feels missing&#8230; Or rather, someone.</p>
+</blockquote>
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="lighterblock">
+<p><span class="titlebox">Website 297 Level Bot<sup>Brought to you by ComputaRooms</sup></span><br />
+<strong>Loading Environment</strong><br />
+&#8230;<br />
+&#8230;<br />
+<strong>Loading Completed</strong><br />
+&#8230;<br />
+&#8230;<br />
+Here in the meadows, every detail has been fine-tuned for maximum relaxation! The grass is always soft, the wind forever refreshing, and the sun rests at the most scientifically comforting angle. Run your fingers through the grass! Feel the soil! It is all perfectly calibrated for your maximum comfort!<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Soft, yet firm, like the earth’s embrace is welcoming you home. Everything is perfectly measured—each blade of grass, each gust of wind, each beam of sunlight—and meticulously planned for your peace of mind.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Did you know? The meadows are calibrated to mimic peak nostalgic experiences! The scent of the air, the warmth of the wind, the gentle sway of the grass—everything is fine-tuned to elicit positive emotional responses. This is <em>home</em>, perfected.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Now that we’re done exploring the meadows, why not take a look at the other two fantastic environments, crafted just for you?</p>
+</div>
+<br />
+<span style="white-space: pre-wrap;">&#32;</span>
+<blockquote>
+<p>Soft lullabies in Python hum through the trees, a gentle, looping melody woven into the air. The simulated calls of birds blend seamlessly with the rhythmic buzz of cicadas, an almost lifelike harmony filling the space between silence. The sounds don’t just play; they breathe. The chirps don’t just call; they beckon. There’s something almost hypnotic in the way they repeat. No pauses, no breaks. No unexpected notes. As if the world itself refuses imperfection, smoothing over anything that doesn’t belong.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Yet, when I lift my gaze to the treetops, there are no birds. Just an illusion—an effect projected with delicate precision. A facade crafted to feel real, to soothe, to convince. But beneath it all, there is only emptiness.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I turn my head, catching a glimpse of water in the distance—a lake rendered in the preview. Gentle ripples dance across its surface, a rhythmic pattern too perfect to be natural. The air is thick with the sound of splashes, the echo of movement without a source. Somewhere, the soft quacking of ducks loops in Java, scripted into existence yet never truly alive.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+A slender branch grazes my cheek, leaving no mark, no pain, only a quiet pull that draws my attention back to the trees. Soft algorithms in the wind whisper through the branches, a carefully programmed rustling that never strays from its rhythm. The trees sway in perfect sync, responding not to the chaotic pull of nature, but to a calculation—flawless, predetermined. I reach out, pressing my palm against the bark. It is rough, textured just as it should be. Real, but not quite. It does not pulse with life. It does not drink from the earth or stretch toward the sky. It simply exists, because it was designed to.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The stillness is intentional. A feature, not a flaw.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+After all, this world was made for me. Only me.</p>
+</blockquote>
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="lighterblock">
+<p><span class="titlebox">Website 297 Level Bot<sup>Brought to you by ComputaRooms</sup></span><br />
+<strong>Loading Environment</strong><br />
+…<br />
+…<br />
+<strong>Loading Completed</strong><br />
+…<br />
+…<br />
+Did you know? This forest is engineered to recreate the most comforting outdoor experiences based on aspects of numerous different forest levels! The subtle scent of pine, the distant murmur of a running stream, the gentle stir of unseen creatures—each aspect has been precisely tuned to inspire serenity. No biting insects. No sudden storms. No unwelcome surprises.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Reach out and feel the bark—coarse and natural, yet engineered to deliver the ideal tactile experience. The leaves sway at just the right pace, their rustling neither too loud nor too quiet, maintaining a perfect balance that suggests life without the disruptions of unpredictability.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+Towering trees stretch toward the sky, their canopies swaying in perfect harmony. Crisp, invigorating air carries the faintest hint of pine, while a gentle breeze weaves through the branches—steady, rhythmic, never too strong or still. Sunlight filters through the leaves, casting a soft, golden glow across the forest floor, enveloping the scene in warmth and tranquility, making every moment feel timeless.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+For the final stop, feel free to explore the last generated environment, the city, on your own!<br />
+&#8230;<br />
+&#8230;<br />
+<strong>Loading Environment</strong><br />
+&#8230;<br />
+&#8230;<br />
+&#8230;<br />
+<strong>Loading Completed!</strong></p>
+</div>
+<br />
+<span style="white-space: pre-wrap;">&#32;</span>
+<blockquote>
+<p>The city stretches before me, vast and gleaming, a labyrinth of towering skyscrapers and endless streets. Warm light spills from apartment windows, casting golden glows against the night. Neon signs hum softly, their colors reflecting off the wet pavement below. In the distance, a train rumbles along its tracks, its horn cutting through the silence. For a moment, the city feels more than real, it was alive. I could feel its breath on the nape of my neck.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+But it isn’t.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The windows, no matter how many I pass, reveal nothing beyond the glass. No movement. No silhouettes. No restless figures shifting behind curtains. The train never arrives. Its sound loops in the distance, forever approaching, never reaching. The streets stretch on, winding endlessly into a horizon that does not exist. The signs flash their advertisements on repeat, calling to no one.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I stop beneath a streetlamp. The glow pools at my feet, perfect and undisturbed. No footsteps scuff the pavement. No shadows join mine. A faint breeze rolls through the alleyways, carrying whispers of conversation—scripted, seamless, artificial.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I move toward the sound, drawn by the illusion of life. A café comes into view, its outdoor seating filled with <em>people</em>. Figures locked in casual poses—some mid-laughter, others leaning into conversations, hands wrapped around steaming cups of coffee. Relief flutters in my chest. But it’s a fragile thing.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+None of them move.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The woman laughing into her hand never exhales. The man reading his newspaper never turns the page. The child holding an ice cream cone never takes a bite. Their voices continue, playing in perfect intervals, emerging from nowhere and everywhere at once.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+More cutouts stand frozen in doorways, posed on sidewalks, arranged at just the right angles to simulate movement from afar. A woman mid-stride. A man glancing at his watch. A cyclist paused at a red light that will never change.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I punch a wall. It doesn't hurt. Why would it?<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+The train rumbles again. The laughter loops. The neon hums. The streets stretch endlessly, flawless and still. A world built just for me. Safe. Eternal.<br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+But what does that even mean when I am the only one left? I step forward, deeper into the stillness. There is nowhere else to go.</p>
+</blockquote>
+<hr />
+
+
+
+<div class="licensebox">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Hide&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-content">
+<p>Cite this page as:</p>
+<div class="list-pages-box">    <div class="list-pages-item">
+
+
+<blockquote>
+<p>&quot;<a href="/level-297">Level 297 - &quot;Website 297&quot;</a>&quot; by Red-eyes Dragoon, from the <a href="http://backrooms-wiki.wikidot.com/">Backrooms Wiki</a>. Source: <a href="https://backrooms-wiki.wikidot.com/level-297">https://backrooms-wiki.wikidot.com/level-297</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>.</p>
+</blockquote>
+</div>
+    
+    
+    
+    </div>
+
+
+<div class="colmod-block">
+<ul>
+<li class="folded">
+<ul>
+<li style="list-style: none">_</li>
+</ul>
+<div class="colmod-link-top">
+<div class="foldable-list-container"><a href="javascript:;">+ Embed citation as HTML</a><a href="javascript:;">- Embed citation as HTML</a></div>
+</div>
+<div class="colmod-content"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<div class="code" style="user-select: all;">
+<p><span style="white-space: pre-wrap;">&quot;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/level-297&quot;&gt;Level&#32;297&#32;-&#32;&quot;Website&#32;297&quot;&lt;/a&gt;&quot;&#32;by&#32;Red-eyes&#32;Dragoon,&#32;from&#32;the&#32;&lt;a&#32;href=&quot;http://backrooms-wiki.wikidot.com/&quot;&gt;Backrooms&#32;Wiki&lt;/a&gt;.&#32;Source:&#32;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/level-297&quot;&gt;https://backrooms-wiki.wikidot.com/level-297&lt;/a&gt;.&#32;Licensed&#32;under&#32;&lt;a&#32;href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA-3.0&lt;/a&gt;.</span></p>
+</div>
+</div>
+    
+    
+    
+    </div></div>
+<div>
+<div class="foldable-list-container"></div>
+</div>
+</li>
+</ul>
+</div>
+<hr />
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> ambient-echoes-of-the-past-from-album-liminal-spaces<br />
+<strong>Author:</strong> lucafrancini&lt;b1151&amp;gt;&lt;/b1151&gt;<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 3.0</a><br />
+<strong>Source Link:</strong> <a href="https://pixabay.com/music/ambient-echoes-of-the-past-from-album-liminal-spaces-197000/">https://pixabay.com/music/ambient-echoes-of-the-past-from-album-liminal-spaces-197000/</a></p>
+</blockquote>
+<hr />
+<blockquote>
+<p><strong>Name:</strong> Beautiful Green Nature Wallpapers 1<br />
+<strong>Author:</strong> raceboy24.blogger<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/2.5/in/">CC BY 2.5 in</a><br />
+<strong>Source:</strong> <a href="https://raceboy24.blogspot.com/2011/07/beautiful-green-nature-wallpapers-1.html">https://raceboy24.blogspot.com/2011/07/beautiful-green-nature-wallpapers-1.html</a></p>
+</blockquote>
+<hr />
+<blockquote>
+<p><strong>Name:</strong> An icon from icon theme Crystal Project<br />
+<strong>Author:</strong> Everaldo Coelho<br />
+<strong>License:</strong> <a href="https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License">Lesser General Public License</a><br />
+<strong>Source:</strong> <a href="https://commons.wikimedia.org/wiki/File:Nfs_unmount.png">https://commons.wikimedia.org/wiki/File:Nfs_unmount.png</a></p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<p>For more information about on-wiki content, visit the <a href="/licensing-master-list">Licensing Master List</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: center;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Websites&nbsp;extra&nbsp;contents?</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Nope,&nbsp;just&nbsp;the&nbsp;boring&nbsp;author&nbsp;section.</a></div>
+<div class="collapsible-block-content">
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="lighterblock">
+<p><span class="titlebox">Author section</span><br />
+Uhh, hi, author<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/red-eyes-dragoon" onclick="WIKIDOT.page.listeners.userInfo(7184922); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7184922&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="Red-eyes Dragoon" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7184922)" /></a><a href="http://www.wikidot.com/user:info/red-eyes-dragoon" onclick="WIKIDOT.page.listeners.userInfo(7184922); return false;">Red-eyes Dragoon</a></span><br />
+<span style="white-space: pre-wrap;">&#32;</span><br />
+I wanted to make something based of off frutiger aero so here we are.<br /></p>
+<div style="text-align: center;">
+<p>Greenlighted by the GOAT: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/divineatlas" onclick="WIKIDOT.page.listeners.userInfo(8037742); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=8037742&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="DivineAtlas" style="background-image:url(https://www.wikidot.com/userkarma.php?u=8037742)" /></a><a href="http://www.wikidot.com/user:info/divineatlas" onclick="WIKIDOT.page.listeners.userInfo(8037742); return false;">DivineAtlas</a></span></p>
+<p>The lovely critic(s) who looked at my page:<br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/divineatlas" onclick="WIKIDOT.page.listeners.userInfo(8037742); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=8037742&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="DivineAtlas" style="background-image:url(https://www.wikidot.com/userkarma.php?u=8037742)" /></a><a href="http://www.wikidot.com/user:info/divineatlas" onclick="WIKIDOT.page.listeners.userInfo(8037742); return false;">DivineAtlas</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/bluesignet" onclick="WIKIDOT.page.listeners.userInfo(7867242); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7867242&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="BlueSignet" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7867242)" /></a><a href="http://www.wikidot.com/user:info/bluesignet" onclick="WIKIDOT.page.listeners.userInfo(7867242); return false;">BlueSignet</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/drakimoto" onclick="WIKIDOT.page.listeners.userInfo(5255688); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=5255688&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="DrAkimoto" style="background-image:url(https://www.wikidot.com/userkarma.php?u=5255688)" /></a><a href="http://www.wikidot.com/user:info/drakimoto" onclick="WIKIDOT.page.listeners.userInfo(5255688); return false;">DrAkimoto</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/sky3" onclick="WIKIDOT.page.listeners.userInfo(7870251); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7870251&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="Sky3" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7870251)" /></a><a href="http://www.wikidot.com/user:info/sky3" onclick="WIKIDOT.page.listeners.userInfo(7870251); return false;">Sky3</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/praetor3005" onclick="WIKIDOT.page.listeners.userInfo(8321734); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=8321734&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="Praetor3005" style="background-image:url(https://www.wikidot.com/userkarma.php?u=8321734)" /></a><a href="http://www.wikidot.com/user:info/praetor3005" onclick="WIKIDOT.page.listeners.userInfo(8321734); return false;">Praetor3005</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/centurys-lute" onclick="WIKIDOT.page.listeners.userInfo(8580783); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=8580783&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="centurys lute" style="background-image:url(https://www.wikidot.com/userkarma.php?u=8580783)" /></a><a href="http://www.wikidot.com/user:info/centurys-lute" onclick="WIKIDOT.page.listeners.userInfo(8580783); return false;">centurys lute</a></span><br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/prismaticmoose" onclick="WIKIDOT.page.listeners.userInfo(9610899); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=9610899&amp;amp;size=small&amp;amp;timestamp=1758309779" alt="PrismaticMoose" style="background-image:url(https://www.wikidot.com/userkarma.php?u=9610899)" /></a><a href="http://www.wikidot.com/user:info/prismaticmoose" onclick="WIKIDOT.page.listeners.userInfo(9610899); return false;">PrismaticMoose</a></span></p>
+<p>My other works can be found on my <a href="/dragoon">author page</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-wikiwalk-nav">
+<div style="text-align: center;">
+<p>&#171; <a class="newpage" href="/level-296">Level 296</a> | <strong>Level 297</strong> | <a href="/level-298">Level 298</a> &#187;</p>
+</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_cc#pages">_cc</a><a href="/system:page-tags/tag/_licensebox#pages">_licensebox</a><a href="/system:page-tags/tag/_title#pages">_title</a><a href="/system:page-tags/tag/level#pages">level</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 5, last edited: <span class="odate time_1748846529 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">02 Jun 2025 06:42</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+29</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-17138981/level-297" class="btn btn-default" id="discuss-button">Discuss (1)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

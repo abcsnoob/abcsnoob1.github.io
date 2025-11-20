@@ -1,0 +1,1670 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Level 414 - &quot;Hortus Aeturnus&quot; - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "level-414";
+        OZONE.request.timestamp = 1763645883;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "level-414";
+        WIKIREQUEST.info.pageId = 1436159697;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="Level 414 - &quot;Hortus Aeturnus&quot;"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+                    @import url(https://backrooms-wiki.wikidot.com/component:theme/code/1);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&amp;display=swap');
+:root {
+   --logo-image: url("http://backrooms-wiki.wdfiles.com/local--files/level-414/flower_icon_new.png");
+   --header-title: "Utopia";
+   --header-subtitle: "Safety is within the Flora";
+
+   --body-font: 'Gabriela', serif;
+   --header-font: 'Cinzel Decorative', cursive;
+   --title-font: 'Cinzel Decorative', cursive;
+   --mono-font: 'Fantasque Sans Mono', monospace;
+
+   --white-monochrome: 99, 135, 99;
+   --pale-gray-monochrome: 219, 200, 186;
+   --light-gray-monochrome: 126, 148, 126;
+   --gray-monochrome: 72, 65, 60;
+   --dark-gray-monochrome: 130, 209, 98;
+   --black-monochrome: 25, 20, 16;
+   --bright-accent: 140, 136, 126;
+   --medium-accent: 104, 168, 116;
+   --dark-accent: 56, 43, 35;
+   --pale-accent: 140, 136, 126;
+   --alt-accent: 89, 72, 60;
+   --bright-accent: 117, 179, 112;
+
+   --link-color: 68, 148, 59;
+   --hover-link-color: 33, 64, 30;
+
+   --background-gradient-distance: 0rem;
+
+/*HEADER TITLES*/
+   --swatch-headerh1-color: 255, 255, 255;
+   --swatch-headerh2-color: 255, 255, 255;
+
+/*HEADER BACKGROUND*/
+
+   --gradient-header: linear-gradient(
+    160deg,
+    rgb(var(--header-gradient-color-bottom)) 0%,
+    rgb(var(--header-gradient-color-middle)) 50%,
+    rgb(var(--header-gradient-color-top)) 100%
+);
+   --header-gradient-color-bottom: 79, 184, 82;
+   --header-gradient-color-middle: 32, 214, 126;
+   --header-gradient-color-top: 26, 94, 38;
+
+/*TOPBAR*/
+   --swatch-topmenu-bg-color: 135, 106, 86;
+   --swatch-topmenu-border-color: 48, 29, 16;
+
+/*BASE SWATCHES*/
+   --swatch-text-light: 255, 255, 255;
+   --swatch-text-secondary-color: 255, 255, 255;
+
+   --swatch-menubg-medium-dark-color: 159, 189, 157;
+
+/*SD CLASS CUSTOM VARS*/
+   --utopia-hab-bor: 121, 166, 127;
+   --utopia-hab-symbol: 255, 255, 255;
+   --utopia-hab-list: 121, 166, 127;
+}
+
+/*BASE CONTENT*/
+#header::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: var(--logo-image);
+    background-size: auto 7rem;
+    background-position: centre;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    left: 0;
+    top: -1rem;
+}
+
+#header h1 a::before, #header h2 span::before {
+   font-family: var(--header-font);
+}
+
+#header h1 a::before {
+   position: absolute;
+   top: 0.8rem;
+   left: 0;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+} 
+
+#header h2 span::before {
+   position: absolute;
+   top: 0.7rem;
+   left: 0;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+} 
+
+#footer, #login-status {
+   color: white;
+}
+
+hr {
+   border-top: .063rem solid rgb(159, 189, 157);
+   background-color: 159, 189, 157;
+}
+
+.top-box .top-text {
+  color: rgb(var(--swatch-text-light)) !important;
+  font-family: var(--body-font) !important;
+}
+
+.top-box p span {
+  font-family: var(--body-font) !important;
+}
+
+/*OTHER*/
+.invite {
+   background: rgb(179, 199, 177);
+   color: rgb(0, 0, 0);
+   font-family: 'Cinzel Decorative', cursive;
+   font-size: 15px;
+   text-align: center;
+   padding: 10px;
+   border: 5px ridge #deebdd;
+     clip-path: polygon(
+    0 10%,
+    10% 0,
+    90% 0,
+    100% 10%,
+    100% 90%,
+    90% 100%,
+    10% 100%,
+    0% 90%,
+    0% 10%
+  )
+}
+
+.intro {
+   padding: 10px 150px;
+}
+
+@media (max-width: 600px) {
+
+.intro {
+   padding: 0 0;
+}
+
+}
+
+.story {
+   border-style: ridge;
+   border-color: #82ab94;
+   border-width: 5px;
+   background: #948273;
+   text-align: centre;
+   padding: 10px 30px;
+   size: fit;
+}
+
+.blurb {
+  border: 10px solid transparent;
+  padding: 0px;
+  border-image: url(http://backrooms-wiki.wdfiles.com/local--files/level-414/fancy_leaf_border.png) 30 stretch;
+   width: 360px;
+}
+
+.blurb-int {
+   background: #c2a89f;
+   padding: 5px;
+   text-align: center;
+   border: 5px double #44603a;
+}
+
+.blurb-norm {
+  border: 10px solid transparent;
+  padding: 0px;
+  border-image: url(http://backrooms-wiki.wdfiles.com/local--files/level-414/fancy_leaf_border.png) 30 stretch;
+}
+
+.right-float {
+   position: relative;
+   left: 60%;
+   text-align: right;
+   width: 40%;
+}
+</style>
+<style>
+.creditRate {
+    float: right;
+}
+</style>
+<style>
+#u-infobox {
+     opacity: 0 !important;
+     pointer-events: none;
+     will-change: opacity;
+     transition: 0.2s;
+     display: flex;
+     width: 100vw;
+     height: 100vh;
+     top: 0;
+     left: 0;
+     position: fixed;
+     z-index: 20;
+     background-color: rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.5);
+     justify-content: center;
+     align-items: center;
+}
+ #page-content div.rate-box-with-credit-button > .creditButton > p > a::after {
+     background-color: rgb(var(--swatch-primary));
+}
+ #u-infobox:target {
+     opacity: 1 !important;
+     pointer-events: unset;
+}
+ .infobox-title {
+     --wght: 800;
+     display: flex;
+     justify-content: flex-start;
+     margin: 0;
+     padding: 1.5ex 1.25rem;
+     background-color: rgb(var(--modal-header-bg, var(--swatch-primary-darker)));
+     background-image: linear-gradient(125deg,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 25%,transparent 25%,transparent 50%,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 50%,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 75%,transparent 75%,transparent 100%);
+     background-size: 3rem 4.35rem;
+     color: rgb(var(--modal-header-txt, var(--swatch-text-secondary-color)));
+     font-family: var(--header-font);
+     font-size: 1.5em;
+     font-weight: var(--wght);
+     line-height: 1ex;
+     text-transform: uppercase;
+}
+ .infobox {
+     display: grid;
+     width: 60vw;
+     border: 0;
+     background-color: rgb(var(--modal-bg, var(--white-monochrome)));
+     box-shadow: inset 0 0 0 .125rem rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.25),.5rem .25rem 1rem 0 rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.25);
+     color: rgb(var(--modal-body-text, var(--swatch-text-general)));
+}
+ .infobox-footer {
+     width: 100%;
+     margin: 1rem 0 1em;
+     padding: 1rem 1rem 0 0;
+     box-shadow: 0-.0625rem 0 0 rgba(var(--modal-header-stripe, var(--swatch-primary)),.2);
+     text-align: right;
+}
+ .infobox-title p, .infobox-footer p {
+     all: unset;
+}
+ .infobox-body {
+     display: grid;
+     margin: 0 1rem;
+     padding: 0;
+}
+</style>
+<style>
+/* this is http://scutoidbox.wikidot.com/component:nulevelclass */ but condensed and also with some of the automatic stuff removed cause i couldnt get rid of the bullet points. sorry lol
+
+.sd-container {
+   border-left: solid 0.2rem rgb(var(--gray-monochrome));
+   margin-left: 0.8rem;
+   padding-left: 0.8rem;
+   position: relative;
+}
+
+.sd-container span.class { padding: 0; }
+
+.sd-container:before, .sd-container:after {
+    content: "";
+    background: rgb(var(--gray-monochrome));
+    display: block;
+    transform: rotate(45deg);
+    position: absolute;
+    height: 1em;
+    width: 1em;
+    left: -0.6em;
+}
+
+.sd-container:before {
+    top: -0.5em;
+}
+
+.sd-container:after {
+    bottom: -0.5em;
+}
+
+.top-box {
+   background: rgb(var(--white-monochrome));
+   width: 100%;
+   position: relative;
+   box-shadow: var(--quote-shadow);
+}
+
+.top-box .top-text {
+    background: rgb(var(--gray-monochrome));
+    color: rgb(var(--white-monochrome));
+    font-family: var(--header-font);
+    font-weight: bold;
+    display: block;
+    position: relative;
+}
+
+.top-box .top-text::before {
+   content: "SURVIVAL DIFFICULTY";
+   font-weight: bold;
+}
+
+.top-box .top-text::after {
+    background: rgb(var(--gray-monochrome));
+    display: block;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 3.5rem;
+    height: 3.5rem;
+    content: "";
+    clip-path: polygon(0 0, 0% 100%, 100% 0);
+    margin-left: -0.5px;
+}
+
+.top-box .bottom-text {
+   flex-grow: 3;
+   display: block;
+   font-style: italic;
+   text-align: center;
+   text-transform: capitalize;
+}
+
+.top-box p {
+   display: flex;
+   gap: 1.7rem;
+}
+
+.top-box p span {
+   padding: 1rem;
+   font-size: 1.5rem;
+   line-height: 1em;
+   font-family: var(--header-font);
+}
+
+.top-box .gradient-box div {
+   display: grid;
+}
+
+/* bottom stuff */
+
+.bottom-box {
+    margin: 0 0 1.7rem 0;
+    background: rgb(var(--white-monochrome));
+    border-left: solid 0.2rem rgb(var(--gray-monochrome));
+    box-shadow: var(--quote-shadow);
+    text-align: center;
+    padding: 0.01rem;
+    font: 1.2rem var(--mono-font);
+    color: rgb(var(--gray-monochrome));
+}
+
+.bottom-box ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+.bottom-box ul li {
+  font: 1.2rem var(--mono-font);
+  font-weight: bold;
+  float: left;
+
+  color: rgb(var(--gray-monochrome));
+  margin: 0.2rem 0 0.2rem 0.6rem;
+  line-height: 1rem;
+}
+
+.bottom-box ul li:before {
+    /*content: "";*/
+
+    background: rgb(var(--gray-monochrome));
+    display: block;
+    transform: rotate(45deg);
+
+    position: relative;
+    height: .5em;
+    width: .5em;
+    left: -1.1em;
+    top: 0.55em;
+    clip-path: circle;
+}
+
+/* mobile stuff */
+@media only screen and (max-width: 640px) {
+      .top-box .top-text::before {
+          content: "CLASS"
+      }
+
+      .sd-container span.class { display: none; }
+}
+
+/* ==== survival difficulty classes ==== */
+
+div[class*=class] ul li span[class$="}"] {
+    display: none !important;
+}
+
+.default {
+   display: none;
+   font-size:0 !important;
+}
+
+.default:after {
+   font-size: 1.2rem;
+}
+
+div[class*=class] ul li span[class$="}"] + .default {
+    display: flex;
+}
+
+/* class 0 to 5 */
+
+.top-box.class-0, .diamond-color.class-0 { background: #97b8bf; }
+.bottom-box.class-0 ul li:nth-child(1)>.default:after{ content: "Secured"; }
+.bottom-box.class-0 ul li:nth-child(3)>.default:after{ content: "No Hazards"; }
+.bottom-box.class-0 ul li:nth-child(5)>.default:after{ content: "No Hostility"; }
+
+.top-box.class-1, .diamond-color.class-1 { background: #a0cdbe; }
+.bottom-box.class-1 ul li:nth-child(1)>.default:after{ content: "Mostly Secured"; }
+.bottom-box.class-1 ul li:nth-child(3)>.default:after{ content: "No Hazards"; }
+.bottom-box.class-1 ul li:nth-child(5)>.default:after{ content: "No Hostility"; }
+
+.top-box.class-2, .diamond-color.class-2 { background: #c9dab9; }
+.bottom-box.class-2 ul li:nth-child(1)>.default:after{ content: "Partially Secured"; }
+.bottom-box.class-2 ul li:nth-child(3)>.default:after{ content: "Minor Hazards"; }
+.bottom-box.class-2 ul li:nth-child(5)>.default:after{ content: "Low Hostility"; }
+
+.top-box.class-3, .diamond-color.class-3 { background: #d1cea9; }
+.bottom-box.class-3 ul li:nth-child(1)>.default:after{ content: "Marginally Secured"; }
+.bottom-box.class-3 ul li:nth-child(3)>.default:after{ content: "Moderate Hazards"; }
+.bottom-box.class-3 ul li:nth-child(5)>.default:after{ content: "Moderate Hostility"; }
+
+.top-box.class-4, .diamond-color.class-4 { background: #c4b295; color: rgb(var(--white-monochrome)); }
+.bottom-box.class-4 ul li:nth-child(1)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-4 ul li:nth-child(3)>.default:after{ content: "Severe Hazards"; }
+.bottom-box.class-4 ul li:nth-child(5)>.default:after{ content: "High Hostility"; }
+
+.top-box.class-5, .diamond-color.class-5 { background: #c29d8a; color: rgb(var(--white-monochrome)); }
+.bottom-box.class-5 ul li:nth-child(1)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-5 ul li:nth-child(3)>.default:after{ content: "Severe Hazards"; }
+.bottom-box.class-5 ul li:nth-child(5)>.default:after{ content: "Hostile Population"; }
+
+/* class unknown */
+
+.top-box.class-unknown, .diamond-color.class-unknown { background: #282828; }
+.top-box.class-unknown .bottom-text:after { content: "Class Undetermined"; }
+.bottom-box.class-unknown ul li:nth-child(1)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-unknown ul li:nth-child(3)>.default:after{ content: "Unknown"; }
+.bottom-box.class-unknown ul li:nth-child(5)>.default:after{ content: "Undocumented"; }
+
+/* ==== weird classes ==== */
+
+/* habitable */
+.top-box.class-habitable, .diamond-color.class-habitable { background: #b1d188; }
+.bottom-box.class-habitable ul li:nth-child(1)>.default:after{ content: "Safe"; }
+.bottom-box.class-habitable ul li:nth-child(3)>.default:after{ content: "Sustained Communities"; }
+.bottom-box.class-habitable ul li:nth-child(5)>.default:after{ content: "No Hostility"; }
+
+/* deadzone */
+.top-box.class-deadzone, .diamond-color.class-deadzone { background: #9e7b8e; color: rgb(var(--white-monochrome)); }
+.bottom-box.class-deadzone ul li:nth-child(1)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-deadzone ul li:nth-child(3)>.default:after{ content: "Uninhabitable"; }
+.bottom-box.class-deadzone ul li:nth-child(5)>.default:after{ content: "Undocumented"; }
+
+/* pending */
+.top-box.class-pending, .diamond-color.class-pending { background: #a89992; }
+.bottom-box.class-pending ul li:nth-child(1)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-pending ul li:nth-child(3)>.default:after{ content: "To Be Known"; }
+.bottom-box.class-pending ul li:nth-child(5)>.default:after{ content: "To Be Documented"; }
+
+/* N/A */
+.top-box.class-n\/a, .diamond-color.class-n\/a { background: #8c7766; color: rgb(var(--pale-gray-monochrome)); }
+.bottom-box.class-n\/a ul li:nth-child(1)>.default:after{ content: "Unsecurable"; }
+.bottom-box.class-n\/a ul li:nth-child(3)>.default:after{ content: "Devoid of Matter"; }
+.bottom-box.class-n\/a ul li:nth-child(5)>.default:after{ content: "Unfit for Life"; }
+
+/* amended */
+.top-box.class-amended, .diamond-color.class-amended { background: #c5a3d1; }
+.bottom-box.class-amended ul li:nth-child(1)>.default:after{ content: "Unsecure Documentation"; }
+.bottom-box.class-amended ul li:nth-child(3)>.default:after{ content: "Unsafe"; }
+.bottom-box.class-amended ul li:nth-child(5)>.default:after{ content: "Altered Files"; }
+
+/* omega */
+.top-box.class-omega, .diamond-color.class-omega { background: #6a9dba; color: rgb(var(--pale-gray-monochrome)); }
+.bottom-box.class-omega ul li:nth-child(1)>.default:after{ content: "Secured"; }
+.bottom-box.class-omega ul li:nth-child(3)>.default:after{ content: "Classified Properties"; }
+.bottom-box.class-omega ul li:nth-child(5)>.default:after{ content: "Protected Population"; }
+
+/* custom classes */
+
+.color-\{$color}, .header-diamond .color-\{$color} { background: {$color} !important; }
+.top-box.color-\{$color} .header-diamond .diamond-image:not([class*="}"]) { background:  url("{$image}") center/78% no-repeat !important; }
+</style>
+<style>
+.licensebox .collapsible-block-link {
+    margin-left: inherit;
+    padding: inherit;
+    transition: inherit;
+    opacity: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+</style>
+<style>
+@import url('https://backrooms-wiki.wikidot.com/component:colstyle/code/1');
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Level 414 - &quot;Hortus Aeturnus&quot;
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+<div class="creditRate">
+<div class="rateBox">
+<div class="rate-box-with-credit-button"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+84</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div>
+<div class="creditButton">
+<p><a class="fa fa-info" href="#u-infobox"></a></p>
+</div>
+</div>
+</div>
+</div>
+<br />
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div id="u-infobox" style="z-index: 999;">
+<div class="infobox">
+<div class="infobox-title">
+<p>Info</p>
+</div>
+<div class="infobox-body">
+<div style="max-height: 60vh; overflow: auto; z-index: 999;">
+
+
+<p>The way to the garden was paved by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7989330&amp;amp;size=small&amp;amp;timestamp=1758309741" alt="PrinceBun" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7989330)" /></a><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;">PrinceBun</a></span>! Check out my <a href="/princebun">author page!</a><br />
+Ambience Button was coded by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/scutoid-studios" onclick="WIKIDOT.page.listeners.userInfo(8055329); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=8055329&amp;amp;size=small&amp;amp;timestamp=1758309741" alt="scutoid studios" style="background-image:url(https://www.wikidot.com/userkarma.php?u=8055329)" /></a><a href="http://www.wikidot.com/user:info/scutoid-studios" onclick="WIKIDOT.page.listeners.userInfo(8055329); return false;">scutoid studios</a></span>!</p>
+</div>
+<div class="infobox-footer">
+<p><a class="button btn" href="###">Close</a></p>
+</div>
+</div>
+</div>
+</div>
+<p><iframe src="/level-414/html/a5657f1ee57501813fae89c34b52429e926e6240-1545693000749923181" allowtransparency="true" frameborder="0" class="html-block-iframe"></iframe></p>
+<div class="invite">
+<p>To whoever this may find,</p>
+<p>You are formally invited to our home, Hortus Aeternus, to relax and find safety within our natural paradise.<br />
+Follow the shimmering vines, they shall reveal the path to you.</p>
+- Zinni<br />
+<br />
+<img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/flower_icon_new.png" width="50px" alt="flower_icon_new.png" class="image" /><br />
+<br /></div>
+<hr />
+<div class="intro">
+<p>The flora shall break through time and space<br />
+<br /></p>
+<div style="text-align: right;">
+<p>to bring one and all to this peaceful place.</p>
+</div>
+<br />
+<br />
+Mind the path, tend to the flowers,<br />
+<br />
+<div style="text-align: right;">
+<p>for you shall be safe under our power.</p>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<p>For as long as you show no harm,<br />
+<br />
+may Hortus Aeternus be your place to rest.</p>
+</div>
+</div>
+<img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_7_s.jpg" style="border-style: ridge; border-color: #82ab94; border-width: 5px; background: #948273; text-align: centre; size: fit;" alt="lvlimg_7_s.jpg" class="image" />
+<hr />
+
+
+
+<div class="sd-container">
+<div class="top-box class-habitable color-{$color}">
+<p><span class="top-text">:</span><span class="bottom-text"><span style="font-size: 0;">Survival Difficulty:</span><span class="class">Class</span> habitable</span></p>
+</div>
+<div class="bottom-box class-habitable">
+<p>Plentiful Resources • Friendly Community • Safe From Harm</p>
+</div>
+</div>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_1_s.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>Welcome to our sanctuary.</p>
+</div>
+</div>
+<p><br /></p>
+<div class="blurb">
+<div class="blurb-int">
+<p>Hortus Aeturnus is a grandiose botanical paradise, home to flowers and other flora across the land.</p>
+<p>For years, this level laid quiet, hidden from the rest of the Backrooms. But now, by dictum of the High Bloom of the Bouquet, these flowery folk have begun to welcome wanderers into the garden.</p>
+</div>
+</div>
+<br />
+<br />
+<br />
+<div class="story">
+<p>Head Bloom Agno, did you approve of such a happening?</p>
+<div style="text-align: right;">
+<p><em>Yes. I think it is has been long enough that we have hid ourselves from them.</em></p>
+</div>
+<p>But are you sure we can trust them? Or must I remind you why we blocked off every conceivable entryway we have.</p>
+<div style="text-align: right;">
+<p><em>Egoni. That was eons ago by now. Almost all of the court agreed to this choice.</em></p>
+</div>
+<p>&#8230;</p>
+<div style="text-align: right;">
+<p><em>We are only allowing one for now, simply to gauge how they will act. From there, we will decide whether or not we continue on with this plan. Please, my dear&#8230;</em></p>
+</div>
+<p>If it's only one, then&#8230; <em>*sigh*</em> Agno my beloved, are you positive you will be able to handle the situation where this goes wrong?</p>
+<div style="text-align: right;">
+<p><em>Well, I certainly did not become Head Bloom by acting willy-nilly now, did I?</em></p>
+</div>
+<p><em>*laughs*</em> Well, I do suppose you're right.</p>
+</div>
+<br />
+<div style="text-align: center;">
+<h2 id="toc0"><span>Geography</span></h2>
+</div>
+<p>A giant botanical garden and park, Hortus Aeternus is filled to the brim with lush forests and colourful gardens. Eternally spring, the temperature sits at a nice 23°C/73°F, and a nice dewy breeze drifts through the land, permanently scented with flowers.</p>
+<h4 id="toc1"><span>The Urban Overgrowth</span></h4>
+<div class="scp-image-block block-left" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_3_s.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>We can co-exist.</p>
+</div>
+</div>
+<div style="text-align: right;">
+<p>This locale is the main town where most of the level's civilisation resides, primarily consisting of the native humanoid species, the Ivlania. A gigantic greenhouse constructed on a mountain, one can find a multitude of shops, cafes, and other needed resources here. These resources are mostly composed of natural material such as fruit, vegetables, and other plant-based matter.</p>
+<p>The current population here totals up to approximately 300 Ivlania, but there are many more residing across the whole of Hortus Aeternus.</p>
+</div>
+<div class="scp-image-block block-left" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_4_s.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>Life is comfortable.</p>
+</div>
+</div>
+<div style="text-align: right;">
+<p>Housing within this area combines modern man-made design with the ever-growing natural surroundings. Furnishings are primarily constructed of stone and wood, with vines snaking over the walls and supports.</p>
+<p>Houses do not have a power source; however they use special, level-native crystals as a replacement. These crystals have many functions depending on their colours; however the most common ones ordinarily seen within households are red (utilised for heating) and blue (utilised for chilling/freezing).</p>
+</div>
+<hr />
+<h4 id="toc2"><span>The Great Floral Valley</span></h4>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_2_rep.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>The natural landscape is a wonder.</p>
+</div>
+</div>
+<p>Extending for miles upon miles, the valley is the great connector between many of the level's most beautiful landmarks and hotspots to visit. The Ivlania were said to have first awoken within this field, so the valley holds significant cultural merit as well as beauty.</p>
+<p>The many Ivlania that live here can sometimes be found either tending to, or picking the flowers from the valley. Many make wreaths from the many blooms that thrive here, choosing certain flowers to bring things such as vitality and joy to their home.</p>
+<p>In addition to acting as a place to bless life, it also functions as a sanctuary to bless death and the passing of Ivlania. Whenever an Ivlania wilts, a ceremony is held to remember them, and allow their soul to re-enter the cycle of blooms.</p>
+<hr />
+<h4 id="toc3"><span>Everspring Atrium</span></h4>
+<div class="scp-image-block block-left" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_5_rep.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>The beacon of hope.</p>
+</div>
+</div>
+<p>In the centre of the land stands Everspring Atrium, the home of the Bouquet. This beautiful castle is the home of the source, the very thing which keeps the land alive.</p>
+<p>The Bouquet is a council that consists of around 25 chosen Ivlania, picked by the source itself. Each of these Ivlania holds a specific position within the Bouquet: overseeing towns, maintaining the greenhouses that home Ivlania, quality testing crystals that power homes, etc. Should a member of the Bouquet wilt, another is quickly chosen to take their place, as they all play a very vital role in ensuring the perpetuity of Hortus Aeturnus.<br />
+<br /></p>
+<div style="text-align: center;">
+<p>No one is sure how the source chooses new members of the Bouquet. However, the Head Bloom, the overseer of the Bouquet, is always voted on by the council first, and they thereupon undergo a trial where they meet the source personally. Should the source accept the selected Ivlania, they will become the new Head Bloom, and will tap into a never-ending source of knowledge.</p>
+<p>Should the chosen not succeed in their trial&#8230;</p>
+</div>
+<div class="scp-image-block block-center" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_6_rep.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>The garden continues to grow.</p>
+</div>
+</div>
+<hr />
+<div class="story">
+<div style="text-align: right;">
+<p><em>That's all the main locations you'd need to know about here! Anything else you'll probably just find with enough exploring! So, what do you wanna know next?</em></p>
+</div>
+<p>Could you tell me about the Ivlania then? I'm very curious about what makes you&#8230; well, you! I hope that isn't too invasive, Zinni.</p>
+<div style="text-align: right;">
+<p><em>Oh, of course you can ask! I'll tell you as much as I can off the top of my noggin!</em></p>
+</div>
+</div>
+<hr />
+<div class="blurb-norm">
+<div class="blurb-int">
+<h2 id="toc4"><span style="text-align=centre; border-bottom:2px solid #44603a;"><span>The Ivlania</span></span></h2>
+<h4 id="toc5"><span>Overview</span></h4>
+<p>Ivlania are a humanoid, plant-like species that live within Hortus Aeturnus. They are sentient and highly intelligent, having developed a civilisation, infrastructure and a hierarchy.</p>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/level-414/agno.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>A sketch of Head Bloom Agno, provided by vir partner, Egoni.</p>
+</div>
+</div>
+<h4 id="toc6"><span>Biology</span></h4>
+<div style="text-align: left;">
+<p>Ivlania come in all shapes and sizes, and have a lifespan far beyond that of the average human. However, Ivlania will always have the following notable features:</p>
+<ul>
+<li>A flower covering the entirety of their head, save for their mouth and jaw.</li>
+<li>Leaf-shaped sleeves that hide their vine-like hands.</li>
+</ul>
+<p>Ivlania have approximately 4 stages of growth: Seedlings, Buddings, Flowerings, and Blossoms. Ivlania flowerheads do not properly bloom until they are nearing the end of their Budding phase, and Blossoms are the longest stage of their life. The fifth and final phase is the Wilting phase, where Ivlania begin to lose their petals, their colour, but most importantly, their life.</p>
+</div>
+<p>The flower that blooms from their head also represents the name that Ivlania have.<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup></p>
+<h4 id="toc7"><span>History</span></h4>
+<p>Surprisingly, there is no recorded history for when the Ivlania first came to be, despite their high intelligence. Some say they have existed for hundreds of years, others speculate it to be shorter than that. But one thing is agreed upon amongst the species: the source blessed them with their life and the gifts they have, and for that they are grateful.</p>
+</div>
+</div>
+<hr />
+<div class="story">
+<div style="text-align: right;">
+<p><em>So far, the human seems to be adapting well. The Buddings and Flowerings of the undergrowth have taken a liking to them too. The integration has been a success. We could have&#8230; more sooner.</em></p>
+</div>
+<p>Surprisingly&#8230;</p>
+<div style="text-align: right;">
+<p>&#8230;</p>
+</div>
+<p>Agno? Are you alright? You've&#8230; seemed different since the trial.</p>
+<div style="text-align: right;">
+<p><em>I&#8230; *sigh* Oh Egoni, why was I chosen?</em></p>
+</div>
+<p>What happened with the source-</p>
+<div style="text-align: right;">
+<p><em>I should have never been allowed in there! I should not know what I know! The source should never have accepted me and-</em></p>
+</div>
+<p>Agno, my love, please! Calm down&#8230; tell me what happened.</p>
+<div style="text-align: right;">
+<p><em>I- I can't. Egoni, if I tell you what I learnt&#8230; I worry you'll be in the same state as me.</em></p>
+</div>
+<p>Agno. We have been through <em>everything</em> together. I will always support you as you have always supported me. If you have a burden, I will share it with you&#8230; so please, tell me what happened.</p>
+<div style="text-align: center;">
+<p>&#8230;<br />
+Egoni. <em>The humans were never banished.</em> <strong><em>We never left to begin with.</em></strong></p>
+</div>
+</div>
+<hr />
+<div style="text-align: center;">
+<p>There's a part of the land where none dare tread: The Ashen Field. The last stand of the old humans before their banishment.</p>
+<p>They were greedy. They took, they burned, they trampled, never once showing respect for the land that granted them life.</p>
+<p>One day, the land had enough.</p>
+<p>One by one, nature stole the humans away, off to fates unspoken of. The humans tried to escape, but it was far too late— the land had them trapped within, and it took back what rightfully belonged to it: life.</p>
+<p>When the humans were gone, everything was quiet.</p>
+</div>
+<div class="intro">
+<p>Nothing spoke.<br /></p>
+<div style="text-align: right;">
+<p>Nothing sang.</p>
+</div>
+<br />
+The land grew lonely.<br />
+<div style="text-align: right;">
+<p>And so the land gave back life.</p>
+</div>
+</div>
+<div style="text-align: center;">
+<p>It thought that if it made humans in its own image, they could care for it the way it wanted them to. It would no longer be lonely; would no longer lay forgotten.</p>
+<p>As it made, it planted seeds in their minds: seeds to forget, seeds to learn.</p>
+<p>It needed one they could trust, someone to ensure that the land bloomed and prospered in its image.</p>
+<p>And so, the first Bloom and Bouquet were made.</p>
+<p>The Bloom would know its secret. Only the Bloom could handle knowing its truth.</p>
+<p>It would watch in silence as it began to regrow, blooming unlike anything it had seen before.</p>
+<p>And it wept. It wept with joy as its life was once more treasured.</p>
+<p>Eternally&#8230;</p>
+</div>
+<hr />
+<div class="story">
+<p>What will happen if the source doesn't like me?</p>
+<div style="text-align: right;">
+<p><em>Oh, if the source didn't trust you, it would have guided you away from our lands already!</em></p>
+</div>
+<p>So does that mean&#8230; the source accepts me?</p>
+<div style="text-align: right;">
+<p><em>Hehehe, you'd have to ask Agno about that! Ve would know what the source thinks!</em></p>
+</div>
+<p>Ah, right. Only the Head Blooms directly interact with the source&#8230;</p>
+</div>
+<hr />
+<div style="text-align: center;">
+<h2 id="toc8"><span>Entrances/Exits</span></h2>
+</div>
+<h4 id="toc9"><span>Entrances</span></h4>
+<p>Should you ever desire entry into this place, follow the shimmering vines. They can appear in almost any level you may be currently residing within, unless the level lacks sunlight or has something physically preventing access from outside sources.<sup class="footnoteref"><a id="footnoteref-2" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-2')">2</a></sup> Should you follow the vines successfully, the entryway shall be opened for you, indicated by a grand archway woven with vines and flowers.</p>
+<h4 id="toc10"><span>Exits</span></h4>
+<p>Should you ever wish to leave, simply desire it. You will find a stone pathway with flowering bushes on either side, which will guide you to another safe area that will often be connected to nature. Pay heed to the flowers you see, as they can serve as an indicator as to where you may be heading.</p>
+<table class="wiki-content-table">
+<tr>
+<th>Pansies</th>
+<td><a href="/level-10">Level 10</a>, <a href="/level-29">Level 29</a></td>
+</tr>
+<tr>
+<th>Dandelions</th>
+<td><a href="/level-11">Level 11</a>, <a href="/level-125">Level 125</a></td>
+</tr>
+<tr>
+<th>Hibiscus</th>
+<td><a href="/level-48">Level 48</a>, <a href="/level-149">Level 149</a></td>
+</tr>
+<tr>
+<th>Morning Glory</th>
+<td><a href="/level-63">Level 63</a></td>
+</tr>
+<tr>
+<th>Roses</th>
+<td><a href="/level-90">Level 90</a>, <a href="/level-186">Level 186</a></td>
+</tr>
+<tr>
+<th>Cherry Blossoms</th>
+<td><a href="/level-178">Level 178</a></td>
+</tr>
+<tr>
+<th>Honeysuckle</th>
+<td><a href="/level-224">Level 224</a></td>
+</tr>
+</table>
+<hr />
+<div class="story">
+<div style="text-align: center;">
+<p><em>I wouldn't worry about it though! I mean, have you not heard the way the land sings to your presence? How the breeze guides you to where it wants you to go? How the flowers face you with such adoration?</em></p>
+<p><em>The source <strong>loves</strong> you. It has missed your presence&#8230;</em></p>
+</div>
+</div>
+<hr />
+<div class="footnotes-footer">
+<div class="title">Footnotes</div>
+<div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. For example, an Ivlania with lavenders blooming from their head could be called Lav, or Aven.</div>
+<div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. Such as closed off levels with certain methods of entry.</div>
+</div>
+<hr />
+
+
+
+<div class="licensebox">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Hide&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-content">
+<p>Cite this page as:</p>
+<div class="list-pages-box">    <div class="list-pages-item">
+
+
+<blockquote>
+<p>&quot;<a href="/level-414">Level 414 - &quot;Hortus Aeturnus&quot;</a>&quot; by PrinceBun, from the <a href="http://backrooms-wiki.wikidot.com/">Backrooms Wiki</a>. Source: <a href="https://backrooms-wiki.wikidot.com/level-414">https://backrooms-wiki.wikidot.com/level-414</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>.</p>
+</blockquote>
+</div>
+    
+    
+    
+    </div>
+
+
+<div class="colmod-block">
+<ul>
+<li class="folded">
+<ul>
+<li style="list-style: none">_</li>
+</ul>
+<div class="colmod-link-top">
+<div class="foldable-list-container"><a href="javascript:;">+ Embed citation as HTML</a><a href="javascript:;">- Embed citation as HTML</a></div>
+</div>
+<div class="colmod-content"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<div class="code" style="user-select: all;">
+<p><span style="white-space: pre-wrap;">&quot;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/level-414&quot;&gt;Level&#32;414&#32;-&#32;&quot;Hortus&#32;Aeturnus&quot;&lt;/a&gt;&quot;&#32;by&#32;PrinceBun,&#32;from&#32;the&#32;&lt;a&#32;href=&quot;http://backrooms-wiki.wikidot.com/&quot;&gt;Backrooms&#32;Wiki&lt;/a&gt;.&#32;Source:&#32;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/level-414&quot;&gt;https://backrooms-wiki.wikidot.com/level-414&lt;/a&gt;.&#32;Licensed&#32;under&#32;&lt;a&#32;href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA-3.0&lt;/a&gt;.</span></p>
+</div>
+</div>
+    
+    
+    
+    </div></div>
+<div>
+<div class="foldable-list-container"></div>
+</div>
+</li>
+</ul>
+</div>
+<hr />
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Filename:</strong> agno.jpg<br />
+<strong>Author:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7989330&amp;amp;size=small&amp;amp;timestamp=1758309741" alt="PrinceBun" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7989330)" /></a><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;">PrinceBun</a></span><br />
+<strong>License:</strong> <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> flower_icon_new.png<br />
+<strong>Author:</strong> margot3001 (Edited by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7989330&amp;amp;size=small&amp;amp;timestamp=1758309741" alt="PrinceBun" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7989330)" /></a><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;">PrinceBun</a></span>)<br />
+<strong>License:</strong> <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</a><br />
+<strong>Source Link:</strong> <a href="https://pixabay.com/vectors/flower-pink-flower-spring-summer-1871814/">https://pixabay.com/vectors/flower-pink-flower-spring-summer-1871814/</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> fancy_leaf_border.png<br />
+<strong>Author:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7989330&amp;amp;size=small&amp;amp;timestamp=1758309741" alt="PrinceBun" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7989330)" /></a><a href="http://www.wikidot.com/user:info/princebun" onclick="WIKIDOT.page.listeners.userInfo(7989330); return false;">PrinceBun</a></span><br />
+<strong>License:</strong> <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvl_img1_s.jpg<br />
+<strong>Author:</strong> Florian GIORGIO<br />
+<strong>License:</strong> CC0&#160;1.0<br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/t6kr9bbHaVg">https://unsplash.com/photos/t6kr9bbHaVg</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvl_img2_rep.jpg<br />
+<strong>Author:</strong> Kumiko SHIMIZU<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a><br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/XGbeRuQ4DWM">https://unsplash.com/photos/XGbeRuQ4DWM</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvl_img3_s.jpg<br />
+<strong>Author:</strong> Bob Ghost<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a><br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/zCFUkbNTYsM">https://unsplash.com/photos/zCFUkbNTYsM</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvl_img4_s.jpg<br />
+<strong>Author:</strong> Robin Wersich<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a><br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/Q0IrpWQIMR4">https://unsplash.com/photos/Q0IrpWQIMR4</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvl_img5_rep.jpg<br />
+<strong>Author:</strong> Mike Pellinni, spinheike<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a> and Pixabay License<br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/wCA3wa2WiJs">https://unsplash.com/photos/wCA3wa2WiJs</a>, <a href="https://pixabay.com/photos/castle-fairy-tale-castle-palace-5606120/">https://pixabay.com/photos/castle-fairy-tale-castle-palace-5606120/</a><br />
+<strong>Additional Notes:</strong> A photobash of multiple images.</p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvlimg_6_rep.jpg<br />
+<strong>Author:</strong> Lukas Gächter, Claudio Testa, JF Martin, Dave Hoefler, Vladyslav Bahara, DeepMind<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a> (All Images)<br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/gEhv8fe8lVo">https://unsplash.com/photos/gEhv8fe8lVo</a>, <a href="https://unsplash.com/photos/-SO3JtE3gZo">https://unsplash.com/photos/-SO3JtE3gZo</a>, <a href="https://unsplash.com/photos/3iEBAhZ61r4">https://unsplash.com/photos/3iEBAhZ61r4</a>, <a href="https://unsplash.com/photos/QPFViZYFNTU">https://unsplash.com/photos/QPFViZYFNTU</a>, <a href="https://unsplash.com/photos/GTeRp1w7PRg">https://unsplash.com/photos/GTeRp1w7PRg</a>, <a href="https://unsplash.com/photos/s2TPKAD6fag">https://unsplash.com/photos/s2TPKAD6fag</a><br />
+<strong>Additional Notes:</strong> A photobash of multiple images.</p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> lvlimg_7_s.jpg<br />
+<strong>Author:</strong> Dominik Bednarz<br />
+<strong>License:</strong> <a href="https://unsplash.com/license">Unsplash License</a><br />
+<strong>Source Link:</strong> <a href="https://unsplash.com/photos/hxcQzqPeziw">https://unsplash.com/photos/hxcQzqPeziw</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Filename:</strong> sb_thelongwayhome.mp3<br />
+<strong>Author:</strong> Scott Buckley<br />
+<strong>License:</strong> <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br />
+<strong>Source Link:</strong> <a href="https://www.scottbuckley.com.au/library/the-long-way-home/">https://www.scottbuckley.com.au/library/the-long-way-home/</a></p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<p>For more information about on-wiki content, visit the <a href="/licensing-master-list">Licensing Master List</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<hr />
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_licensebox#pages">_licensebox</a><a href="/system:page-tags/tag/_non-cc-pixabay#pages">_non-cc-pixabay</a><a href="/system:page-tags/tag/_non-cc-unsplash#pages">_non-cc-unsplash</a><a href="/system:page-tags/tag/_title#pages">_title</a><a href="/system:page-tags/tag/annual-feature#pages">annual-feature</a><a href="/system:page-tags/tag/exterior#pages">exterior</a><a href="/system:page-tags/tag/featured#pages">featured</a><a href="/system:page-tags/tag/forested#pages">forested</a><a href="/system:page-tags/tag/level#pages">level</a><a href="/system:page-tags/tag/sd-class-habitable#pages">sd-class-habitable</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 79, last edited: <span class="odate time_1753460944 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">25 Jul 2025 16:29</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+84</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-15245560/level-414" class="btn btn-default" id="discuss-button">Discuss (24)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

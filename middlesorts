@@ -1,0 +1,1919 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Unnumbered Level - &quot;The Middlesorts&quot; - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "middlesorts";
+        OZONE.request.timestamp = 1763647494;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "middlesorts";
+        WIKIREQUEST.info.pageId = 1449118793;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="The Middlesorts"/>
+                                <meta name="og:description" content="The Middlesorts is an average, medical clinic office that exists at the very centre of the Backrooms and acts as a hub for all levels."/>
+                                <meta name="description" content="The Middlesorts is an average, medical clinic office that exists at the very centre of the Backrooms and acts as a hub for all levels."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wdfiles.com/local--files/middlesorts/mwaitingroom.jpg"/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+                    @import url(https://backrooms-wiki.wikidot.com/component:theme/code/1);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+.creditRate {
+    float: right;
+}
+</style>
+<style>
+#u-infobox {
+     opacity: 0 !important;
+     pointer-events: none;
+     will-change: opacity;
+     transition: 0.2s;
+     display: flex;
+     width: 100vw;
+     height: 100vh;
+     top: 0;
+     left: 0;
+     position: fixed;
+     z-index: 20;
+     background-color: rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.5);
+     justify-content: center;
+     align-items: center;
+}
+ #page-content div.rate-box-with-credit-button > .creditButton > p > a::after {
+     background-color: rgb(var(--swatch-primary));
+}
+ #u-infobox:target {
+     opacity: 1 !important;
+     pointer-events: unset;
+}
+ .infobox-title {
+     --wght: 800;
+     display: flex;
+     justify-content: flex-start;
+     margin: 0;
+     padding: 1.5ex 1.25rem;
+     background-color: rgb(var(--modal-header-bg, var(--swatch-primary-darker)));
+     background-image: linear-gradient(125deg,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 25%,transparent 25%,transparent 50%,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 50%,rgba(var(--modal-header-stripe, var(--swatch-primary)),.75) 75%,transparent 75%,transparent 100%);
+     background-size: 3rem 4.35rem;
+     color: rgb(var(--modal-header-txt, var(--swatch-text-secondary-color)));
+     font-family: var(--header-font);
+     font-size: 1.5em;
+     font-weight: var(--wght);
+     line-height: 1ex;
+     text-transform: uppercase;
+}
+ .infobox {
+     display: grid;
+     width: 60vw;
+     border: 0;
+     background-color: rgb(var(--modal-bg, var(--white-monochrome)));
+     box-shadow: inset 0 0 0 .125rem rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.25),.5rem .25rem 1rem 0 rgba(var(--swatch-alternate-color, var(--gray-monochrome)),.25);
+     color: rgb(var(--modal-body-text, var(--swatch-text-general)));
+}
+ .infobox-footer {
+     width: 100%;
+     margin: 1rem 0 1em;
+     padding: 1rem 1rem 0 0;
+     box-shadow: 0-.0625rem 0 0 rgba(var(--modal-header-stripe, var(--swatch-primary)),.2);
+     text-align: right;
+}
+ .infobox-title p, .infobox-footer p {
+     all: unset;
+}
+ .infobox-body {
+     display: grid;
+     margin: 0 1rem;
+     padding: 0;
+}
+</style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,300');
+
+:root {
+--sd-font:Poppins;
+--sd-border:var(--gray-monochrome);
+--sd-border-secondary:0,0,0;
+--sd-border-deadzone:20,0,0;
+--sd-symbol:var(--sd-border) !important;
+--sd-symbol-secondary: 255,255,255;
+--sd-bullets:var(--sd-border) !important;
+--sd-text:var(--swatch-text-secondary-color);
+--class-0:247,227,117;
+--class-1:247,227,117;
+--class-1:255,201,14;
+--class-2:245,156,0;
+--class-3:249,90,0;
+--class-4:254,23,1;
+--class-5:175,6,6;
+--class-unknown:38,38,38;
+--class-habitable:26,128,111;
+--class-deadzone:44,13,12;
+--class-pending:182,182,182;
+--class-n-a:38,38,38;
+--class-amended:185,135,212;
+--class-omega:25,46,255;
+}
+
+.top-box {
+   background: rgb(var(--class-1));
+   width: 100%;
+   height: 5.25rem;
+   box-sizing: border-box;
+   border-color: rgb(var(--sd-border)) !important;
+   border: 0.65rem solid rgb(var(--sd-border));
+   border-left: 0.3125rem solid rgb(var(--sd-border));
+   border-right: 0.3125rem solid rgb(var(--sd-border));
+
+   position: relative;
+}
+
+.top-box .gradient-box div {
+   display: grid;
+}
+
+.top-box .top-text p{
+   font: 2.14rem var(--sd-font);
+   font-weight: bold;
+   color: white;
+   color: rgb(var(--sd-text));
+
+   position: relative;
+   margin: 0 0.08rem;
+   line-height: 2.16rem;
+}
+
+.top-box .bottom-text p, .top-box .bottom-text:after{
+   font: 1.5rem var(--sd-font);
+   font-style: italic;
+   font-weight: 500;
+   color: white;
+   color: rgb(var(--sd-text));
+
+   position: relative;
+   margin: 0 0.08rem;
+   line-height: 2rem;
+}
+
+.top-box .gradient-box{
+  background: linear-gradient(90deg, rgba(var(--sd-border),1) 0%, rgba(235,186,13,0) 36%);
+  display: inline-block;
+  height: 105%;
+  width: 105%;
+  position: relative;
+  top: -1px;
+}
+
+.top-box:before {
+  content: "";
+  position: absolute;
+  background: url("http://backrooms-wiki.wdfiles.com/local--files/component%3Alevel-class/tiles.png");
+  mix-blend-mode: luminosity;
+  opacity: 0.15;
+  height: calc(100% + (0.65rem * 2));
+  width: calc(100% + (0.3125rem * 2));
+  top: -0.65rem;
+  left: -0.3125rem;
+}
+
+/* the right diamond thingy */
+
+.header-diamond {
+   position: absolute;
+   height: calc(284.5px / 1.13);
+   width: calc(300.9px / 1.13);
+   top: -29.5px;
+   right: -13px;
+   transition: opacity 0.5s;
+   z-index: 4;
+}
+
+.header-diamond .bg {
+   position: absolute;
+   -webkit-mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 300.9 284.5' style='enable-background:new 0 0 300.9 284.5;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cg%3E%3Cpolygon class='st1' points='73.4,32.6 0,105.4 13.6,105.4 86.4,32.6 '/%3E%3Cpolygon class='st1' points='26.5,105.4 40.1,105.4 112.9,32.6 99.3,32.6 '/%3E%3C/g%3E%3Cpolyline class='st1' points='287.3,105.4 214.5,32.6 227.5,32.6 287.3,91.9 '/%3E%3Cpolygon class='st1' points='274.4,105.4 260.8,105.4 188,32.6 201.6,32.6 '/%3E%3C/svg%3E");
+   mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 300.9 284.5' style='enable-background:new 0 0 300.9 284.5;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cg%3E%3Cpolygon class='st1' points='73.4,32.6 0,105.4 13.6,105.4 86.4,32.6 '/%3E%3Cpolygon class='st1' points='26.5,105.4 40.1,105.4 112.9,32.6 99.3,32.6 '/%3E%3C/g%3E%3Cpolyline class='st1' points='287.3,105.4 214.5,32.6 227.5,32.6 287.3,91.9 '/%3E%3Cpolygon class='st1' points='274.4,105.4 260.8,105.4 188,32.6 201.6,32.6 '/%3E%3C/svg%3E");
+   background: rgb(var(--sd-border));
+   height: 100%;
+   width: 100%;
+z-index: 2;
+}
+
+.header-diamond .diamondy {
+   position: absolute;
+   -webkit-mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='-7.01 0 260.5 250.8' style='enable-background:new 0 0 250.5 250.8;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cpath class='st0' d='M247,133.9L133.7,247.2c-4.7,4.7-12.3,4.7-17,0L3.5,133.9c-4.7-4.7-4.7-12.3,0-17L116.8,3.6 c4.7-4.7,12.3-4.7,17,0l113.3,113.3C251.7,121.6,251.7,129.2,247,133.9z'/%3E%3C/svg%3E");
+   mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='-7.01 0 260.5 250.8' style='enable-background:new 0 0 250.5 250.8;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cpath class='st0' d='M247,133.9L133.7,247.2c-4.7,4.7-12.3,4.7-17,0L3.5,133.9c-4.7-4.7-4.7-12.3,0-17L116.8,3.6 c4.7-4.7,12.3-4.7,17,0l113.3,113.3C251.7,121.6,251.7,129.2,247,133.9z'/%3E%3C/svg%3E");
+   height: 100%;
+   width: 100%;
+}
+
+.header-diamond .diamond-color {
+  background: rgb(var(--class-1));
+}
+
+.header-diamond .diamond-pattern {
+  background: url("https://backrooms-wiki.wdfiles.com/local--files/component%3Alevel-class/tiles.png");
+  mix-blend-mode: luminosity;
+  opacity: 0.15;
+  z-index: 3;
+}
+
+.header-diamond .diamond-image {
+    position: absolute;
+    -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%201.png") center/80% no-repeat;
+    mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%201.png") center/80% no-repeat;
+    height: 100%;
+    width: 100%;
+    background: rgb(var(--sd-symbol));
+    top: 3px;
+    left: 3px;
+  z-index: 4;
+}
+
+/* bottom stuff */
+
+.bottom-box {
+   margin: 1.5rem 0 3rem 0;
+}
+
+.bottom-box ul {
+   margin-left: 2rem;
+}
+
+.bottom-box ul li {
+  font: 1.5rem var(--sd-font);
+  font-weight: bold;
+
+  color: rgb(var(--sd-bullets));
+  margin: 0.2rem 0 0.2rem 0.6rem;
+  line-height: 1rem;
+
+  list-style: none;
+}
+
+.bottom-box ul li:before {
+    content: "";
+
+    background: rgb(var(--sd-bullets));
+    display: block;
+    transform: rotate(45deg);
+
+    position: relative;
+    height: .5em;
+    width: .5em;
+    left: -1.1em;
+    top: 0.55em;
+}
+
+/* mobile stuff */
+@media only screen and (max-width: 440px) {
+   .top-box .top-text p {
+      font-size: 1.6rem;
+   }
+   .top-box .bottom-text p, .top-box .bottom-text:after {
+      font-size: 1.4rem;
+      line-height: 1rem;
+   }
+}
+@media only screen and (max-width: 60rem) {
+   .header-diamond {
+      opacity: 0;
+   }
+}
+
+/* ==== survival difficulty classes ==== */
+
+div[class*=class] ul li span[class$="}"] {
+    display: none !important;
+}
+
+.default {
+   display: none;
+   font-size:0 !important;
+}
+
+.default:after {
+   font-size: 1.5rem;
+}
+
+div[class*=class] ul li span[class$="}"] + .default {
+    display: flex;
+}
+
+/* class 0 to 5 */
+
+.top-box.class-0, .diamond-color.class-0 { background: rgb(var(--class-0)); }
+.top-box.class-0 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%200.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%200.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-0 ul li:nth-child(1)>.default:after{ content: "Safe"; }
+.bottom-box.class-0 ul li:nth-child(2)>.default:after{ content: "Secure"; }
+.bottom-box.class-0 ul li:nth-child(3)>.default:after{ content: "Devoid of Entities"; }
+
+.top-box.class-1, .diamond-color.class-1 { background: rgb(var(--class-1)); }
+.top-box.class-1 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%201.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%201.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-1 ul li:nth-child(1)>.default:after{ content: "Safe"; }
+.bottom-box.class-1 ul li:nth-child(2)>.default:after{ content: "Secure"; }
+.bottom-box.class-1 ul li:nth-child(3)>.default:after{ content: "Minimal Entity Count"; }
+
+.top-box.class-2, .diamond-color.class-2 { background: rgb(var(--class-2)); }
+.top-box.class-2 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%202.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%202.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-2 ul li:nth-child(1)>.default:after{ content: "Unsafe"; }
+.bottom-box.class-2 ul li:nth-child(2)>.default:after{ content: "Secure"; }
+.bottom-box.class-2 ul li:nth-child(3)>.default:after{ content: "Low Entity Count"; }
+
+.top-box.class-3, .diamond-color.class-3 { background: rgb(var(--class-3)); }
+.top-box.class-3 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%203.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%203.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-3 ul li:nth-child(1)>.default:after{ content: "Unsafe"; }
+.bottom-box.class-3 ul li:nth-child(2)>.default:after{ content: "Unsecure"; }
+.bottom-box.class-3 ul li:nth-child(3)>.default:after{ content: "Low Entity Count"; }
+
+.top-box.class-4, .diamond-color.class-4 { background: rgb(var(--class-4)); }
+.class-4 { --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-4 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%204.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%204.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-4 ul li:nth-child(1)>.default:after{ content: "Unsafe"; }
+.bottom-box.class-4 ul li:nth-child(2)>.default:after{ content: "Unsecure"; }
+.bottom-box.class-4 ul li:nth-child(3)>.default:after{ content: "Medium Entity Count"; }
+
+.top-box.class-5, .diamond-color.class-5 { background: rgb(var(--class-5)); }
+.class-5 { --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-5 .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%205.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%205.png") center/80% no-repeat; left: -0.3px;}
+.bottom-box.class-5 ul li:nth-child(1)>.default:after{ content: "Unsafe"; }
+.bottom-box.class-5 ul li:nth-child(2)>.default:after{ content: "Unsecure"; }
+.bottom-box.class-5 ul li:nth-child(3)>.default:after{ content: "Entity Infestation"; }
+
+/* class unknown */
+
+.top-box.class-unknown, .diamond-color.class-unknown { background: rgb(var(--class-unknown)); }
+.class-unknown { --sd-border:0,0,0; --sd-symbol:255,255,255;}
+.top-box.class-unknown .bottom-text p { display: none; }
+.top-box.class-unknown .bottom-text:after { content: "Class Undetermined"; }
+.top-box.class-unknown:before, .top-box.class-unknown .header-diamond .diamond-pattern{ opacity: 0.5; }
+.top-box.class-unknown .gradient-box { background: none; }
+.top-box.class-unknown .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Undetermined.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Undetermined.png") center/80% no-repeat; left: -0.3px;}
+.top-box.class-unknown .header-diamond { filter: grayscale(100%); }
+.bottom-box.class-unknown ul li { color: rgb(var(--sd-bullets)); }
+.bottom-box.class-unknown ul li:before { background: rgb(var(--sd-bullets)); }
+.bottom-box.class-unknown ul li:nth-child(1)>.default:after{ content: "Mysterious Properties"; }
+.bottom-box.class-unknown ul li:nth-child(2)>.default:after{ content: "Unknown Information"; }
+.bottom-box.class-unknown ul li:nth-child(3)>.default:after{ content: "Undocumented Entities"; }
+
+/* ==== weird classes ==== */
+
+/* habitable */
+.top-box.class-habitable .bottom-text p { display: none; }
+.top-box.class-habitable .bottom-text:after { content: "Class: Habitable"; }
+.top-box.class-habitable, .diamond-color.class-habitable { background: rgb(var(--class-habitable)); }
+.class-habitable { --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-habitable .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Habitable.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Habitable.png") center/80% no-repeat; left: -0.3px; top: -3px; }
+.bottom-box.class-habitable ul li:nth-child(1)>.default:after{ content: "Safe"; }
+.bottom-box.class-habitable ul li:nth-child(2)>.default:after{ content: "Sustained Communities"; }
+.bottom-box.class-habitable ul li:nth-child(3)>.default:after{ content: "Devoid of Harmful Entities"; }
+
+/* deadzone */
+.class-deadzone { --sd-border:var(--sd-border-deadzone); --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-deadzone .bottom-text p { display: none; }
+.top-box.class-deadzone .bottom-text:after { content: "Class: Deadzone"; }
+.top-box.class-deadzone, .diamond-color.class-deadzone { background: rgb(var(--class-deadzone)); }
+.top-box.class-deadzone .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Deadzone.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Deadzone.png") center/80% no-repeat; left: -0.3px; top: 5px; }
+.bottom-box.class-deadzone ul li:nth-child(1)>.default:after{ content: "Environmental Hazards"; }
+.bottom-box.class-deadzone ul li:nth-child(2)>.default:after{ content: "Strictly Uninhabitable"; }
+.bottom-box.class-deadzone ul li:nth-child(3)>.default:after{ content: "Potential for Anomalous Entities"; }
+
+/* pending */
+.class-pending { --sd-symbol:var(--sd-border) !important; }
+.top-box.class-pending .bottom-text p { display: none; }
+.top-box.class-pending .bottom-text:after { content: "Pending"; }
+.top-box.class-pending, .diamond-color.class-pending { background: rgb(var(--class-pending)); }
+.top-box.class-pending .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Pending.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Pending.png") center/80% no-repeat; left: -0.3px; }
+.bottom-box.class-pending ul li:nth-child(1)>.default:after{ content: "Safety Undetermined"; }
+.bottom-box.class-pending ul li:nth-child(2)>.default:after{ content: "Unsecured"; }
+.bottom-box.class-pending ul li:nth-child(3)>.default:after{ content: "Presence of Entities Undetermined"; }
+
+/* N/A */
+.top-box.class-n\/a .bottom-text p { display: none; }
+.top-box.class-n\/a .bottom-text:after { content: "N/A"; }
+.class-n\/a { --sd-border:var(--sd-border-secondary); --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-n\/a .header-diamond, .top-box.class-n\/a .gradient-box { background: none; }
+.top-box.class-n\/a .header-diamond:after {
+   content:"";
+   position: absolute;
+   background-image: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 300.9 284.5' style='enable-background:new 0 0 300.9 284.5;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cg%3E%3Cpolygon class='st1' points='73.4,32.6 0,105.4 13.6,105.4 86.4,32.6 '/%3E%3Cpolygon class='st1' points='26.5,105.4 40.1,105.4 112.9,32.6 99.3,32.6 '/%3E%3C/g%3E%3Cpolyline class='st1' points='287.3,105.4 214.5,32.6 227.5,32.6 287.3,91.9 '/%3E%3Cpolygon class='st1' points='274.4,105.4 260.8,105.4 188,32.6 201.6,32.6 '/%3E%3C/svg%3E");
+   height: calc(284.5px / 1.13);
+   width: calc(300.9px / 1.13);
+   filter: grayscale(100%) brightness(0.5);
+}
+.top-box.class-n\/a, .diamond-color.class-n\/a { background: rgb(var(--class-n-a)); }
+.top-box.class-n\/a .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20NA.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20NA.png") center/80% no-repeat; left: -0.3px; top: -2px; }
+.bottom-box.class-n\/a ul li:nth-child(1)>.default:after{ content: "Non-Existent"; }
+.bottom-box.class-n\/a ul li:nth-child(2)>.default:after{ content: "Devoid of Matter"; }
+.bottom-box.class-n\/a ul li:nth-child(3)>.default:after{ content: "Unfit for Life"; }
+
+/* amended */
+.top-box.class-amended .bottom-text p { display: none; }
+.top-box.class-amended .bottom-text:after { content: "Class: Amended"; }
+.top-box.class-amended, .diamond-color.class-amended { background: rgb(var(--class-amended)); }
+.top-box.class-amended .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Amended.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Amended.png") center/80% no-repeat; left: -0.3px; }
+.bottom-box.class-amended ul li:nth-child(1)>.default:after{ content: "Unsafe and Unsecure"; }
+.bottom-box.class-amended ul li:nth-child(2)>.default:after{ content: "Undocumented Entities"; }
+.bottom-box.class-amended ul li:nth-child(3)>.default:after{ content: "Altered Files"; }
+
+/* omega */
+.top-box.class-omega .bottom-text p { display: none; }
+.top-box.class-omega .bottom-text:after { content: "Omega"; }
+.class-omega { --sd-symbol:var(--sd-symbol-secondary);}
+.top-box.class-omega, .diamond-color.class-omega { background: rgb(var(--class-omega)); }
+.top-box.class-omega .header-diamond .diamond-image { -webkit-mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Omega.png") center/80% no-repeat; mask: url("https://raw.githubusercontent.com/RakoGames/BRWikiSDClass/main/Class%20Omega.png") center/80% no-repeat; left: -0.3px; top: 5px; }
+.bottom-box.class-omega ul li:nth-child(1)>.default:after{ content: "Hidden Documentation"; }
+.bottom-box.class-omega ul li:nth-child(2)>.default:after{ content: "Classified Properties"; }
+.bottom-box.class-omega ul li:nth-child(3)>.default:after{ content: "Protected Entities"; }
+
+/* custom classes */
+
+.color-\{$color}, .header-diamond .color-\{$color} { background: {$color} !important; }
+.top-box.color-\{$color} .header-diamond .diamond-image:not([class*="}"]) { background:  url("{$image}") center/80% no-repeat !important;        -webkit-mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='-7.01 0 260.5 250.8' style='enable-background:new 0 0 250.5 250.8;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cpath class='st0' d='M247,133.9L133.7,247.2c-4.7,4.7-12.3,4.7-17,0L3.5,133.9c-4.7-4.7-4.7-12.3,0-17L116.8,3.6 c4.7-4.7,12.3-4.7,17,0l113.3,113.3C251.7,121.6,251.7,129.2,247,133.9z'/%3E%3C/svg%3E") !important;
+   mask: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='-7.01 0 260.5 250.8' style='enable-background:new 0 0 250.5 250.8;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23FFC90E;%7D .st1%7Bfill:%23581A19;%7D%0A%3C/style%3E%3Cpath class='st0' d='M247,133.9L133.7,247.2c-4.7,4.7-12.3,4.7-17,0L3.5,133.9c-4.7-4.7-4.7-12.3,0-17L116.8,3.6 c4.7-4.7,12.3-4.7,17,0l113.3,113.3C251.7,121.6,251.7,129.2,247,133.9z'/%3E%3C/svg%3E") !important;     top: 0;
+    left: 0;}
+</style>
+<style>
+.colfootnotes {
+   translate: 0 2.5em;
+}
+
+.colfootnotes .collapsible-block-link {
+    --wght: 700;
+    display: inline-block;
+    position: relative;
+    /* width: -moz-fit-content; */
+    width: fit-content;
+    top: -.75em;
+    right: auto;
+    bottom: -.75em;
+    left: auto;
+    margin: 0;
+    padding: 0 .5em;
+    background-color: rgb(var(--footnotes-footer-title-bg-color));
+    color: rgb(var(--footnotes-footer-title-text-color));
+    font-size: 1.25em;
+    font-weight: var(--wght);
+    margin-left: 1.5rem;
+    z-index: 1;
+}
+
+.footnotes-footer {
+    translate: 0 -3.6em;
+}
+
+.colfootnotes .collapsible-block-folded .collapsible-block-link {
+    margin-bottom: 1.5rem;
+}
+
+@media only screen and (max-width: 56.25rem) {
+
+.colfootnotes .collapsible-block-link {
+    margin-left: 0;
+}
+
+.footnotes-footer {
+    translate: 0 -3.55em;
+}
+}
+
+.colfootnotes .collapsible-block-folded {
+    height: 0;
+    display: block;
+    margin-bottom: 4rem;
+}
+</style>
+<style>
+.licensebox .collapsible-block-link {
+    margin-left: inherit;
+    padding: inherit;
+    transition: inherit;
+    opacity: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+</style>
+<style>
+@import url('https://backrooms-wiki.wikidot.com/component:colstyle/code/1');
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Unnumbered Level - &quot;The Middlesorts&quot;
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+<div class="creditRate">
+<div class="rateBox">
+<div class="rate-box-with-credit-button"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+42</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div>
+<div class="creditButton">
+<p><a class="fa fa-info" href="#u-infobox"></a></p>
+</div>
+</div>
+</div>
+</div>
+<br />
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div id="u-infobox" style="z-index: 999;">
+<div class="infobox">
+<div class="infobox-title">
+<p>Info</p>
+</div>
+<div class="infobox-body">
+<div style="max-height: 60vh; overflow: auto; z-index: 999;">
+
+
+<p>&quot;all (levels) exist [and] all stories are true&quot; - Russel T. Davies.</p>
+<p>All comments made to other wiki's or other interpretations of the Backrooms are all made in good faith, all versions of the Backrooms are equally as valid and creative as the other!</p>
+<p>Written by <a href="/greggita-mahayfio">Boring Talkings</a>. uwu</p>
+<table class="wiki-content-table">
+<tr>
+<th></th>
+<th><span style="font-size:70%;">Other pages by me</span></th>
+</tr>
+<tr>
+<th>Levels</th>
+<td><a href="http://backrooms-wiki.wikidot.com/level-2">Level 2</a> | <a href="http://backrooms-wiki.wikidot.com/level-4-4">Level 4.4</a> | <a href="http://backrooms-wiki.wikidot.com/level-11">Level 11</a> | <a href="http://backrooms-wiki.wikidot.com/level-13">Level 13</a> | <a href="http://backrooms-wiki.wikidot.com/level-19">Level 19</a> | <a href="http://backrooms-wiki.wikidot.com/level-22">Level 22</a> | <a href="http://backrooms-wiki.wikidot.com/level-25">Level 25</a> | <a href="http://backrooms-wiki.wikidot.com/level-38">Level 38</a> | <a href="http://backrooms-wiki.wikidot.com/level-41">Level 41</a> | <a href="http://backrooms-wiki.wikidot.com/level-74">Level 74</a> | <a href="http://backrooms-wiki.wikidot.com/level-82">Level 82</a> | <a href="http://backrooms-wiki.wikidot.com/level-100">Level 100</a> | <a href="http://backrooms-wiki.wikidot.com/level-106">Level 106</a> | <a href="http://backrooms-wiki.wikidot.com/level-108">Level 108</a> | <a href="http://backrooms-wiki.wikidot.com/level-111">Level 111</a> | <a href="http://backrooms-wiki.wikidot.com/level-120">Level 120</a> | <a href="http://backrooms-wiki.wikidot.com/level-134">Level 134</a> | <a href="http://backrooms-wiki.wikidot.com/level-145">Level 145</a> | <a href="http://backrooms-wiki.wikidot.com/level-174">Level 174</a> | <a href="http://backrooms-wiki.wikidot.com/level-179">Level 179</a> | <a href="http://backrooms-wiki.wikidot.com/level-185">Level 185</a> | <a href="http://backrooms-wiki.wikidot.com/level-196">Level 196</a> | <a href="http://backrooms-wiki.wikidot.com/level-206">Level 206</a> | <a href="http://backrooms-wiki.wikidot.com/level-208">Level 208</a> | <a href="http://backrooms-wiki.wikidot.com/level-320">Level 320</a> | <a href="http://backrooms-wiki.wikidot.com/level-368">Level 368</a> | <a href="http://backrooms-wiki.wikidot.com/level-369">Level 369</a> | <a href="http://backrooms-wiki.wikidot.com/level-370">Level 370</a> | <a href="http://backrooms-wiki.wikidot.com/level-371">Level 371</a> | <a href="http://backrooms-wiki.wikidot.com/level-409">Level 409</a> | <a href="http://backrooms-wiki.wikidot.com/level-421">Level 421</a> | <a href="http://backrooms-wiki.wikidot.com/level-427">Level 427</a> | <a href="http://backrooms-wiki.wikidot.com/level-445">Level 445</a> | <a href="http://backrooms-wiki.wikidot.com/level-511">Level 511</a> | <a href="http://backrooms-wiki.wikidot.com/level-557">Level 557</a> | <a href="http://backrooms-wiki.wikidot.com/level-587">Level 587</a> | <a href="http://backrooms-wiki.wikidot.com/level-600">Level 600</a> | <a href="http://backrooms-wiki.wikidot.com/level-602">Level 602</a> | <a href="http://backrooms-wiki.wikidot.com/level-603">Level 603</a> | <a href="http://backrooms-wiki.wikidot.com/level-605">Level 605</a> | <a href="http://backrooms-wiki.wikidot.com/level-606">Level 606</a> | <a href="http://backrooms-wiki.wikidot.com/level-607">Level 607</a> | <a href="http://backrooms-wiki.wikidot.com/level-608">Level 608</a> | <a href="http://backrooms-wiki.wikidot.com/level-609">Level 609</a> | <a href="http://backrooms-wiki.wikidot.com/level-669">Level 669</a> | <a href="http://backrooms-wiki.wikidot.com/level-713">Level 713</a> | <a href="http://backrooms-wiki.wikidot.com/level-790">Level 790</a> | <a href="http://backrooms-wiki.wikidot.com/level-812">Level 812</a> | <a href="http://backrooms-wiki.wikidot.com/level-910">Level 910</a> | <a href="http://backrooms-wiki.wikidot.com/level-948">Level 948</a> | <a href="http://backrooms-wiki.wikidot.com/level-998">Level 998</a> | <a href="http://backrooms-wiki.wikidot.com/level-999">Level 999</a> | <a href="http://backrooms-wiki.wikidot.com/blue-channel">Blue Channel</a> | <a href="http://backrooms-wiki.wikidot.com/middlesorts">The Middlesorts</a> | <a href="http://backrooms-wiki.wikidot.com/the-frontrooms">The Frontrooms</a> | <a href="http://backrooms-wiki.wikidot.com/pa98">PA98</a> |</td>
+</tr>
+<tr>
+<th>Entities</th>
+<td><a href="http://backrooms-wiki.wikidot.com/entity-1">Entity 1</a>* | <a href="http://backrooms-wiki.wikidot.com/entity-40">Entity 40</a> | <a href="http://backrooms-wiki.wikidot.com/hypothetical-creator">Hypothetical Creator</a> |</td>
+</tr>
+<tr>
+<th>Phenomena</th>
+<td><a href="https://backrooms-wiki.wikidot.com/phenomenon-31">Phenomenon 31</a> |</td>
+</tr>
+<tr>
+<th>Objects</th>
+<td><a href="http://backrooms-wiki.wikidot.com/object-22">Object 22</a> |</td>
+</tr>
+<tr>
+<th>Tales</th>
+<td><a href="http://backrooms-wiki.wikidot.com/a-late-letter-to-a-late-friend">A Late Letter to a Late Friend</a> | <a href="http://backrooms-wiki.wikidot.com/case-closed">Case Closed</a> | <a href="http://backrooms-wiki.wikidot.com/j-doe-and-his-night-with-your-mom">J. Doe and His Night With Your Mom</a> | <a href="http://backrooms-wiki.wikidot.com/permission-overwritten">Permission Overwritten</a> | <a href="http://backrooms-wiki.wikidot.com/the-war-for-scene-011">The War For Scene-01.1</a> |</td>
+</tr>
+<tr>
+<th>The playground</th>
+<td><a href="http://boringtalkingsandbox.wikidot.com">Click me!</a> |</td>
+</tr>
+</table>
+</div>
+<div class="infobox-footer">
+<p><a class="button btn" href="###">Close</a></p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<p><span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="sd-container">
+<div class="top-box class-0 color-{$color}">
+<div class="header-diamond">
+<div class="bg"></div>
+<div class="diamondy diamond-color class-0 color-{$color}"></div>
+<div class="diamondy diamond-pattern"></div>
+<div class="diamondy diamond-image class-0 {$image}"></div>
+</div>
+<div class="gradient-box">
+<div class="top-text">
+<p>SURVIVAL DIFFICULTY:</p>
+</div>
+<div class="bottom-text">
+<p>Class 0</p>
+</div>
+</div>
+</div>
+<div class="bottom-box class-0">
+<ul>
+<li><span class="{$one}">{$one}</span><span class="default"><span style="white-space: pre-wrap;">&#32;</span></span></li>
+<li><span class="{$two}">{$two}</span><span class="default"><span style="white-space: pre-wrap;">&#32;</span></span></li>
+<li><span class="Non-hostile Entities">Non-hostile Entities</span><span class="default"><span style="white-space: pre-wrap;">&#32;</span></span></li>
+</ul>
+</div>
+</div>
+<p>The Middlesorts is an average, medical clinic office that exists at the very centre of the Backrooms and acts as a hub for all levels.</p>
+<h1 id="toc0"><span><strong>Description</strong></span></h1>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/middlesorts/mwaitingroom.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>The waiting room that the Middlesorts revolves around.</p>
+</div>
+</div>
+<p>Visually, the Middlesorts appears as a rather bland waiting room, similar to those found in places like hospitals or medical clinics. This small, dry room is where those who inadvertently enter the Middlesorts will end up when they arrive. Despite the variety of entrance types that are present in order to arrive within The Middlesorts, all visitors initially enter through a main set of double doors, usually by being noclipped or catapulted through them. Once entering the Middlesorts, the doors immediately lock themselves shut, inhibiting any future use of them.</p>
+<p>The actual level design, while undoubtedly clinical and corporate, paints a friendly and inviting atmosphere. The main room has a small collection of chairs to sit on, artistic decorations such as paintings and photographs, water fountains, vending machines,<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup> as well as a vast array of magazines if one should choose to read them. These magazines appear to reference various locations, brands, and people with varying levels of identifiability. Some select explorers have recognised these people either being direct correlations to places or celebrities they recognise from their own life, or similar lookalikes.</p>
+<p>The ceiling lights emit a small hum, much like other similarly indoor liminal levels. However, they are extremely quiet and almost unnoticeable to those not immediately aware of them. Though presumably not intentional, the sound of the humming puts many people at ease, making the level feel familiar and homely without coming across as overly intrusive or artificial.</p>
+<hr />
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/middlesorts/mhallway.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>A hallway with a particularly high amount of unlocked doors.</p>
+</div>
+</div>
+<p>Outside of the main waiting area, The Middlesorts is built with a myriad of possibly infinitely expanding and narrow corridors. These hallways, whilst sparsely decorated, do contain many of the similar furnishings to the main waiting room, such as paintings, seats, magazines, and vending machines. Featureless doors are also prevalent, most of which are locked. It is unknown if these specific doors are naturally locked as part of this level's design or have been locked by the main inhabitants within this level. As is described later, the behaviours of the dominant group within The Middlesorts could point towards the lattermost theory. However, along those same lines, the operating group inside of The Middlesorts has given no amount of explanation for these doors when asked about them.</p>
+<p>Behind the unlocked doors are empty rooms, but occasionally contain stone-topped desks, drawers, cabinets, or basic office chairs. These rooms are believed to have once been, or at the very least are meant to imitate, medical rooms found in many small clinics. It is also believed that all of the rooms have had their furniture removed intentionally, most likely by previous travellers, who frequently use empty rooms for temporary habitation during their trips across the Backrooms.</p>
+<p>As many people from across the Backrooms reside here, people frequently share rooms with one another for a variety of reasons. People even help others find appropriate bedding if staying long term, or cook and chat casually in temporary friend groups. Some individuals and teams from various groups are also known to live here full-time, living solely off of the products purchaseable from vending machines or from the goodwill of other residents.</p>
+<p>These halls do not have a determinate end, and possess a non-Euclidean aspect to them. Traversing them for long enough eventually puts oneself back on the initial hallway they started from,<sup class="footnoteref"><a id="footnoteref-2" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-2')">2</a></sup> swiftly leading them back to the waiting room. Much like the other confusing properties of the hallways, it is unknown if this effect is natural or artificial.</p>
+<h2 id="toc1"><span>The Desk</span></h2>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/middlesorts/mdesk.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>A hastily snapped photo of the desk whilst it was empty.</p>
+</div>
+</div>
+<p>Within the main room of The Middlesorts, a help-desk is built just to the left of the main doors. The desk is of a marble material, and is recessed into a beige portion of the otherwise flat-white walls. The desk itself is minimally decorated, possessing a simple, mid 2010's era laptop plastered in sticky notes of an unknown language that is, according to those at the front desk, written in a specific dialect for the humour of its employees. Other decorations include staplers, a stack of plain paper, a cheque slip, a &quot;Best site of the year&quot; mug filled with various office supplies, and other somewhat standard items for a Frontrooms office.</p>
+<p>Behind the desk itself is a small area filled to the brim with filing cabinets, which are in-turn packed with various paper folders that oftentimes jut out of the top of each drawer. It is unknown what these papers are, as it is impossible to go behind the desk due staff intervention if someone tries, but it is theorised that these paper documents could possibly contain information on thousands of levels, entities, phenomena, and even groups. Other notable things behind the desk are yet more laptops, stacked CRT monitors, multiple water coolers, a cluttered table covered with more paper, and metal bins which are also filled to the brim with yet more, albeit crumpled paper.</p>
+<h1 id="toc2"><span><strong>The Infinity Effect</strong></span></h1>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://backrooms-wiki.wdfiles.com/local--files/middlesorts/mmultiverse.jpg" style="width:300px;" alt="Missing alt text." class="image" />
+<div class="scp-image-caption" style="width:300px; displ{$captionless}y:none;">
+<p>A diagram of what has been dubbed as the &quot;observable backrooms multiverse&quot;<sup class="footnoteref"><a id="footnoteref-3" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-3')">3</a></sup> from a zoomed out and two-dimensional perspective.</p>
+</div>
+</div>
+<p>As confirmed by off-hand remarks given to the M.E.O.D.<sup class="footnoteref"><a id="footnoteref-4" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-4')">4</a></sup> by the level's native inhabitants, The Middlesorts would be virtually inaccessible from what is dubbed as &quot;our discovered part of the known Backrooms&quot;. However, the Middlesorts exists within a unique geographical location that allows it to be accessed regardless of where one is in the entire Backrooms.</p>
+<p>Previously documented levels like <a href="/level-38">Level 38</a>, <a href="/level-94">Level 94</a>, and <a href="/level-237">Level 237</a> are currently written with the descriptor of having &quot;infinite&quot; or &quot;random&quot; exits. This, to our knowledge, is a true phenomenon, as those aforementioned levels have consistently led to other levels with no rhyme or reason upon using some of their exits. They have even led to levels with notoriously hard entrances like <a href="/level-515">Level 515</a>, and occasionally provide critical help in exploring levels like <a href="/level-8-1">Level 8.1</a>. Some of these infinite exits have even led to levels that have only been documented once, such as places like <a href="/level-483">Level 483</a> or levels that are currently not in the main database.</p>
+<p>It has long been understood that there are far more levels than what is known to the M.E.O.D. and other groups, the number possibly being in the billions if levels like <a href="/the-grave">The Grave</a> are any basis to draw off of. Because of this, going to &quot;any level&quot; from whichever level you're in should, theoretically, take one to any combination of infinite, bizarre locations. However, this frequently doesn't happen due to an inherent flaw in the way that calculating a destination from these exits works.</p>
+<p>According to testimonies from the Middlesorts' inhabitants, the Backrooms is not able to physically &quot;render&quot; and draw out an exit to the billions of Backrooms levels that exist. As such, it sometimes instead draws on a default coordinate as a failsafe if it cannot navigate to a level in time, that coordinate in question being a 0,0<sup class="footnoteref"><a id="footnoteref-5" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-5')">5</a></sup> coordinate right at the dead-centre of the Blue Channel, which is where The Middlesorts coincidentally exists.</p>
+<p>This level is not naturally altered by its location within The Blue Channel, as early reports date it as an equally mundane level even back in more ancient times.<sup class="footnoteref"><a id="footnoteref-6" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-6')">6</a></sup> Over the years, however, the multiversal-level of access to The Middlesorts has meant that countless groups have sought out to occupy it, some of which have modified the level in unknown ways that have gradually resulted in what the level now is. Organisations from various unknown levels<sup class="footnoteref"><a id="footnoteref-7" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-7')">7</a></sup> have progressively come and gone with varying levels of success, however one group has remained the uncontested owners of the level, that being:</p>
+<h1 id="toc3"><span>Corpus Cores</span></h1>
+<p>Corpus cores, referred to simply as cores, are the self-assigned name to a small subsection of a larger, unseen species of entity that reside somewhere within the larger scope of The Backrooms multiverse. While the cores within The Middlesorts speak of their overall population being within the tens of thousands, the M.E.O.D. has only been able to witness four individual members of the species. Physically, cores are relatively humanoid, though their human-like traits are at liberty to fluctuate. Their skin can come in practically any colour, and have a variety of near-cartoonish proportions with the unifying factor of being slim or tall in some way.</p>
+<p>Despite their physical differences, cores have some unifying traits that link them together as being under the same species. All cores appear to wear clothes at a first glance, although many of their garments are actually part of their skin. Outlines of ribs, muscles, or other bodily features can be seen through them, especially through thinner garments. Thicker or more pronounced clothes, such as dresses, jumpers, or waistcoats on full suits, are less likely to be grafted to the body, and instead work as standard clothes that can be used to easily identify cores from one another.<sup class="footnoteref"><a id="footnoteref-8" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-8')">8</a></sup> It is unknown if all their clothes are fused into their skin, or if the clothing is their skin, including their more pronounced garments. However, given that their clothes are rarely seen to change, the former is more believed.</p>
+<p>Somewhat similar to humans, the sentience that corpus cores possess drives them to form communities, catalogue levels, and gain a vast grasp of The Backrooms' physics as a whole. What processes cores do this under is unknown, however, it can be assumed that—given their skillset is similar to humans—they explore anomalous things hands-on, although presumably with more equipment than what the M.E.O.D. currently has access to.</p>
+<p>These individuals, according to the cores, are a small group within a large alien population, although the actual name and organisation these creatures come from is currently an not known. However, it is heavily believed that cores are one of the larger groups within The Backrooms, supposedly having some form of documentation or habitation across tens of thousands of different levels; even ones previously believed to be fully documented by the M.E.O.D. have some kind of core presence within them. Talks with these entities have been enacted various times across countless decades and by various groups in order to try and understand more about their existence; more importantly to have access to their vast litany of documented levels, entities, objects, and notable individuals and groups. However, no such luck has ever come from these endeavours.</p>
+<hr />
+<p>Below are the individual writeups for what the M.E.O.D. has successfully been able to gather and infer about the four stationed staff at The Middlesorts, as well as new interviews with each member in order to allow people to understand their personalities.<sup class="footnoteref"><a id="footnoteref-9" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-9')">9</a></sup> All of these interviews were documented within a tight 6 day period, conducted by the recently retired Somalia Hanks.</p>
+<h2 id="toc4"><span>Simon</span></h2>
+<p>Simon, at least from what can be discerned, is the main manager of the other three cores. Unlike some of the others, he is a more humble and helpful individual, although he is rarely seated at the front desk due to the fact is &quot;always work[ing] on filing boring paperwork&quot;. Because of this, Simon is usually behind the counter and sifting through the almost endless amounts of paperwork within the filing cabinets, and giving passing remarks to the other cores that happen to say things to him. Seemingly, Simon is only usually passive-aggressive or bitter to other cores, bringing forth contempt to his true personality when not directly speaking to others.</p>
+<p>Simon is extremely lean, with an almost balloon-shaped and visible rib cage shape, and a lower body thin and skinny enough to show pelvic and spinal bones. Their most distinct feature is a formal waistcoat. It is mostly grafted to their skin on their upper body, but it flares out at the tailcoats down to the back of his knees. This pronounced jacket is used as the main way to identify them from behind, alongside their light grey skin colour. Aside from the coat, he has practically no other distinguishing features besides his tall and slim, featureless head that his voice somehow still emanates from.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;Simon's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;Simon's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc5"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 20:00<br />
+<strong>Date:</strong> 10/01/2026<br />
+<strong>Location:</strong> <a href="/middlesorts">The Middlesorts</a>, at the desk for the cores.<br />
+<strong>Interviewer:</strong> Somalia Hanks<br />
+<strong>Interviewee:</strong> Simon</p>
+<hr />
+<p><strong>Somalia Hanks:</strong> Ah, Simon, hi!</p>
+<p><em>[Somalia looked over the desk, seeing Simon sifting through papers on the incredibly cluttered back desk. Before he took note of Somalia, he picked up a few stapled pieces of paper that had paragraphs of text and printed images on them. He scrunched them up tightly and tossed them into an already overflowing bin. Once finished, he looked up to Somalia, nodding to her to acknowledge her comment as he walked closer to her, standing behind the desk formally.]</em></p>
+<p><strong>Simon:</strong> Oh, it's you! The others have said mixed things about you. I do know you've been in here for a while?</p>
+<p><strong>Somalia Hanks:</strong> Practically six days, yeah. I've been trying to get interviews with all of you for my group, and you're the last one I need!</p>
+<p><strong>Simon:</strong> I see&#8230; So, I imagine you've already heard quite a lot about us from the other three? A lot of sarcastic remarks from them, I bet.</p>
+<p><strong>Somalia Hanks:</strong> <em>Ugh, too many to count&#8230;</em> You seem much nicer, though?</p>
+<p><strong>Simon:</strong> Someone has to balance out the bitterness of the other three. I also do a lot more than them, a lot of behind the scenes filing and management. I can't prat about like they do.</p>
+<p><strong>Somalia Hanks:</strong> Well, I'm thankful for that! I'm almost sorry to disturb your time now, I don't really have any questions for you&#8230;</p>
+<p><strong>Simon:</strong> Oh, it's no issue, madam! Why don't you tell me about you, first? What about who you're documenting for?</p>
+<p><strong>Somalia Hanks:</strong> Well, I'm Somalia Hanks, and my group's called the M.E.O.D. It's&#8230; Kinda new-ish, it's only existed for three years.</p>
+<p><strong>Simon:</strong> Oh, I know it has! Your group is&#8230; <em>Let me check, actually, I don't remember-</em></p>
+<p><em>[Somalia snickered at Simon's comment, waiting patiently as he booted up the laptop for the desk. With a few audible clicks, he presumably finds information on the group, shown by his head giving a singular nod.]</em></p>
+<p><strong>Simon:</strong> Ah, now I remember! A group that's been going on for three years strong, aims to give people in the Backrooms the living conditions found in the Frontrooms, was formed after a cataclysmic disaster in your <a href="/level-13">level-13</a> almost destroyed countless levels, and is made from a combination of <a href="/the-m-e-g">your M.E.G.</a>, <a href="/the-b-n-t-g">the B.N.T.G.</a>, and <a href="/cbs">the CBS</a>, and no group exists on their own anymore. Is that right?</p>
+<p><strong>Somalia Hanks:</strong> W-Wow- uh, yes! Yes it is! The only missing detail is we've actually amalgamated <em>more</em> groups since then, but that laptop really knows everything, doesn't it!</p>
+<p><strong>Simon:</strong> It's certainly an impressive database, isn't it? We've got so many levels, entities, groups, and people stored on it. It's not my main job, but I like to monitor it, make sure information's as consistent as it can be, and&#8230; All that stuff.</p>
+<p><strong>Somalia Hanks:</strong> Sounds kind of like the job of an archivist? I was kind of one of those up until recently? <a href="/level-206">I've actually retired now</a>; this is my last job, and my last interview.</p>
+<p><strong>Simon:</strong> How come you're retiring? Besides some gray locks and a cane, I can't see why you should?</p>
+<p><strong>Somalia Hanks:</strong> Ah, you shouldn't, I'm old! You're going to make my heart jump-</p>
+<p><strong>Simon:</strong> I think I'd also make a husband pretty mad? Your POI file seems to mention one?</p>
+<p><strong>Somalia Hanks:</strong> You even have my POI file??</p>
+<p><strong>Simon:</strong> I did say we have an impressive database? I hope me looking you up isn't an invasion of privacy-</p>
+<p><strong>Somalia Hanks:</strong> Not at all, it's quite okay! I-I am gonna call this interview off prematurely though, <em>I-I am about to bust out laughing from this, it's been a joy talking to you.</em></p>
+<p><em>[Gradually, Somalia's voice trailed and became quieter, being replaced mostly by snickers and laughs.]</em></p>
+<p><strong>Simon:</strong> Ah, it's been nice getting to know you too! Good luck with your retirement, madam.</p>
+<h3 id="toc6"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<h2 id="toc7"><span>Molly</span></h2>
+<p>Molly, unlike Simon, regularly manages the front desk and is typically the corpus core individuals will speak to in the Middlesorts. She acts incredibly sarcastic and has been described by the other cores as &quot;catty&quot;. She is quick to make snide remarks to anyone she talks to and, if her views on the economy of their species are anything to go off of, she is also rather self-centred. Her bitter demeanour puts many people off from speaking to her, and many permanent residents of this level warn newcomers about &quot;the crude one.&quot;</p>
+<p>Like Simon, Molly is rather lean, with her most identifying feature being the lack of any real torso. From the top of her hips sprout two &quot;forearms&quot; that follow perpendicular to an extremely long neck before forming into two shoulders, which is where her actual and movable arms form from. Her face is featureless, but her skull and skin has an obscure shape to it that almost resembles vintage, 50's era curly hair. Covering a majority of her &quot;body&quot; area is a shirt that ends where the waist would be, which is in a pale-white colour the same hue as her skin.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;Molly's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;Molly's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc8"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 07:48<br />
+<strong>Date:</strong> 04/01/2026<br />
+<strong>Location:</strong> <a href="/middlesorts">The Middlesorts</a>, at the desk for the cores.<br />
+<strong>Interviewer:</strong> Somalia Hanks<br />
+<strong>Interviewee:</strong> Molly</p>
+<hr />
+<p><strong>Somalia Hanks:</strong> So, Molly, is it?</p>
+<p><strong>Molly:</strong> Mhm~! You really don't need to ask again, unless you're really that forgetful?</p>
+<p><strong>Somalia Hanks:</strong> It's&#8230; just for the recording. This is my first interview in a while, so uh&#8230; I'm just breaking in how to do them again.</p>
+<p><strong>Molly:</strong> Ah! I see, I see. Oh I do love a nice interview, I rarely get them nowadays.</p>
+<p><strong>Somalia Hanks:</strong> Well, you're getting one now at least&#8230;</p>
+<p><em>[Somalia looks down to a small, prepared notepad with a handful of questions prepared not just for Molly, but for every single core. Each question was rather simple, simply starting with yes or no questions, and gradually turning into proper questions about their species. Choosing to stay simple to start, Somalia picked the easiest question.]</em></p>
+<p><strong>Somalia Hanks:</strong> Right, so&#8230; You manage this whole level?</p>
+<p><strong>Molly:</strong> <em>You're really going to start with a yes or no question like that? have you ever even done an interview before?</em></p>
+<p><em>[Suddenly, Molly spoke in a quieter, more sarcastic and demeaning tone, leaning over the desk in an almost intimidating fashion.]</em></p>
+<p><strong>Somalia Hanks:</strong> Just answer the question, please—</p>
+<p><strong>Molly:</strong> Hah! Well, we do! Not just us four out in the back, but our whole group too. We own quite a lot of levels, in fact.</p>
+<p><strong>Somalia Hanks:</strong> You <em>own</em> them? In what way do you own a level?</p>
+<p><strong>Molly:</strong> Stocks and liminal chains, my darling. It's basic land economy 101.</p>
+<p><strong>Somalia Hanks:</strong> Could you explain it for the documentation, perhaps?</p>
+<p><strong>Molly:</strong> My&#8230; The recent humans are simple, huh. Very well then~! I'll describe it best I can&#8230;</p>
+<p><em>[Molly hums a little, leaning back in the office chair and deciding to close the laptop too in preparation to explain.]</em></p>
+<p><strong>Molly:</strong> About 40 years ago&#8230; we set up a nice, small little system of owning levels! After we found and inhabited about&#8230; 2,000 of the things? We realised that managing who technically owned what level based on how big bases were was&#8230; difficult, especially with all the groups and species idling around. So, we made a system! People can submit some money to essentially bid what level belongs to them, people can sell these, trade these, and do whatever they may choose with them! Even outbid them too, should they want.</p>
+<p><strong>Somalia Hanks:</strong> Sounds&#8230; Lucrative? Does it make much money?</p>
+<p><strong>Molly:</strong> <em>It makes us fucking minted.</em></p>
+<p><strong>Somalia Hanks:</strong> Huh&#8230; well, I think we can wrap that up there. I think that's a good enough first interview&#8230; If not a short one.</p>
+<p><strong>Molly:</strong> Aw, well, that's a shame! Remember, I'm here if-</p>
+<p><em>[Somalia Hanks turns off the recording kit prematurely.]]</em></p>
+<h3 id="toc9"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<h2 id="toc10"><span>Ben</span></h2>
+<p>Ben, much like Molly, mainly works the front desk, but seems to do it less than Molly. This may be due to their mixture of a cocky and carefree attitude, which has reportedly led to many people learning vast amounts of information about the Backrooms that he has easy access to. In-spite of this oversharing, Ben is surprisingly kind and helpful, especially in comparison to the other cores. His attempts at humour with those he speaks to are—for the most part—done in good faith, and he typically gets people back to their sections of The Backrooms without fuss.</p>
+<p>In contrast to the other three, Ben is a shorter, stockier individual, made of what can only be described as an extremely round trapezoid for a body that eventually sprouts into a neck, though he still has defined shoulder bones that hold arms. His arms, whilst slender enough to reach below his hips, are relatively wide at the shoulder before gradually slendering into literal stick thin hands. The same happens with his legs, starting out as large at his thighs before tapering into small feet.</p>
+<p>Unlike the previously two described cores, Ben actually has a singular feature on his face in the form of a defined pair of lips that sit where a nose typically would. Though he does speak from this mouth unlike the other two, whose origin of voice is unknown, he mostly uses it to emote with smirks and smiles, with his mouth sometimes opening up wider than the lips themselves to emote further. He is also the most dressed of the bunch, having a beanie-shaped bulge on the top of his head, a large jumper partially fused into his torso, and even sports branded sneakers.</p>
+<p>As well as this, for some reason, he has a Glaswegian accent.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;Ben's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;Ben's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc11"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 10:10<br />
+<strong>Date:</strong> 06/01/2026<br />
+<strong>Location:</strong> <a href="/middlesorts">The Middlesorts</a>, at the desk for the cores.<br />
+<strong>Interviewer:</strong> Somalia Hanks<br />
+<strong>Interviewee:</strong> Ben</p>
+<hr />
+<p><strong>Somalia Hanks:</strong> I must admit, I'm shocked, you're actually the first core to actually volunteer to speak to me! I had a hard time asking the others, especially Molly.</p>
+<p><strong>Ben:</strong> Ack, aye, they're all a buncha pests&#8230; I'm nei like that! I heard ya talkin' to the others, and I've seen ya walkin' aroond in here aimlessly. I figure you're here documentin' shit?</p>
+<p><strong>Somalia Hanks:</strong> Yep! From what I've heard, that isn't new for people to do?</p>
+<p><strong>Ben:</strong> You'd be surprised at just how many groups there are like yer's.</p>
+<p><strong>Somalia Hanks:</strong> Heh, I do have a small picture of the groups&#8230; Mind if I ask you a question? It's one that's been on my mind.</p>
+<p><strong>Ben:</strong> Aye, hen, go ahead!</p>
+<p><strong>Somalia Hanks:</strong> Right&#8230; is it true that you can take us to <em>any</em> level?</p>
+<p><strong>Ben:</strong> Aye, hen. Any level yer want that we know aboot ya can access with a wee bit of our help!</p>
+<p><strong>Somalia Hanks:</strong> What uh&#8230; What database do you use? I know there are still a few left after the conglomerisation.</p>
+<p><strong>Ben:</strong> All of 'em, sweetheart. We know many of ya databases and have combined them to make ours! Nooow&#8230; give a level, aye? Where ya wanna go?</p>
+<p><strong>Somalia Hanks:</strong> Hmm&#8230; What about just&#8230; Oh I dunno, Level 16?</p>
+<p><strong>Ben:</strong> Ah, aye lass! Which wen?</p>
+<p><strong>Somalia Hanks:</strong> Which&#8230; one&#8230;?</p>
+<p><strong>Ben:</strong> T'is what I said, no?</p>
+<p><strong>Somalia Hanks:</strong> What- what do you mean 'which one?'</p>
+<p><strong>Ben:</strong> Ah, nei worries lassie. Let's see&#8230;</p>
+<p><em>[Ben's figure slightly turns to their monitor, presumably starting to type and search around on it.]</em></p>
+<p><strong>Ben:</strong> Righty! We have aboot&#8230; twenty levels that are called Level 16, or that kinda sound like it.</p>
+<p><strong>Somalia Hanks:</strong> Uuuhh&#8230; Cool! Can I know what those are?</p>
+<p><strong>Ben:</strong> We's got&#8230; hm&#8230; We have a <a href="https://backrooms.fandom.com/wiki/Level_16">Level 16</a> that's some abandoned mental asylum, a <a href="/level-16">Level 16</a> that's constantly changin' and shit, I guess? There's also a long cabin hallway <a href="https://the-voidclusters.fandom.com/wiki/Level_16">Level 16</a>, there's a <a href="http://backrooms-wiki.wikidot.com/nivel-es-16">Level 16</a> that's an abandoned, ancient city. There's one that's got doors that go to bedrooms or&#8230; Something. Then we got a dark and dingy aquarium <a href="http://liminal-archives.wikidot.com/the-aquarium">Level 16</a>, a mockup wild west town <a href="http://forgotten-places.wikidot.com/level-16">Level 16</a>, and a <a href="/level-990">Scene-01.6</a>. But I havne heard that name in a long time!</p>
+<p><strong>Somalia Hanks:</strong> And&#8230; is that all of them, Ben?</p>
+<p><strong>Ben:</strong> Hah, nei! There's <a href="http://ru-backrooms-wiki.wikidot.com/level-a-16">an endless street filled with smoke</a>, <a href="http://backrooms-wiki-cn.wikidot.com/level-c-16">infinite high school classrooms</a>, <a href="http://pl-backrooms-wiki.wikidot.com/poziom-pl-16">some big paper archives room</a>, <a href="http://spatial-records.wikidot.com/level-16">a big house with confusing stairs</a>, <a href="https://backrooms-freewriting.fandom.com/wiki/Level_16">some tropical island</a>, <a href="https://poolrooms.fandom.com/wiki/Level_16">an weird indoor pool</a>, <a href="https://thebackrooms.miraheze.org/wiki/Level_16">an unsafe hotel that lies to you</a>, <a href="http://middlerooms-wiki.wikidot.com/level-16:the-aesthetic-city">some neon city looking stuff</a>, <a href="https://docs.google.com/spreadsheets/d/1yQaAOuszvkyl_HgJW1-BYy5xLuPGCn-WLioYE27Ytq8/edit?usp=sharing">rooms filled with christmas fuckery</a>, <a href="http://backrooms-apeir.wikidot.com/level-16">damn, this one's just weird as hell architecture</a>, <a href="https://liminalscapes.fandom.com/wiki/Normal_Level_List">there's one that I'm just... confused by</a>, <em>oh, another <a href="https://lanimil-corporation-backrooms-documentation.fandom.com/wiki/Level_16">asylum</a></em>&#8230; <em>and&#8230; <a href="https://enter-the-backrooms.fandom.com/wiki/Level_16">two</a> <a href="http://backrooms-mghc.wikidot.com/level-16">others</a>, too.</em> Welp, that's your lot!</p>
+<p><strong>Somalia Hanks:</strong> So&#8230; So that's a lot- you understand that right?</p>
+<p><strong>Ben:</strong> Aye.</p>
+<p><strong>Somalia Hanks:</strong> The uh, the only 16 <em>I</em> know is the shifting environment one&#8230; Do I really want to visit all these other ones?</p>
+<p><strong>Ben:</strong> If ye dee decide to, you're basically never gettin' back to the wee bit of the Backrooms ye currently know. Some of these levels you'd basically never be able te reach, explored by completely different humans in different times.</p>
+<p><strong>Somalia Hanks:</strong> R-Right, right, that's not absolutely huge news at all&#8230;</p>
+<p><strong>Ben:</strong> <em>I can tell by yer sweaty face ya lyin'.</em></p>
+<p><strong>Somalia Hanks:</strong> Just&#8230; how do you take me to these levels? <em>How do you even do that?</em></p>
+<p><strong>Ben:</strong> The door, ya silly wench. At some point we gave it a shite tonne of mods to basically be able to dee as we please! We just input where you wanna go on our computer, do a few button presses, and boom! Yer's are free to go where you wanna.</p>
+<p><strong>Somalia Hanks:</strong> And you just do this&#8230; for free?</p>
+<p><strong>Ben:</strong> Aye! I mean, why no? We're already loaded from all the other shite we do, and it's not like we have anything else to do in this wee place.</p>
+<p><strong>Somalia Hanks:</strong> Gotcha&#8230; well, awfully noble of you to do that. But uh, yeah, I think this interview is done now!</p>
+<p><strong>Ben:</strong> Hah, nei bother hen. Always up for a chat.</p>
+<p><em>[Somalia Hanks gives them a nod]</em></p>
+<h3 id="toc12"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<h2 id="toc13"><span>Ava</span></h2>
+<p>Ava is the last of the cores one can find within the Middlesorts, and is also one of the individuals who is at the counter the least, second only to Simon. Though enjoying conversation with visitors of the Middlesorts, Ava usually likes to take a back seat to both Molly and Ben to let them alternate work at the front desk. When she is taking the shift at the front desk, however, she is usually chatty and curious about people's lives, though usually without any kind of filter. This has often lead to people becoming insulted inadvertedly through Ava's light-hearted, semi-sarcastic attitude, though she rarely means to cause offense.</p>
+<p>Whilst slim like Simon and Molly, Ava is shorter than the pair, at a middling height between the aformentioned two and Ben. A majority of Ava's body-mass is surprisingly her own legs, most of which are covered by a long, flowing dress/shawl that starts from around the neck and ends halfway down her calves. This obscures a great majority of her body, including the fact she completely lacks a torso and that her neck sprouts from her waist, which juts out from the neck into a round head. Completely lacking in arms, Ava actually uses her feet to access their database, which are built like hands.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;Ava's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;Ava's&nbsp;new&nbsp;interview.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc14"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 07:59<br />
+<strong>Date:</strong> 04/01/2026<br />
+<strong>Location:</strong> <a href="/middlesorts">The Middlesorts</a>, at the desk for the cores.<br />
+<strong>Interviewer:</strong> Somalia Hanks<br />
+<strong>Interviewee:</strong> Ava</p>
+<hr />
+<p><strong>Somalia Hanks:</strong> <em>Please, let this next one be easy&#8230;</em></p>
+<p><strong>Ava:</strong> Let the next what be easy?</p>
+<p><strong>Somalia Hanks:</strong> <em>Ah!</em></p>
+<p><em>[Somalia Hanks, having previously been sat alone in the waiting room and letting her audio recorder idly play, was suddenly greeted by the presence of Ava. She had suddenly walked to the desk after it having been empty for a few hours, sat down, and waited for Somalia to speak before replying to her, making Somalia jump inadvertently.]</em></p>
+<p><strong>Ava:</strong> Oops, shit! Didn't mean to give you a jump. Seriously though, what're you talking about?</p>
+<p><strong>Somalia Hanks:</strong> Sorry, sorry&#8230; I was actually talking about the interviews I'm doing. I did one yesterday, I didn't feel it went too well.</p>
+<p><em>[After speaking, Somalia picked up her cane and carefully got herself upright, followed by her then making her way over to the desk to speak to Ava directly, and to clearly pick up their audio.]</em></p>
+<p><strong>Ava:</strong> Damn, who'd you speak to?</p>
+<p><strong>Somalia Hanks:</strong> Uh, Molly&#8230; It was my first time doing an interview in a while, and actually my first time doing proper work&#8230; I didn't handle it well, and she let me know it.</p>
+<p><strong>Ava:</strong> Shiiit&#8230; I didn't ask you to open up the exposition-gates, but shit nonetheless.</p>
+<p><strong>Somalia Hanks:</strong> Oh, I didn't mean to open up like that! It all just came out-</p>
+<p><strong>Ava:</strong> Heyyy! No need to apologise&#8230; I'm not gonna pretend like I asked for what you said, but you can spew your heart out to me if you'd like? You can't have fucked up <em>too</em> bad?</p>
+<p><strong>Somalia Hanks:</strong> <a href="/pa98">I accidentally caused a halloween party to turn bloody two years back?</a> That um&#8230; <em>That one still weighs on me, actually.</em></p>
+<p><strong>Ava:</strong> Ouch, nevermind&#8230; You DID fuck up!</p>
+<p><em>[Though Ava laughed a little bit, Somalia stood there in some clearly shocked silence, her hand momentarily tight around her cane. Ava seemed to notice, and quickly became silent as to not intentionally stir up Somalia further. At that same time, though, a trio of <a href="https://kane-pixels-backrooms.fandom.com/wiki/ASYNC_Foundation">heavily suited-up people</a> walked into the waiting room from the right hallway. One of them was carrying an odd, black suitcase, another was carrying a wrapped up coil of red wire, and the third was carrying a video camera at their waist. Though they had gas masks on, completely hiding their face, the trio seemed somewhat tired, having their heads hung as they sat down.]</em></p>
+<p><strong>Ava:</strong> Eh, could be worse, you could be them?</p>
+<p><strong>Somalia Hanks:</strong> Really? What's up with them-? Besides their appearance, I suppose, but they're certainly more prepped for the Backrooms than anyone I've ever met.</p>
+<p><strong>Ava:</strong> A little <em>overprepped</em>, I'd say&#8230; They accidentally got here by god-knows what means a couple days ago, wheeling around a little red tape and video camera, didn't even bother speaking to us!</p>
+<p><strong>Somalia Hanks:</strong> Oh, odd&#8230; What <em>have</em> they been doing, then?</p>
+<p><strong>Ava:</strong> Not much of shit, lady! They video-taped around, seemed quite surprised at the fact a few people were staying here, and now they just wander a whole lot doin' nothing.</p>
+<p><strong>Somalia Hanks:</strong> So&#8230; Why don't they just leave?</p>
+<p><strong>Ava:</strong> I mean, ask them if you want? But I think they just don't wanna talk to anyone that's not human. It's a bit discriminatory, but&#8230; You know, that's their fault for not properly exploring the Backrooms! They still worry about <a href="https://kane-pixels-backrooms.fandom.com/wiki/Lifeform">stickmen</a> and <a href="https://kane-pixels-backrooms.fandom.com/wiki/Area_1">yellow halls</a>, they've got no idea of the true scope of where they are.</p>
+<p><strong>Somalia Hanks:</strong> Oh, wow&#8230; So they just genuinely won't talk to you. <em>At all?</em> Won't they starve to death with those suits on? Surely they need to leave eventually.</p>
+<p><strong>Ava:</strong> They easily can as long as they come speak to us, but they're yet to do that, they must think we're some big, scary foe.</p>
+<p><strong>Somalia Hanks:</strong> Weird&#8230; I mean they can see me talking to you, surely they'd know you're safe.</p>
+<p><em>[Ava simply shrugs, causing Somalia to sigh and think.]</em></p>
+<p><strong>Somalia Hanks:</strong> Hang on- let me actually try speaking to them.</p>
+<p><em>[Somalia Hanks, without much hesitation, slowly twisted around and walked over to the trio of heavily kitted out explorers. She looked across the three uneasily, especially because their thick hazmat suits made them look almost inhuman in nature, but she still spoke to them nonetheless.]</em></p>
+<p><strong>Somalia Hanks:</strong> Hey, you three, are you all okay?</p>
+<p><strong>Leftmost Individual:</strong> Oh, you. Are you alright? You look rather old to be in the Complex, especially without a hazmat suit&#8230;</p>
+<p><strong>Middle Individual:</strong> We can take you back with us when we find a way back. We'll get you back home safe, we just have to find the main <a href="https://kane-pixels-backrooms.fandom.com/wiki/Low-Proximity_Magnetic_Distortion_System">Threshold</a> again.</p>
+<p><strong>Somalia Hanks:</strong> &#8230; Right&#8230; Look, I don't know what that means, but just speak to the entity at the desk! She's called Ava, she'll help you out.</p>
+<p><strong>Rightmost Individual:</strong> I don't trust that, not one bit—</p>
+<p><strong>Somalia Hanks:</strong> Huh. Well, why? I spoke to her?</p>
+<p><strong>Rightmost Individual:</strong> <em>No</em> entity is safe or trustworthy&#8230; And that one there isn't an exception.</p>
+<p><strong>Middle Individual:</strong> I&#8230; have to agree. One of my colleagues almost got killed by a creature imitating a human voice decades ago. We can't be too sure that the one at the desk isn't doing something similar.</p>
+<p><strong>Leftmost Individual:</strong> We'll try to find another way out, but for now&#8230; We've got nothing.</p>
+<p><strong>Somalia Hanks:</strong> <em>Wow- sounds like you guys cannot get a break&#8230;</em></p>
+<p><em>[Somalia thought for a second, sighing as she spoke, deciding to sit down on the fourth seat in the row to properly speak to them.]</em></p>
+<p><strong>Somalia Hanks:</strong> Look, I know it's going to sound hard to believe, especially because of how much of a tough time you've had with entities, but the one at the desk is safe! She's&#8230; Not the most likeable, and a little direct, but she'll help you get home, alright?</p>
+<p><strong>Leftmost Individual:</strong> I'm sorry, I can't believe that. Not from a civilian.</p>
+<p><strong>Middle Individual:</strong> I'm certain we can find another exit&#8230; I'm an old man, I don't have the stamina to keep on doing these maintenance runs, and I can't run from an entity.</p>
+<p><strong>Somalia Hanks:</strong> You three won't have to run? Trust me, she's fine-</p>
+<p><strong>Rightmost Individual:</strong> <em>Not a chance. Maybe she's an entity too. She's the only one that's been in this waiting room basically since we got here.</em></p>
+<p><strong>Somalia Hanks:</strong> I'm trying to help you!</p>
+<p><strong>Leftmost Individual:</strong> Entities can't appear <em>that</em> humanoid though.</p>
+<p><strong>Rightmost Individual:</strong> They can. <em><a href="/entity-9">We've heard from people here that they can</a>.</em></p>
+<p><strong>Somalia Hanks:</strong> Please, I'm just attempting to get you home!</p>
+<p><strong>Rightmost Individual:</strong> <em>Yeah, well—</em></p>
+<p><strong>Middle Individual:</strong> Enough!</p>
+<p><em>[As soon as the person in the middle of three hazmat people shouted, everyone suddenly jumped, including Somalia and a curiously watching Ava. Once the entire room was deathly silent, the middle individual gave an annoyed sigh, standing up and walking to the counter. The other two hazmat people seemed shocked, their breathing becoming slightly heavy. The individual and Ava began to talk, though due to the muffled nature of the former's words, only Ava's responses could be heard.]</em></p>
+<p><em>[After seven minutes of dialogue between Ava and the middle individual, the latter eventually returned back and looked between the other two members of their group.]</em></p>
+<p><strong>Middle Individual:</strong> Come on, I spoke with them.</p>
+<p><strong>Rightmost Individual:</strong> I saw. That was incredibly dangerous!</p>
+<p><strong>Middle Individual:</strong> Yeah, and we're out, I got us an exit back to The Complex.</p>
+<p><strong>Leftmost Individual:</strong> Wait, really&#8230;?</p>
+<p><strong>Rightmost Individual:</strong> You could've been killed! What if that thing tried to kill you?! You couldn't have escaped it!</p>
+<p><strong>Middle Individual:</strong> It obviously wasn't&#8230; Turns out, they're friendly enough. I didn't understand all she said, but&#8230; she said that the main door's unlocked now, come on.</p>
+<p><strong>Rightmost Individual:</strong> <em>That was stupid&#8230;</em></p>
+<p><strong>Middle Individual:</strong> You can think whatever you'd like&#8230; Come on, though, we're leaving.</p>
+<p><em>[With that, the hazmat trio got up and began to leave. Though the two that didn't speak to Ava were certainly more hesitant, the one who did was far more okay with approaching the double doors. They held it open, allowing the other two to leave, but they themselves waited for a moment, looking to Somalia.]</em></p>
+<p><strong>Middle Individual:</strong> Hey- thank you, by the way&#8230;</p>
+<p><strong>Somalia Hanks:</strong> Oh, no worries! I'm glad you're all able to get home.</p>
+<p><strong>Middle Individual:</strong> Me too&#8230; Seems the Backrooms is something not even we understand&#8230; Take care.</p>
+<p><em>[With that, the final member of the group left, leaving Somalia in quite the shock. She stayed sat in utter surprise, only noticing after a minute that her audio recorder was still active. Upon noticing, she suddenly muttered a profanity under her breath, and turned it off.]</em></p>
+<h3 id="toc15"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<h1 id="toc16"><span><strong>Bases, Outposts and Communities</strong></span></h1>
+<p>Despite many previous groups occupying The Middlesorts, the cores are the main current inhabitants, as has already been established. However, they are not the only inhabitants of the Middlesorts. Though a majority of people accidentally arrive here, and quickly leave shortly thereafter, multiple other groups have figured out the Infinity Effect and have come here deliberately. The reasons for coming to the Middlesorts differ from group to group, but during the most recent 2026 interviews the M.E.O.D. has been able to talk to one group in particular that was of high interest, one of greater importance than <a href="http://fr-backrooms-wiki.wikidot.com/cercle-ariane">a militarised coalition of wanderers</a> or <a href="https://enter-the-backrooms.fandom.com/wiki/Facelings">an interlevel society of Facelings</a>.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;interview&nbsp;with&nbsp;'The&nbsp;M.E.G.'.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;interview&nbsp;with&nbsp;'The&nbsp;M.E.G.'.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc17"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 16:08<br />
+<strong>Date:</strong> 07/01/2026<br />
+<strong>Location:</strong> Deep within the <a href="/middlesorts">Middlesorts</a>'s hallways.<br />
+<strong>Interviewer:</strong> Somalia Hanks<br />
+<strong>Interviewees:</strong> <a href="https://backrooms.fandom.com/wiki/Adrian_Waxillium">Adrian Waxillium</a>, Fana Odom ('M.E.G.' Interviewers)</p>
+<hr />
+<p><em>[After an unsuccessful day of trying to get an interview with Simon, being the final core Somalia had to speak to, she began to make her way back to the room she was temporarily living in. She passed by many individuals on her way back to them, all from various groups with a mixture of human and non-human members, though one specific group caught her eye. Whilst they weren't in uniform or looked anything more than basic civilians at a glance, the group of three each had a large metallic badge on the left side of their chests. With a backing of gold, it had two green wings sprouting from the center with an orange crest just above with a lowercase delta. Below both of these, however, were three words in a bold font that read &quot;<a href="https://backrooms.fandom.com/wiki/M.E.G.">Major Explorer Group</a>&quot;. Greatly curious about the name on this badge, Somalia approached the pair as quick as she could.]</em></p>
+<p><strong>Somalia Hanks:</strong> Uh, hi! You two! Can I speak to you for just a moment-?</p>
+<p><em>[Before even fully finishing her question, one of the two individuals in the group immediately turned around upon hearing Somalia's voice. He gave her a confused glare, and him stopping also caused the other person in their group to stop too. Somalia stopped walking at the same time, glancing with a slightly confused face across the duo.]</em></p>
+<p><strong>Adrian Waxillium:</strong> Oh? And who are <em>you?</em></p>
+<p><strong>Somalia Hanks:</strong> I'm Somalia! Sorry, I recognise I'm just stopping you all completely out of the blue, I'm just very intrigued about your badges there. Could I—</p>
+<p><strong>Adrian Waxillium:</strong> What, our Group badges? You never seen one before?</p>
+<p><strong>Fana Odom:</strong> Do you think she's a civilian? We could send her home by the front desk?</p>
+<p><strong>Somalia Hanks:</strong> You're not the first people to insinuate that to me. Is it the cane that's doing this??</p>
+<p><strong>Adrian Waxillium:</strong> Hm. Could be. What is it you want to know about it?</p>
+<p><strong>Somalia Hanks:</strong> <em>Will I be allowed to ask without you both getting in my face and making accusations?</em></p>
+<p><em>[Both the agents of the M.E.G. looked across each other, shooting some momentary guilty looks before Fana Odom stepped forwards, offering her hand out to Somalia formally.]</em></p>
+<p><strong>Fana Odom:</strong> Okay, we got off on the wrong foot. I'm Fana Odom, and captain nosy behind me is Adrian Waxillium.</p>
+<p><strong>Somalia Hanks:</strong> Adrian&#8230;?</p>
+<p><strong>Fana Odom:</strong> <em>Waxillium.</em> Don't ask. My best bet is his parents are Tudor ghosts.</p>
+<p><em>[Somalia snickered and shook her head playfully, reaching out and taking Fana's hand to shake it. At the same time, Somalia glanced over at Adrian, seeing him give a slightly embarrassed look between them, which trailed slowly down to the floor]</em></p>
+<p><strong>Somalia Hanks:</strong> Well&#8230; I'm Somalia Hanks, that at least put us on slightly better terms&#8230;</p>
+<p><strong>Fana Odom:</strong> Hopefully! Feel free to ask your question, by the way.</p>
+<p><strong>Adrian Waxillian:</strong> Yeah, what Fana said&#8230; You were curious about our badges&#8230;?</p>
+<p><strong>Somalia Hanks:</strong> Yes! The name on them is what's interesting me the most really&#8230; It says Major Explorer Group?</p>
+<p><strong>Adrian Waxillian:</strong> Well, yeah? But we shorten it to M.E.G. Technically, it'd be easier to write that on a badge than the full name, but whatever, I digress.</p>
+<p><strong>Somalia Hanks:</strong> Wait, do you guys come from where I'm from, then? 'My section of The Backrooms' or whatever the cores called it?</p>
+<p><strong>Adrian Waxillian:</strong> I don't know? If we're from the same section, I can understand why you'd recognise the name, we're a pretty big group.</p>
+<p><strong>Somalia Hanks:</strong> The M.E.G. I knew were too! Hell, I was around when the M.E.G. was founded. I helped set up their first base.</p>
+<p><strong>Adrian Waxillian:</strong> That&#8230; would explain the cane.</p>
+<p><em>[Fana almost immediately elbowed Adrian's side after his comment, causing him to seethe and look at her in annoyance, almost readying to elbow her back.]</em></p>
+<p><strong>Adrian Waxillian:</strong> <em>Hey, ow! What gives, it does!</em></p>
+<p><strong>Fana Odom:</strong> Let her speak, Adrian&#8230;</p>
+<p><strong>Somalia Hanks:</strong> Right&#8230; Well, I know what the M.E.G. is, I'm just incredibly confused because the M.E.G.'s been gone for about three years now? It merged with two other groups to form the one I'm in now, and the Overseers are dead.</p>
+<p><strong>Fana Odom:</strong> That's a lot to unpack, and you can probably tell that your whole chain of events there didn't happen to us.</p>
+<p><strong>Somalia Hanks:</strong> Which is why I'm so intrigued! Maybe you guys are some&#8230; lost offshoot? A weird part the M.E.O.D. didn't merge?</p>
+<p><strong>Fana Odom:</strong> Is that the name of your group-?</p>
+<p><strong>Somalia Hanks:</strong> Yeah! Main Extended Organisation Database, used to be M.E.G. and Extended Organisation Database until the Overseers died.</p>
+<p><strong>Adrian Waxillian:</strong> <em>So many acronym names&#8230;</em> Regardless though, I'm really more interested at the whole merging thing? Our current overseers and Impresarios wouldn't ever do something like that, that'd be 200 years of their heritage flushed down the drain.</p>
+<p><strong>Somalia Hanks:</strong> <em>Wait. What?</em></p>
+<p><strong>Adrian Waxillian:</strong> Yeah, they're all old farts, they like their heritage and history. Not the dicey parts, hopefully, they're nice.</p>
+<p><strong>Somalia Hanks:</strong> N-No, not that, the whole 200 years thing is what <em>I'm</em> interested in!</p>
+<p><strong>Fana Odom:</strong> How come? The M.E.G. was founded in 1885, most people I feel know that?</p>
+<p><strong>Somalia Hanks:</strong> Mine wasn't! It was conceptualised in 2011, I helped make its first base in 2012, and saw the start of its database the same year!</p>
+<p><strong>Fana Odom:</strong> Well, maybe there's two M.E.G.'s? The name Major Explorer Group isn't the hardest name to come up with?</p>
+<p><strong>Adrian Waxillian:</strong> Or maybe your overseers stole from our name? They also stole the name 'overseer' too?</p>
+<p><strong>Somalia Hanks:</strong> <em>Yeah, that&#8230; seems pretty likely! I wouldn't put it behind Justin or Andrew, hell, even Kat&#8230;</em></p>
+<p><strong>Adrian Waxillian:</strong> Did they steal the name 'level' too? We've noticed a lot of places using that term too, that was coined back in '95.</p>
+<p><strong>Somalia Hanks:</strong> <em>1995&#8230;?</em></p>
+<p><strong>Adrian Waxillian:</strong> <em>1895.</em></p>
+<p><strong>Somalia Hanks:</strong> Shit. Well, they definitely did then! Makes sense in retrospect, some of the stuff they did <a href="/level-174">was</a> <a href="/object-24">deplorable</a>&#8230; Plagiarism of your group is tuppence in comparison to that. I just have to wonder how they even <em>found</em> you, no one I know is aware you exist?</p>
+<p><strong>Fana Odom:</strong> We travel a lot of levels, and don't always catalogue every single one, maybe we ran into them on our travels by accident? They could've picked up on multiple words we use, and had the chance to take our name</p>
+<p><strong>Adrian Waxillian:</strong> Good thing your M.E.G.'s extinct, or else I'd be having words with your overseers.</p>
+<p><strong>Somalia Hanks:</strong> Hah, if they were alive, I'd let you&#8230; Andrew specifically I'd always rag on, I almost miss him. Before I get too emotional though, uh, thanks for answering my question! I'll let you two go back on your own way, you're no doubt busy.</p>
+<p><strong>Fana Odom:</strong> We are a little bit? The chat was definitely nice though! Definitely eye-opening at the very least.</p>
+<p><strong>Adrian Waxillian:</strong> It was&#8230; Well, nice meeting you Somalia?</p>
+<p><strong>Somalia Hanks:</strong> You too! Both of you.</p>
+<h3 id="toc18"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<p>As asked for by Somalia Hanks for her final wish before retirement, a recording she made with group of individuals she temporarily resided with has been put onto the page. According to her, it is to allow people to better understand the social tone of the Middlesorts.</p>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;Somalia's&nbsp;audio&nbsp;clip.</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;Somalia's&nbsp;audio&nbsp;clip.</a></div>
+<div class="collapsible-block-content">
+<div class="blockquote">
+<h3 id="toc19"><span>&lt;Begin Log&gt;</span></h3>
+<p><strong>Time:</strong> 22:58<br />
+<strong>Date:</strong> 09/01/2026<br />
+<strong>Location:</strong> Inside one of the <a href="/middlesorts">Middlesorts</a>'s rooms.<br />
+<strong>Main participants:</strong> Somalia Hanks, Cecilio Urbs, Avery Boreshaft, Shawn Chandler, Peter Todd.</p>
+<hr />
+<p><strong>Somalia Hanks:</strong> You guys don't mind if I record this, right?</p>
+<p><strong>Cecilio Urbs:</strong> Hah, what for?</p>
+<p><strong>Somalia Hanks:</strong> My job&#8230; Kind of.</p>
+<p><strong>Avery Boreshaft:</strong> Really&#8230;? You're not even doing your interviews. <em>Don't</em> tell me you're about to interview us, are you?</p>
+<p><strong>Somalia Hanks:</strong> No, not at all! I just want to keep a little thing as a momento.</p>
+<p><strong>Avery Boreshaft:</strong> <em>Don't you already have pictures?</em></p>
+<p><strong>Somalia Hanks:</strong> I'd like a little bit extra, too&#8230;</p>
+<p><strong>Cecilio Urbs:</strong> Why not, then? I doubt any of us mind having our voices recorded?</p>
+<p><em>[After a collective set of agreeing murmurs amongst the crowd, Somalia nodded to them all and set up her recording equipment, which she balanced haphazardly onto her stuffed backpack. After, she rejoined the small circle of friends, each of them sat in a circle with a mix of alcoholic and non-alcoholic beverages and an electric lamp in the middle of them all. They all had turned the main light for the room off to simulate darkness, a tactic they used to help them simulate night and day for the purposes of sleeping. Here, though, it provided a unique atmosphere for the small group to chat in, a unique atmosphere added to by the alcohol.]</em></p>
+<p><strong>Peter Todd:</strong> What's gotten you so wanting to record us, though? You've already been here almost a week?</p>
+<p><strong>Somalia Hanks:</strong> Well, tomorrow I might be leaving!</p>
+<p><strong>Shawn Chandler:</strong> Didn't ya say that yesterday&#8230;? You were almost getting a little sad over it?</p>
+<p><strong>Cecilio Urbs:</strong> Probably a good thing she hasn't drunk much today?</p>
+<p><strong>Somalia Hanks:</strong> I didn't drink much yesterday either! I don't think, at least. I'm just&#8230; sentimental over a lot.</p>
+<p><strong>Shawn Chandler:</strong> <em>Does that come with the old age?</em></p>
+<p><strong>Somalia Hanks:</strong> Hey, I'd whoop you! I'd batter your behind with my cane-</p>
+<p><strong>Shawn Chandler:</strong> My <em>behind</em>? Does not swearing also come with old age?</p>
+<p><strong>Somalia Hanks:</strong> <em>The cheek of the youth&#8230;</em></p>
+<p><em>[Somalia snickered, having entertained the rest of her group as she playfully shook her head]</em></p>
+<p><strong>Somalia Hanks:</strong> Nope, usually I swear like a sailor, I blame the Frontrooms. I've trained it out of me the past few years for my daughters.</p>
+<p><strong>Avery Boreshaft:</strong> You have children?!</p>
+<p><strong>Somalia Hanks:</strong> <em>Adopted</em> ones, yes! I'm far too old to have kids-</p>
+<p><strong>Shawn Chandler:</strong> <em>Hah, told you, old.</em></p>
+<p><strong>Somalia Hanks:</strong> <em>I am being used like a rag here&#8230;</em> I was already taking care of them with my boyfriend since their parents both perished, and with my group they set up a whole system so they're legally ours! They're called Esther and Molly.</p>
+<p><strong>Peter Todd:</strong> Ohh, that's adorable! I hope they're living on a safe level of the Backrooms?</p>
+<p><strong>Somalia Hanks:</strong> Yeah, they're safe? <em>That's an oddly specific wording.</em> They're on my <a href="/level-11">Level 11</a> with Jason.</p>
+<p><strong>Avery Boreshaft:</strong> Jason's the&#8230; boyfriend, I assume?</p>
+<p><strong>Somalia Hanks:</strong> He's a husband now! My group set up proper marriage stuff too, so overall I think I'm set for a good retirement! <em>I even have pension.</em></p>
+<p><strong>Avery Boreshaft:</strong> Wow, I'm impressed!</p>
+<p><strong>Cecilio Urbs:</strong> Your Level 11 <em>is</em> safe, right? I don't want those little ones being in my <a href="http://lost-souls.wikidot.com/level-11">Level 11</a>! That'd be irresponsible parenting.</p>
+<p><strong>Somalia Hanks:</strong> Y-Yes! It's a moderately safe city, the entities are calm, the buildings are furnished, they're doing just fine.</p>
+<p><strong>Cecilio Urbs:</strong> Mine's&#8230; Somewhat similar. It's urban, at least! Just don't want your crotch-goblins getting hurt.</p>
+<p><strong>Somalia Hanks:</strong> <em>Crotch-goblins, good grief&#8230;</em></p>
+<p><em>[Starting with a small snicker, Cecilio's remark gradually brought Somalia into a slight laughing fit, causing the others to give entertained glances to each other.]</em></p>
+<p><strong>Shawn Chandler:</strong> Honestly, I can't believe we're all saying things like <em>my</em> Level 11, it's&#8230; Kinda funny?</p>
+<p><strong>Avery Boreshaft:</strong> It's about the most accurate way we can describe it? Obviously they all exist in the same space, and some levels on one database can connect to ones on another, but&#8230; How else would you easily describe it? I mean, besides not using the name &quot;level&quot; at all.</p>
+<p><strong>Peter Todd:</strong> The numbering system I'd say is a lot easier? It's pretty easy to document? Documentation is something I do a hell of a lot with my friend, we've got a whole seating space for it.</p>
+<p><strong>Avery Boreshaft:</strong> <em>Yeah, as you like to tell us&#8230;</em></p>
+<p><strong>Somalia Hanks:</strong> <em>If I may interject&#8230;</em> The whole number stuff <em>is</em> pretty weird. I never gave it a second thought back in the day, the leaders of my group just kinda&#8230; well, &quot;decided&quot; it. I've learned far too much from this place.</p>
+<p><strong>Shawn Chandler:</strong> There's nothing too strange about it? It's a pretty damn logical way of cataloguing shit?</p>
+<p><strong>Somalia Hanks:</strong> It is, absolutely, but it's kinda&#8230; Impressive how many people see <a href="/level-0">yellow</a>, <a href="https://backrooms.fandom.com/wiki/Level_0">empty</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_0">halls</a> <a href="https://backrooms.miraheze.org/wiki/Level_0">and</a> <a href="https://snuggetsbackrooms.fandom.com/wiki/Level_0">call</a> <a href="http://spatial-records.wikidot.com/level-0">it</a> <em><a href="http://backrooms-apeir.wikidot.com/level-0">Level</a></em> <a href="https://enter-the-backrooms.fandom.com/wiki/Level_0">0</a>? It's not even the only one you can reach from the real world!</p>
+<p><strong>Cecilio Urbs:</strong> I think it's a pretty logical comparison to make, though? A lot of people end up in some version of Level 0, even if they <a href="http://liminal-archives.wikidot.com/the-halls">don't</a> <a href="http://timeless-places.wikidot.com/the-first-space">call</a> <a href="http://database-t14.wikidot.com/the-lobby">it</a> <a href="https://kane-pixels-backrooms.fandom.com/wiki/Area_1">Level</a> <a href="http://extrauniversal-archives.wikidot.com/level-000">0</a>.</p>
+<p><strong>Somalia Hanks:</strong> How'd you explain the similar Level 16's, then? Or&#8230; two <a href="/level-43">Level</a> <a href="https://backrooms.fandom.com/wiki/Level_43">43's</a> being aquariums, and what about <a href="http://forgotten-journals.wikidot.com/level-0">the</a> <a href="https://backrooms.fandom.com/wiki/Level_1">fact</a> <a href="http://greyhornsandbox.wikidot.com/level-002">that</a> <a href="https://backrooms.miraheze.org/wiki/Level_3">there's</a> <a href="/level-4">clearly</a> <em><a href="http://backrooms-wiki.wikidot.com/desolation:level-5">some</a></em> <a href="https://backroomsunlimited.fandom.com/wiki/Level_6">kind</a> <a href="http://backrooms-mghc.wikidot.com/level-7">of</a> &quot;<a href="http://spatial-records.wikidot.com/level-8">Main 9</a>&quot;?</p>
+<p><strong>Shawn Chandler:</strong> I can explain it pretty well? <em>It's called <a href="/phenomene-2-fr">Numberation</a>.</em></p>
+<p><strong>Somalia Hanks:</strong> That's too easy though.. what about all the levels that are different with the same number? In one database, a Level 10 is a <a href="/level-10">really empty and bland field</a>, and in another it's <a href="http://am-backrooms-wiki.wikidot.com/level-10">a dark neighbourhood surrounding yet another level</a>! What about the Level 16's that are different? What about Level 43's that <a href="https://backrooms-freewriting.fandom.com/wiki/Level_43">aren't</a> <a href="http://spatial-records.wikidot.com/level-43">aquariums</a>? <a href="https://the-voidclusters.fandom.com/wiki/Level_0">What</a> <a href="http://pt-br-backrooms-wiki.wikidot.com/level-pt-1">about</a> <a href="http://fr-backrooms-wiki.wikidot.com/niveau-2-fr">places</a> <a href="http://it-backrooms-wiki.wikidot.com/livello-i-3">that</a> <a href="http://pl-backrooms-wiki.wikidot.com/poziom-pl-4">clearly</a> <a href="http://am-backrooms-wiki.wikidot.com/level-5">have</a> <a href="http://middlerooms-wiki.wikidot.com/level-6:the-laundromat">a</a> <a href="http://lost-souls.wikidot.com/level-7">different</a> <a href="https://poolrooms.fandom.com/wiki/Level_8">Main 9</a>?? Hell, surely in most cases Numberation would be wrong?</p>
+<p><strong>Shawn Chandler:</strong> Maybe it only works&#8230; Sometimes? I dunno?</p>
+<p><strong>Somalia Hanks:</strong> <em>Wow, genius idea.</em></p>
+<p><strong>Shawn Chandler:</strong> What-? That's what I'm being lead to believe here? Sometimes it works, sometimes it doesn't.</p>
+<p><strong>Peter Todd:</strong> Nah, nah&#8230; Numberation works! But really it works best with the <em>Poolrooms</em>. It's my personal favourite level, I'd take a vacation there.</p>
+<p><strong>Avery Boreshaft:</strong> <em>Please, don't start this whole rant again&#8230;</em></p>
+<p><strong>Somalia Hanks:</strong> Well- hang on&#8230; Peter has a point, doesn't he? <a href="/level-37">There's</a> <em><a href="https://backrooms.fandom.com/wiki/Level_37">a</a> <a href="https://enter-the-backrooms.fandom.com/wiki/Level_-9">lot</a></em> <a href="http://timeless-places.wikidot.com/sublimity">of</a> <a href="http://database-t14.wikidot.com/sublimity">levels</a> <a href="https://liminalscapes.fandom.com/wiki/Normal_Level_List">related</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_37-B">to</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_870">pools</a>!</p>
+<p><strong>Avery Boreshaft:</strong> <a href="http://spatial-records.wikidot.com/level-81">They</a> <a href="http://backrooms-apeir.wikidot.com/level-negative-37">don't</a> <a href="/level-233">have</a> <a href="https://kane-pixels-backrooms.fandom.com/wiki/Area_5">consistent</a> <a href="https://dabackrooms.fandom.com/wiki/Level_37">numbers</a>, <a href="https://backrooms-freewriting.fandom.com/wiki/Level_37.1-B">though</a>. <a href="https://poolrooms.fandom.com/wiki/Level_1">A</a> <a href="https://poolrooms.fandom.com/wiki/Level_2">few</a> <a href="https://poolrooms.fandom.com/wiki/Level_3">are</a> &quot;<a href="https://poolrooms.fandom.com/wiki/Level_4">Level</a> <a href="https://poolrooms.fandom.com/wiki/Level_6">37</a>&quot;, <a href="https://poolrooms.fandom.com/wiki/Level_7">but</a> <a href="https://poolrooms.fandom.com/wiki/Level_8">that's</a> <a href="https://poolrooms.fandom.com/wiki/Level_9">it</a>.</p>
+<p><strong>Somalia Hanks:</strong> <a href="https://poolrooms.fandom.com/wiki/Level_10">Well</a>, <a href="https://poolrooms.fandom.com/wiki/Level_1.1">what</a> <a href="https://poolrooms.fandom.com/wiki/Level_11">if</a> <a href="https://poolrooms.fandom.com/wiki/Level_13">we've</a> <a href="/level-370">uncovered</a> <a href="https://poolrooms.fandom.com/wiki/Level_15">some</a> <a href="https://poolrooms.fandom.com/wiki/Level_16">deeper</a> <a href="https://poolrooms.fandom.com/wiki/Level_18">mystery</a> <a href="https://poolrooms.fandom.com/wiki/Level_19">here</a>? <a href="https://poolrooms.fandom.com/wiki/Level_20">They're</a> <a href="https://poolrooms.fandom.com/wiki/Level_21">not</a> <a href="https://poolrooms.fandom.com/wiki/Level_22">similarly</a> <a href="https://poolrooms.fandom.com/wiki/Level_23">numbered</a>, <a href="https://poolrooms.fandom.com/wiki/Level_-3">but</a> <a href="https://poolrooms.fandom.com/wiki/Level_25:">maybe</a> <a href="https://poolrooms.fandom.com/wiki/Level_94">it's</a> <a href="https://poolrooms.fandom.com/wiki/Level_99">something</a> <a href="https://poolrooms.fandom.com/wiki/Level_100">else</a>?</p>
+<p><strong>Shawn Chandler:</strong> <a href="https://poolrooms.fandom.com/wiki/Level_-6">Wait</a>&#8230; <a href="https://poolrooms.fandom.com/wiki/Level_-9">Are</a> <a href="https://poolrooms.fandom.com/wiki/Swim_For_Your_Life!">you</a> <em><a href="https://poolrooms.fandom.com/wiki/Water_World">actually</a></em> <a href="https://poolrooms.fandom.com/wiki/Radioactive_!!!">trying</a> <a href="https://poolrooms.fandom.com/wiki/The_Blue_Channel">to</a> <a href="https://poolrooms.fandom.com/wiki/The_Hub">build</a> <a href="https://poolrooms.fandom.com/wiki/A_Dead_End">to</a> <a href="https://poolrooms.fandom.com/wiki/Fleshpools">something</a> <a href="https://poolrooms.fandom.com/wiki/Paradise">with</a> <a href="https://poolrooms.fandom.com/wiki/Back_In_My_Day">this</a>?</p>
+<p><strong>Somalia Hanks:</strong> I mean&#8230; Maybe? Hey- think about it! There's <em>also</em> levels that are similar to the Poolrooms? There's ones of <a href="/level-368">fire</a> and <a href="/level-371">air</a>, but a lot <a href="/level-369">of</a> <a href="https://backrooms.fandom.com/wiki/Level_150">them</a> <a href="http://spatial-records.wikidot.com/level-22">are</a> <a href="https://backrooms.fandom.com/wiki/Level_931">grassy</a>?</p>
+<p><strong>Cecilio Urbs:</strong> <a href="https://poolrooms.fandom.com/wiki/Level_-99">Hahaha</a>, <a href="https://poolrooms.fandom.com/wiki/Level_-100">yes</a>! <a href="https://poolrooms.fandom.com/wiki/Level_1.2">Oh</a>, <a href="https://poolrooms.fandom.com/wiki/Level_1.3">I</a> <a href="https://poolrooms.fandom.com/wiki/Level_2.1">love</a> <a href="https://poolrooms.fandom.com/wiki/Level_3.1">this</a>! <a href="https://poolrooms.fandom.com/wiki/Level_5.1">We're</a> <a href="https://poolrooms.fandom.com/wiki/Level_7.1">actually</a> <a href="https://poolrooms.fandom.com/wiki/Level_8.1">unearthing</a> <a href="https://poolrooms.fandom.com/wiki/Level_18.5">some</a> <a href="https://backrooms.fandom.com/wiki/Level_37.1">proper</a> <a href="https://backrooms.fandom.com/wiki/Level_37.1">Backrooms</a> <a href="https://backrooms.fandom.com/wiki/Level_37.12">mysteries</a> <a href="https://backrooms.fandom.com/wiki/Level_37.2">with</a> <a href="https://backrooms.fandom.com/wiki/Level_37.44">this</a>!</p>
+<p><strong>Somalia Hanks:</strong> <em>Plants&#8230; Water&#8230;</em> <a href="https://backrooms.fandom.com/wiki/Level_37.06">Those</a> <a href="https://backrooms.fandom.com/wiki/Level_37.5">are</a> <a href="https://backrooms.fandom.com/wiki/Level_37.6">basic</a> <a href="https://backrooms.fandom.com/wiki/Level_37.7">things?</a> <em><a href="https://backrooms.fandom.com/wiki/Level_37.8">What</a> <a href="https://backrooms.fandom.com/wiki/Level_37.88">if</a> <a href="https://backrooms.fandom.com/wiki/Level_37.91">this</a> <a href="https://backrooms.fandom.com/wiki/Level_-33">has</a> <a href="https://backrooms.fandom.com/wiki/Level_-33.1">to</a> <a href="https://backrooms.fandom.com/wiki/Level_-33.3">do</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_37.1">with</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_37.%CE%B1">the</a> <a href="https://backrooms-freewriting.fandom.com/wiki/Level_37.666">creation</a> <a href="/level-131">of</a> <a href="/level-588">the</a> <a href="http://liminal-archives.wikidot.com/sublimity">Backrooms</a> <a href="https://poolrooms.fandom.com/wiki/Level_9991123">itself</a>.</em></p>
+<p><strong>Peter Todd:</strong> Hah, yeah! And maybe it has something to do with the <a href="https://www.youtube.com/shorts/qGo2Qj_PvTk">Glitchton</a>, too!</p>
+<p><em>[Immediately upon speaking, the rest of the group went pretty silent, and their clear enthusiasm for the conversation all of a sudden halted almost aggressively fast. With the exception of Peter themselves, the entire group shot odd looks to one another, doing so for a painfully long feeling twenty seconds.]</em></p>
+<p><strong>Somalia Hanks:</strong> The&#8230; the what?</p>
+<p><strong>Peter Todd:</strong> Y-You know, the Glitchton! Big, neon-coloured skeleton?</p>
+<p><strong>Somalia Hanks:</strong> <em>In the Poolrooms?</em></p>
+<p><strong>Peter Todd:</strong> That's why I brought it up? Come on, it's got metal arms!</p>
+<p><strong>Cecilio Urbs:</strong> Dude, I think you made that up?</p>
+<p><strong>Avery Boreshaft:</strong> I'm seconding Cecilio on this, this sounds stupid.</p>
+<p><strong>Peter Todd:</strong> N-No, it's not! It can hear you from <em>anywhere</em>! But it's also silent, so you won't hear it coming!</p>
+<p><strong>Avery Boreshaft:</strong> I think you had too much to drink, Peter.</p>
+<p><strong>Shawn Chandler:</strong> I think we <em>all</em> have, what the hell even was this conversation?</p>
+<p><strong>Somalia Hanks:</strong> It started because of my kids! My, I am completely out of it, aren't I.</p>
+<p><strong>Shawn Chandler:</strong> Eh, don't worry yourself&#8230; We're all either pissed out of our skulls or utterly sleep deprived. I doubt the Poolrooms is actually some magic key to understanding the creation of the Backrooms.</p>
+<p><strong>Cecilio Urbs:</strong> <em>Hah, unless&#8230;</em></p>
+<p><strong>Somalia Hanks:</strong> Let's not delve into another round of drunk conspiracies! If I <em>am</em> going to interview Simon tomorrow, I need to do it on a clear head&#8230; Goodnight everyone! If this is my last night here, it's been fantastic meeting you all.</p>
+<p><strong>Cecilio Urbs:</strong> Hehe, yeah, same to you Somalia.</p>
+<p><strong>Shawn Chandler:</strong> At least you'll have this dumb as shit conversation to remember us all by?</p>
+<p><strong>Somalia Hanks:</strong> <em>Oh, I am going to have fun listening to it&#8230;</em></p>
+<p><em>[Somalia laughed a little as Peter and Avery said their goodnights to everyone and their goodbyes to Somalia in particular, turning off the small lantern in the middle of the room to sleep. At the same time, Somalia slowly scooted back to the recording devices, switching them off to sleep.]</em></p>
+<h3 id="toc20"><span>&lt;End Log&gt;</span></h3>
+<hr /></div>
+</div>
+</div>
+</div>
+<h1 id="toc21"><span><strong>Entrances And Exits</strong></span></h1>
+<h4 id="toc22"><span>Entrances</span></h4>
+<p>The Middlesorts is a level that can only be accessed by exiting any level that has infinite exits. In most cases, it is impossible to know which levels contain infinite exits unless the level itself has this fact clearly demonstrated somewhere within it. Because of this, actually accessing the Middlesorts is something most do on accident. Should one attempt to try and enter the Middlesorts intentionally, however, a list of levels with infinite exits has been provided.<br /></p>
+<div style="text-align: center;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Display&nbsp;potential&nbsp;entrances&nbsp;to&nbsp;the&nbsp;Middlesorts</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;potential&nbsp;entrances&nbsp;to&nbsp;the&nbsp;Middlesorts</a></div>
+<div class="collapsible-block-content">
+<div style="text-align: left;">
+<hr />
+<ul>
+<li><a href="/the-hub">The Hub</a><sup class="footnoteref"><a id="footnoteref-10" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-10')">10</a></sup></li>
+<li><a href="/level-1-5">Level 1.5</a></li>
+<li><a href="/level-38">Level 38</a></li>
+<li><a href="/level-57">Level 57</a><sup class="footnoteref"><a id="footnoteref-11" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-11')">11</a></sup></li>
+<li><a href="/level-63">Level 63</a><sup class="footnoteref"><a id="footnoteref-12" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-12')">12</a></sup></li>
+<li><a href="/level-66">Level 66</a></li>
+<li><a href="/level-94">Level 94</a><sup class="footnoteref"><a id="footnoteref-13" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-13')">13</a></sup></li>
+<li><a href="/level-96">Level 96</a><sup class="footnoteref"><a id="footnoteref-14" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-14')">14</a></sup></li>
+<li><a href="/level-104">Level 104</a></li>
+<li><a href="/level-131">Level 131</a></li>
+<li><a href="/level-151">Level 151</a></li>
+<li><a href="/level-177">Level 177</a></li>
+<li><a href="/level-186">Level 186</a><sup class="footnoteref"><a id="footnoteref-15" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-15')">15</a></sup></li>
+<li><a href="/level-191">Level 191</a></li>
+<li><a href="/level-201">Level 201</a><sup class="footnoteref"><a id="footnoteref-16" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-16')">16</a></sup></li>
+<li><a href="/level-202">Level 202</a><sup class="footnoteref"><a id="footnoteref-17" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-17')">17</a></sup></li>
+<li><a href="/level-210">Level 210</a></li>
+<li><a href="/level-220">Level 220</a></li>
+<li><a href="/level-227">Level 227</a></li>
+<li><a href="/level-237">Level 237</a></li>
+<li><a href="/level-268">Level 268</a></li>
+<li><a href="/level-277">Level 277</a></li>
+<li><a href="/level-295">Level 295</a></li>
+<li><a href="/level-304">Level 304</a></li>
+<li><a href="/level-317">Level 317</a><sup class="footnoteref"><a id="footnoteref-18" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-18')">18</a></sup></li>
+<li><a href="/level-330">Level 330</a></li>
+<li><a href="/level-345">Level 345</a></li>
+<li><a href="/trimmed:level-356">level-356</a></li>
+<li><a href="/level-422">Level 422</a><sup class="footnoteref"><a id="footnoteref-19" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-19')">19</a></sup></li>
+<li><a href="/level-463">Level 463</a></li>
+<li><a href="/level-626">Level 626</a></li>
+<li><a href="/level-712">Level 712</a></li>
+<li><a href="/level-718">Level 718</a></li>
+<li><a class="newpage" href="/level-743">Level 743</a></li>
+<li><a href="/level-777">Level 777</a><sup class="footnoteref"><a id="footnoteref-20" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-20')">20</a></sup></li>
+<li><a href="/level-900">Level 900</a><sup class="footnoteref"><a id="footnoteref-21" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-21')">21</a></sup></li>
+<li><a href="/level-906">Level 906</a><sup class="footnoteref"><a id="footnoteref-22" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-22')">22</a></sup></li>
+<li><a href="/level-940">Level 940</a></li>
+<li><a href="/level-974">Level 974</a><sup class="footnoteref"><a id="footnoteref-23" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-23')">23</a></sup></li>
+</ul>
+<hr /></div>
+</div>
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;potential&nbsp;entrances&nbsp;to&nbsp;the&nbsp;Middlesorts</a></div>
+</div>
+</div>
+</div>
+<h4 id="toc23"><span>Exits</span></h4>
+<p>Leaving The Middlesorts is a relatively easy task, with there being two main and documented methods of exit that require little labour to finish or do.</p>
+<p>The first method is to speak to the entities at the help desk at the level's entrance. While they often speak down to a wanderer or act sarcastic to a wanderers comments in general, they are happy to send you to the level you have asked them to take you to. The cores simply input the destination level you wish to go to on their laptop and, through processes that are utterly unknown, unlock the main set of double doors, which will be programmed to go to your target level. However, requesting exits to levels one may not know can cause individuals to become trapped in a section of the Backrooms wholly unfamiliar to them, and to a section of the Backrooms that may never have been documented by any groups one is familiar with.</p>
+<p>The second method is to exit through the main door while it has been opened by someone entering. Doing this will lead to the level that one was coming from, which are levels not only listed in the Entrances section, but also any other undocumented level from anywhere in the Backrooms that has an infinite number of exits.</p>
+<hr />
+<div class="colfootnotes">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">+&nbsp;Open&nbsp;Footnotes</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">-&nbsp;Close&nbsp;Footnotes</a></div>
+<div class="collapsible-block-content">
+<div class="footnotes-footer">
+<div class="title">Footnotes</div>
+<div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Each vending machine appears to use a different currency, each has different food from different parts of the earth, and they constantly restock.</div>
+<div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. There are two main hallways present on The Middlesorts, existing both adjacent to the main desk and opposite it, both to the left of the desk(from the perspective of behind it), both of which are visible in this page's first image.</div>
+<div class="footnote-footer" id="footnote-3"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-3')">3</a>. In this diagram, each level is considered its own universe.</div>
+<div class="footnote-footer" id="footnote-4"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-4')">4</a>. &quot;Main Extended Organisation Database&quot;</div>
+<div class="footnote-footer" id="footnote-5"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-5')">5</a>. As the Blue Channel is <a href="/heart-of-the-universe">believed to be 11 dimensional</a>, technically the coordinate would be 0,0,0,0,0,0,0,0,0,0,0.</div>
+<div class="footnote-footer" id="footnote-6"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-6')">6</a>. This may even be the case for back before the level was even an interior space, according to passing groups similar to The Lost.</div>
+<div class="footnote-footer" id="footnote-7"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-7')">7</a>. Or whatever alternative term is coined by these groups.</div>
+<div class="footnote-footer" id="footnote-8"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-8')">8</a>. However, they are always the same colour as the cores' skin.</div>
+<div class="footnote-footer" id="footnote-9"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-9')">9</a>. The interviews are not in chronlogical order. To see the order that the interviews were made in, consult the dates listed on each interview.</div>
+<div class="footnote-footer" id="footnote-10"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-10')">10</a>. Whilst not having infinite exits in the way that could cause one to be transported to the Middlesorts, The Hub does, theoretically, have a door to access it among its billions of others. However, using it would require the discovery of its <a href="/object-2">Level Key</a>, which most likely has been lost within any of the infinite sections of the Backrooms itself.</div>
+<div class="footnote-footer" id="footnote-11"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-11')">11</a>. Level 57's exits allows for exit via noclipping through paintings that resemble other levels. As so many levels in the Backrooms look similar, there is a slim chance that instead of noclipping into one of the lookalike levels one can instead end up in the Middlesorts.</div>
+<div class="footnote-footer" id="footnote-12"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-12')">12</a>. Whilst Level 63 only joins to levels of a similar nature to itself, examples being like <a href="/level-797">Level 797</a>, <a href="/level-39">Level 39</a>, and even ones like <a href="/level-369">Level 369</a>, the sheer number of natural levels has previously lead the Infinity Effect to take place, and for Middlesorts access to instead occur.</div>
+<div class="footnote-footer" id="footnote-13"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-13')">13</a>. The description of &quot;Normal Level&quot; is an outdated term that is used on the level page, and access to any level regardless of the number given to them within the extended database can be access from 94.</div>
+<div class="footnote-footer" id="footnote-14"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-14')">14</a>. The only time that the failure to draw to a level will occur within Level 96 is via using the noclipping through wallpaper exit. The first exit, being removing vent covers, does not generate a new exit each time one is opened. Meaning that the Infinity Effect cannot take place.</div>
+<div class="footnote-footer" id="footnote-15"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-15')">15</a>. This method has only been offhandedly confirmed once by a member of The Commercium Foundation, who apparently had visited our Level 186 from the Middlesorts at an unknown date, and then been expelled back. It is unknown whether the vast array of dangerous levels to be banished to caused entrance to this level, or if it was just the fact that the being was here before, which caused Level 186's owner to send them back.</div>
+<div class="footnote-footer" id="footnote-16"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-16')">16</a>. The classification of &quot;infinite exits&quot; falls under the same logic of Level 57's infinite exits.</div>
+<div class="footnote-footer" id="footnote-17"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-17')">17</a>. Like a few prior exits, this exit has only been recorded to work due to the sheer number of levels that could theoretically contain chalkboards.</div>
+<div class="footnote-footer" id="footnote-18"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-18')">18</a>. This level entry only works due to the amount of elevators that exist on other levels.</div>
+<div class="footnote-footer" id="footnote-19"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-19')">19</a>. This level entry operates under the same logic of Level 63's exit.</div>
+<div class="footnote-footer" id="footnote-20"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-20')">20</a>. This only occurs when playing the game of Glitched Roulette.</div>
+<div class="footnote-footer" id="footnote-21"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-21')">21</a>. Should someone brew their beverage with either three milks or more, two cremes, or two cremes and two sugars, then the &quot;seemingly random&quot; exit described has a slim chance of going to The Middlesorts.</div>
+<div class="footnote-footer" id="footnote-22"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-22')">22</a>. Should someone ask Blanche to go to a &quot;random level&quot;, or anything of that sort, then there is a possibility that the large count of safe levels she is aware of could instead lead to The Middlesorts.</div>
+<div class="footnote-footer" id="footnote-23"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-23')">23</a>. Under the same rules of Level 906's infinite exits.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="licensebox">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Hide&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-content">
+<p>Cite this page as:</p>
+<div class="list-pages-box">    <div class="list-pages-item">
+
+
+<blockquote>
+<p>&quot;<a href="/middlesorts">Unnumbered Level - &quot;The Middlesorts&quot;</a>&quot; by Greggita Mahayfaio, from the <a href="http://backrooms-wiki.wikidot.com/">Backrooms Wiki</a>. Source: <a href="https://backrooms-wiki.wikidot.com/middlesorts">https://backrooms-wiki.wikidot.com/middlesorts</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>.</p>
+</blockquote>
+</div>
+    
+    
+    
+    </div>
+
+
+<div class="colmod-block">
+<ul>
+<li class="folded">
+<ul>
+<li style="list-style: none">_</li>
+</ul>
+<div class="colmod-link-top">
+<div class="foldable-list-container"><a href="javascript:;">+ Embed citation as HTML</a><a href="javascript:;">- Embed citation as HTML</a></div>
+</div>
+<div class="colmod-content"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<div class="code" style="user-select: all;">
+<p><span style="white-space: pre-wrap;">&quot;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/middlesorts&quot;&gt;Unnumbered&#32;Level&#32;-&#32;&quot;The&#32;Middlesorts&quot;&lt;/a&gt;&quot;&#32;by&#32;Greggita&#32;Mahayfaio,&#32;from&#32;the&#32;&lt;a&#32;href=&quot;http://backrooms-wiki.wikidot.com/&quot;&gt;Backrooms&#32;Wiki&lt;/a&gt;.&#32;Source:&#32;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/middlesorts&quot;&gt;https://backrooms-wiki.wikidot.com/middlesorts&lt;/a&gt;.&#32;Licensed&#32;under&#32;&lt;a&#32;href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA-3.0&lt;/a&gt;.</span></p>
+</div>
+</div>
+    
+    
+    
+    </div></div>
+<div>
+<div class="foldable-list-container"></div>
+</div>
+</li>
+</ul>
+</div>
+<hr />
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> Doctor's Office, Waiting Room<br />
+<strong>Author:</strong> Consumerist Dot Com<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.<br />
+<strong>Source Link:</strong> <a href="https://www.flickr.com/photos/21241181@N00/1893141861">https://www.flickr.com/photos/21241181@N00/1893141861</a></p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> Medical Clinic Hallway<br />
+<strong>Author:</strong> USACE HQ<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.<br />
+<strong>Source Link:</strong> <a href="https://www.flickr.com/photos/30539067@N04/50186330627">https://www.flickr.com/photos/30539067@N04/50186330627</a></p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> Messy Desk<br />
+<strong>Author:</strong> MattX27<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0</a>.<br />
+<strong>Source Link:</strong> <a href="https://www.flickr.com/photos/78554167@N00/6877437041">https://www.flickr.com/photos/78554167@N00/6877437041</a><br />
+<strong>Additional Notes:</strong> Image used is zoomed in, and motion blur is applied.</p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> Map of my Facebook 'universe'<br />
+<strong>Author:</strong> Porter Novelli Global<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0</a>.<br />
+<strong>Source Link:</strong> <a href="https://www.flickr.com/photos/23295177@N07/3113048657">https://www.flickr.com/photos/23295177@N07/3113048657</a><br />
+<strong>Additional Notes:</strong> Image had background removed, was layered with four identical copies itself, and was paired with below image to make image &quot;mmultiverse.jpg&quot;</p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>Name:</strong> Doomed Deep-Space Comet C/2019 Y4 (ATLAS)<br />
+<strong>Author:</strong> NASA Hubble<br />
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0</a>.<br />
+<strong>Source Link:</strong> <a href="https://www.flickr.com/photos/144614754@N02/50173896798">https://www.flickr.com/photos/144614754@N02/50173896798</a><br />
+<strong>Additional Notes:</strong> Was paired with above image to make image &quot;mmultiverse.jpg&quot;</p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<p>For more information about on-wiki content, visit the <a href="/licensing-master-list">Licensing Master List</a>.</p>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_cc#pages">_cc</a><a href="/system:page-tags/tag/_licensebox#pages">_licensebox</a><a href="/system:page-tags/tag/_metatag#pages">_metatag</a><a href="/system:page-tags/tag/_title#pages">_title</a><a href="/system:page-tags/tag/annual-feature#pages">annual-feature</a><a href="/system:page-tags/tag/featured#pages">featured</a><a href="/system:page-tags/tag/level#pages">level</a><a href="/system:page-tags/tag/sd-class-0#pages">sd-class-0</a><a href="/system:page-tags/tag/simulation-canon#pages">simulation-canon</a><a href="/system:page-tags/tag/unnumbered-level#pages">unnumbered-level</a><a href="/system:page-tags/tag/wonder#pages">wonder</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 40, last edited: <span class="odate time_1761063396 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">21 Oct 2025 16:16</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+42</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-16184567/middlesorts" class="btn btn-default" id="discuss-button">Discuss (5)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

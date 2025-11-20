@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lugrasimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7ae5A.ttf) format('truetype');
+}
