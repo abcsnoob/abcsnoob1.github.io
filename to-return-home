@@ -1,0 +1,803 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Through Our Eyes, Part 1: To Return Home - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "to-return-home";
+        OZONE.request.timestamp = 1763712266;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "to-return-home";
+        WIKIREQUEST.info.pageId = 1329575264;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="Through Our Eyes, Part 1: To Return Home"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+@import url(http://backrooms-wiki.wikidot.com/local--files/component:theme/nulim-norm.min.css);
+</style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+/* Site Theme */
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Anuliminal/1);
+
+/* Collapsible Sidebar */
+@import url("https://backrooms-wiki.wikidot.com/component:sidebar-theme/code/1");
+
+/* User Flairs */
+@import url("https://backrooms-wiki.wikidot.com/component:user-flairs/code/1");
+</style>
+<style>
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Amasked-maidens-theme/1);
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Through Our Eyes, Part 1: To Return Home
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+<div style="text-align: right;"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+25</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+<p><em>The fire seemed to spread everywhere.</em></p>
+<p><em>You run through the halls, feeling the flames tickle your skin and clothes, trying to find a way out. Below you was a grand staircase, leading to the front entrance. <strong>Shit,</strong> you think, struggling to breathe, the smoke clinging onto your lungs and making you cough. <strong>The doors are blocked.</strong> You take sight of the windows beside it, seeing the glass was cracked, easy enough for you to break and jump out of. You stumble down the steps; you're so close.</em></p>
+<p><em>You frantically look around for something to hit the glass with. Picking up a brick, you chuck it towards the window, effectively crashing through it. You're just about to jump out when, instinctively, you look up—a beam from above creaking and collapsing—you fall back before it crushes you, yelping. You curse out loud, now not knowing where to go. Turn around, you find that the flames had stopped moving and crackling. They were still there, in its horridly majestic, orange glow, yet it was almost as if they went through a pause in time. For a moment, it even seemed as if the smoke settled to the floor, surrounding you like a low, black fog.</em></p>
+<p><em>Before you was a grand throne of gold. It had intricate, elaborate designs, with the swirls adorning the top of its frame like a tiara. Upon the seat was a mask with the color of burgundy—it had golden feathers at the nose bridge, as bright as the throne. There was an incredible urge to put it on; you could hear whispers emanating from it, almost pleading for you to put it on your face.</em></p>
+<p><em>All thoughts seem to leave your head, leaving it blank with only the desire to take the mask. Slowly, as the fire seemed to crackle again, you picked it up, slowly putting it on your face and tightening the lace around your head.</em></p>
+<p><em>You felt a tad lightheaded at first—not too much for you to faint—but enough for you to turn back around. You gasp at the sight of what seemed to be an army of sorts before you, all wearing masks of different kinds. They all seem so familiar to you: someone with a black jacket, and shoulder-length blonde hair, another with braids, and another with long, auburn hair. You wanted to run, but you stayed frozen in place, gripping a knife you didn't realize you had until it squeezed itself against your skin a tad too hard.</em></p>
+<p><em>There was someone in the back of a group—someone maskless—running through the crowd; the redness of the place had grown so strong, however, you couldn't see who they were. You try to move, only for you to grow terribly weak; your ability to breathe diminishing. Before you could collapse, they run up to you with a dagger, plunging it into your chest. Your vision could collect nothing but piercing green eyes.</em></p>
+<p><em>And before you knew it, your world fell into darkness.</em></p>
+<hr />
+<p>You yelp, jolting yourself awake and breathing heavily. You groan at the same dream you've had for the past few months. You run a hand through your short, black hair, looking at the time, and cursing quietly at the sight of 12&#160;pm. <em>Late again, what could be new,</em> you think, deciding it was about time you got up. Standing up, you gaze out the window, admiring the view of <a href="/level-11">Level 11</a>. After 5 years, it seems, the place never ceased to amaze you—buildings floating here and there, a few vendors out and about selling snacks, and a multitude of wanderers and <a href="/entity-9">Facelings</a>, all conversing with each other. In the infinite expanse of seemingly hopeless ventures, there is at least some amount of normalcy that makes it worth living in a place like the Backrooms. Somehow, through sheer determination in spite of their desires to go back to the <a href="/the-frontrooms">Frontrooms</a>, humans still found a way to make this place a temporary home.</p>
+<p>At the front door, the doorbell rings. Realizing who it could be, you excitedly run through the apartment and to the door, pulling it open and revealing your fiancée, Catelyn Rodriguez.</p>
+<p>&quot;My darling!&quot; You exclaim, wrapping your arms around her ever-beautiful body. She meets you with the same glee, giving you a warm kiss on the lips.</p>
+<p>&quot;It feels like it's been forever, love,&quot; Catelyn says, her voice nearly breaking in pure wistfulness. &quot;How was your mission? Was it too difficult? Did you get hurt anywhere?&quot; Cate worriedly pushes you inside the apartment, closing the door and bringing you to the dining area. She looks at your arms, face, etc, looking for any injuries.</p>
+<p>You laugh, taking her hands and pecking them softly, saying, &quot;Nothing to get me in critical condition, darling, that is as much as I know.&quot; She smiles, her concern fading away. &quot;Now. Is it really just you here? Where is my father? My sister?&quot;</p>
+<p>&quot;They couldn't come, they're far too busy with Project UnMasked,&quot; Cate responds, rubbing the back of her neck. &quot;They send their regards, however. They terribly miss you and have even postponed the beginning of the experiment until today, when you come home.&quot;</p>
+<p>&quot;Project UnMasked?&quot; you repeat, leaning in curiosity. &quot;Isn't that the project for <a href="/object-24">Object 24</a>?&quot;</p>
+<p>&quot;Why, yes. I'm sure I've told you all about it in my letters. It's going to be a very revolutionary thing, this experiment. It's going to help everyone.&quot;</p>
+<p>You smile in agreement, remembering the letters. Project UnMasked, as far as you knew, was an experiment based on tolerance that aimed to reduce the effects of Wall Masks as much as possible, so that anyone who was unlucky enough to wear it wouldn't fall victim to its murderous urges. It would hopefully make it far easier to remove the mask by will, as well as find features within them to exploit and, in time, take them away for good.</p>
+<p>You grin, moving away from the dining table and holding her hips, a suggestive expression on your face. &quot;You know what else is a revolution?&quot; you say slyly, looking into her gorgeous green eyes, the way the strands of red hair adorably dressed her pale, delicate face. &quot;The time we'll be changing your last name to mine in a month or so.&quot;</p>
+<p>She giggles, wrapping her arms around your neck. &quot;Aw, too excited for me to be your wife, Ms. Holmes?&quot;</p>
+<p>&quot;You know me too well, love.&quot;</p>
+<p>The two of you laugh, sharing another kiss before deciding that you ought to get ready. You head into the bathroom, shower, and dress, excitement flowing through your veins. You pull your hair up, letting your side bangs dangle. Pulling up a brown cardigan that accented well with your hazel-gold eyes, you walk out of your room, finding your beloved making a small snack for the two of you. You lean on the door frame in utter infatuation, watching her small, smooth hands working with the even smaller knife, cutting up a few apple slices.</p>
+<p>&quot;How sweet of you, Cate,&quot; you coo as she sits you down, placing down two plates of scrambled eggs and sliced apples.</p>
+<p>She laughs, popping a slice into her mouth. &quot;Well, I'm not about to let you go anywhere without something to fill your stomach, love.&quot;</p>
+<p>In the next few minutes, the two of you catch up. You had almost forgotten that you had been gone for nearly two months—moving across multiple levels for multiple objectives. Meanwhile, your sister, father, and Cate (along with the rest of the Veracity Searchers team) worked hard in collecting a variety of Wall Masks, as well as choosing volunteers to be a part of the Project UnMasked. One of the researchers, Tristan Petrovic, had suggested keeping the volunteer search within the M.E.G. and their families, in case any spies from opposing GOIs tries to sabotage the experiment (nothing less than what you expected from your best friend; he was always the type to think about the M.E.G.'s reputation). The experiment would only last for a span of 2 months, and everyone would get rations of that time's length by the end of it.</p>
+<p>&quot;I suppose everyone must be excited then,&quot; you eventually say, finishing up your last bite. &quot;It's been a while since we took a risky experiment like this. At least everyone's okay with it, yeah?&quot;</p>
+<p>Catelyn nods as you get up and take the empty dishes, walking into the kitchen to wash them. &quot;Yep! All who have volunteered understood the risks, and they're all rather eager to get started. Even your sister was excited to be a part of-&quot;</p>
+<p>You both widen your eyes at what she said. &quot;What? She's being a part of the experiment?&quot;</p>
+<p>&quot;Yeah,&quot; she replies slowly. &quot;She insisted—well—she insisted on being a part of it.&quot;</p>
+<p>You couldn't help but frown. &quot;But it's a tolerance experiment, isn't it? Wouldn't that be too taxing on her? Not just physically, but mentally. Not to mention that it could be dangerous.&quot;</p>
+<p>&quot;I know, and I've mentioned that&#8230;&quot; Catelyn fidgets with a small section of her hair. &quot;Your father approved, however, so there wasn't much of a way to say no.&quot;</p>
+<p>You huff, looking away for a moment and placing the final fork into the dish rack, drying your hands. &quot;Suppose there's not if he says so.&quot; You lean on the table, a worried expression on your face. &quot;Still, though. I can't help but be concerned.&quot;</p>
+<p>Your beloved places a warm hand upon yours reassuringly. &quot;Come now. We both know her. Strong girl, no matter the circumstance.&quot; You nod, sighing quietly. You supposed there was only one way to really find out if she was ready or not.</p>
+<p>After cleaning up, the two of you decided that it was high time to leave the apartment. You grab your things, holding Cate's hand tightly, and leave the complex.</p>
+<p>With the number of people that seemed to fill the section of Level 11, you sometimes forget that the place was actually infinite—indulging in the sound of delighted chatter; sellers calling out for customers from inside of their stores and cars zooming past you. Occasionally, you could hear the twitter of a bird or two. It was far more refreshing than the levels you had been to recently. If you couldn't go anywhere else, you thought, you'd be happy to never leave.</p>
+<p>After a stop at Malt Mart, you headed into a seemingly abandoned office building. You opened the door for Catelyn and enter yourself into <a href="/level-4">Level 4</a>. The ever-busy sounds of Level 11 slowly faded away as you walked further into the office building, subjecting you to its uncomfortable silence. The flickering lights seemed to be the only jagged and broken music filling the place, besides the harmonies of the various broken fountains spilling water. The carpet felt misplaced at times, causing the two of you to trip every now and then. After numerous twists and turns through the different rooms of Level 4, you were happy to once more hear and see guards talking. A sign hung up on the walls of the room, with &quot;M.E.G. - Base Omega&quot; written on it. You sigh of relief, squeezing Cate's hand as you walked up to the guards, showing your I.D.s and walking into the room.</p>
+<p>You greeted everyone as you walked by, heading into one of the offices within the base—the plaque on the ivory door reading &quot;Lorenzo H.&quot;</p>
+<p>&quot;Hey!&quot; you call out excitedly as you open the door, seeing your sister leaning on the desk that stood in the center of the room. She squeals, running over and pulling you into a tight embrace, tears dotting her eyes.</p>
+<p>&quot;How have you been? How was the trip?&quot; She spouts out different questions all at once, stuttering here and there. &quot;You've been gone so long, and you- and you stopped responding to our letters two weeks ago, we were so worried—&quot;</p>
+<p>&quot;Yes, yes, I know&#8230;&quot; You say finally, wiping her eyes, feeling your own start to water. You notice Catelyn wiping hers, too. &quot;I am sorry I stopped, truly. Things happened, and I just had no opportunity to write back. But you knew that I'd come back, didn't you?&quot;</p>
+<p>Your sister nods, smiling. &quot;Of course. You always come back.&quot;</p>
+<p>&quot;Well, well, well!&quot; A man's voice called out. You knew all too well who it could be. &quot;If it isn't the grand reunion of the Holmes twins!&quot;</p>
+<p>Laughter sparks up between the four of you as you got up to embrace Tristan. He was the first one to find you, your pa, and sister 8 years ago when you had been left defending yourselves in <a href="/level-2">Level 2</a>. He was the one to introduce the 3 of you to the <a href="/the-m-e-g">M.E.G.</a>, you remember. Since then, he had practically become your older brother.</p>
+<p>&quot;How have you been, stinker?&quot; He asks, ruffling your dark hair.</p>
+<p>&quot;Ah, if there's anything I wouldn't miss, it's those dumb nicknames of yours, Trist,&quot; you reply, finally letting go as you tried messing with his hair—though you could hardly reach the few strawberry blonde strands that dangled in front of his eyes. <em>Too damn tall, even now,</em> you thought. &quot;It's like it's been forever since I've seen you guys. I'm glad I'm home.&quot;</p>
+<p>Catelyn holds your hand with a sweet grin on her face. &quot;We're all glad, too.&quot;</p>
+<p>In the midst of the excitement, something else sparks in your mind. &quot;Oh, right. Where's pa?&quot;</p>
+<p>&quot;Old man's over in one of the really big offices ways down on the left, setting the experiment up—wait, you know what experiment I'm talking about, yeah? I can call him over here if you'd like.&quot;</p>
+<p>You nod, a hint of sadness in your tone. &quot;Right. I see. I can tell how important this is for him, so you don't have to.&quot;</p>
+<p>Your sister tugs on your sleeve. &quot;Come now, I'm sure he'll come around, he's just a little busy is all.&quot;</p>
+<p>&quot;Sure, like he always does, yeah?&quot; Your eyebrows furrowed, fists clenched. &quot;You know, it's fine. The last time he bothered being together with us, we ended up no-clipping to this hell of a place.&quot;</p>
+<p>Silence filled the room for a brief moment. As much as you tried to understand—and you really tried your hardest—you couldn't help but feel bitter. All of this time, after everything you guys had been through, you thought he would take working slow for once. But until now, hardly anything seemed to change.</p>
+<p>&quot;Well,&quot; Tristan spoke up, clearing his throat and shoving his hands into his pockets. &quot;We should head there ourselves, then. We ought to get the experimentees ready, anyway.&quot;</p>
+<p>You looked over to your sister. &quot;That reminds me. You're being a part of the experiment?&quot;</p>
+<p>She nods, almost awaiting the question. Your bitterness changed into concern. Before you could open your mouth to ask why, she looks to Tristan and Catelyn and asks, &quot;Could we have a minute?&quot;</p>
+<p>Cate nods quickly, gesturing Tristan towards the door as they swiftly make their way out, shutting the door behind them. Once they leave, you turn back to look at your sister, who was fidgeting her fingers. &quot;Well then,&quot; You say finally, crossing your legs and arms.</p>
+<p>&quot;You and Dad have been, well&#8230;&quot; she starts off, sitting beside you. &quot;Ever since we no-clipped and I got injured, you've all done nothing but make sure that I'm alright and never had any tough work. I apprec- I appreciate everything, you know, I do. But it feels like it's my turn now, too, isn't it?&quot;</p>
+<p>You lean back, sighing. &quot;But why be part of the experiment? And I mean, directly involved in it, as an experimentee. You could've been an archivist, you know? It'd be safer.&quot;</p>
+<p>&quot;Sure, it would. But&#8230;&quot; Her voice trails off as she thinks of what to say. &quot;Think about it. Yeah, all the archivists, scientists, and everyone else, they're all- they're all a part of it. But the experiment groups, they help them find the results of their hypothesis, their analysis—you know— all that jazz.&quot;</p>
+<p>&quot;It's still dangerous, <a href="/evangeline-holmes">Eve</a>.&quot;</p>
+<p>She gulps quietly, gripping your arm as she leans her head on your shoulder. &quot;I know it is, <a href="/evangeline-holmes">Rosie</a>. But it'll be better. With you and Dad with me, it'll be like&#8230; I don't know. It'll be like we're just doing a little group activity at home.&quot;</p>
+<p>The two of you laugh as thoughts of your childhood reach the forefront of your minds. You couldn't feel too upset about it much further. It was still dangerous, the two of you knew that much. But she was your twin sister. She was far too like you, too stubborn, for you to try and deny her wishes. You sigh, getting up, deciding that the two of you should get going. You open the door revealing Tristan and Cate, who met you two again with warm smiles.</p>
+<p>This was indeed home, you thought. A hellish kind of home, perhaps, for its unforgiving conditions, and no exits. But with everyone else, perhaps, it was a place you were willing to go back to.</p>
+<p>To help everyone.</p>
+<div style="text-align: right;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">No&nbsp;place&nbsp;like&nbsp;home...</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">At&nbsp;least,&nbsp;not&nbsp;until&nbsp;it&nbsp;starts&nbsp;burning&nbsp;down.</a></div>
+<div class="collapsible-block-content">
+<p>Yours truly,<br />
+<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/trailmixncocoa" onclick="WIKIDOT.page.listeners.userInfo(7579964); return false;"><img class="small" src="https://www.wikidot.com/avatar.php?userid=7579964&amp;amp;size=small&amp;amp;timestamp=1761387691" alt="TrailmixNCocoa" style="background-image:url(https://www.wikidot.com/userkarma.php?u=7579964)" /></a><a href="http://www.wikidot.com/user:info/trailmixncocoa" onclick="WIKIDOT.page.listeners.userInfo(7579964); return false;">TrailmixNCocoa</a></span><br />
+<a href="http://backrooms-wiki.wikidot.com/trailmix-author-page">Author Page Here (Chocolate Inside)!</a></p>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_trim#pages">_trim</a><a href="/system:page-tags/tag/evangeline-holmes#pages">evangeline-holmes</a><a href="/system:page-tags/tag/masked-maidens#pages">masked-maidens</a><a href="/system:page-tags/tag/tale#pages">tale</a><a href="/system:page-tags/tag/unmasked-canon#pages">unmasked-canon</a><a href="/system:page-tags/tag/wholesome#pages">wholesome</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 6, last edited: <span class="odate time_1761387691 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">25 Oct 2025 10:21</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+25</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-14234542/to-return-home" class="btn btn-default" id="discuss-button">Discuss (11)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

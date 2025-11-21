@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>Little Kitsunebi Part I - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "little-kitsunebi-part-i";
+        OZONE.request.timestamp = 1763716428;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "little-kitsunebi-part-i";
+        WIKIREQUEST.info.pageId = 1312381238;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="Little Kitsunebi Part I"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+@import url(http://backrooms-wiki.wikidot.com/local--files/component:theme/nulim-norm.min.css);
+</style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+/* Site Theme */
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Anuliminal/1);
+
+/* Collapsible Sidebar */
+@import url("https://backrooms-wiki.wikidot.com/component:sidebar-theme/code/1");
+
+/* User Flairs */
+@import url("https://backrooms-wiki.wikidot.com/component:user-flairs/code/1");
+</style>
+<style>
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Amasked-maidens-theme/1);
+</style>
+<style>
+:root{
+--color: 0,0,0;
+  animation-name: emailnot;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes emailnot2 {
+  0% { color: rgb(255, 89, 114) }
+  100% { color: rgb(0, 0, 0) }
+}
+
+.rainbow2{  
+  animation-name: emailnot2;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;}
+ }
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            Little Kitsunebi Part I
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+
+
+<div style="text-align: center;"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+17</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+<p><iframe src="/little-kitsunebi-part-i/html/9401009bfaf8e3a6a32a12c0a81518a62d9bc185-14026103082036357164" allowtransparency="true" frameborder="0" class="html-block-iframe"></iframe></p>
+<div class="image-container aligncenter"><img src="http://backrooms-wiki.wdfiles.com/local--files/little-kitsunebi-part-i/flower" width="300px" alt="flower" class="image" /></div>
+<div class="blockquote">
+<p>The wet splash of the puddle by the sidewalk broke the silence of the gloomy night.</p>
+<p>I yelped as I stepped it in, the cold rainwater soaking through my red <em>zōri</em> sandals. It was then I realized I should use my powers, for it was much too dark to see otherwise. I puckered my lips and blew, and along with my whistling breath came the embers of my <em>kitsunebi</em>. The fragments of flame coalesced into a glowing blueish-green orb of fire, tinged with pink. It floated out in front of me like a magical lantern, lighting up the black air in front.</p>
+<p>As I walked down the wide abandoned road, I could see the dim outlines of suburban houses lining the streets behind forgotten lawns that were much too big to be Japanese. The architecture was foreign, and myself, being the homebody spirit that I was, couldn’t begin to fathom what strange country I was in now. Telephone wires stretched above me, and trees watched over me like silent sentinels, unmoving and unfriendly. I realized that there was not a single zephyr of wind sidling through the branches. My white-and-red <em>yukata kimono</em> shuffled limply at my sides without any breeze to move it.</p>
+<p>I pondered my appearance – whatever country I had somehow found myself in, the sight of a fox-eared, fox-tailed girl with a ball of fire floating in front of her on a silent suburban night would be bound to raise some questions. My eyes glowed slightly in the night, the fire behind them shining forth. Fastened in my long black hair were several lily hairpins, and upon the white upper half of my <em>kimono</em> were several patterns of lilies sewn into the cloth. These floral elements, along with my perfectly smooth skin, gave me an ethereal, almost ghostly feel, for better or for worse. I couldn’t help but maintain such a figure – when I transformed with my shapeshifting power, I transformed into an ideal. And of course, no matter how much I tried to tuck it under the folds, my fluffy little <em>kitsune</em> tail found its annoying little way out into the open air.</p>
+<p>I contemplated travelling invisible, but alas, as a young and inexperienced spirit, there was a limit to my abilities. I could have managed it for a few minutes or so, but managing my own <em>kitsunebi</em> as well as hiding myself from sight would be too much to juggle. Instead, I pressed onwards, hoping that anyone I encountered on this eerie plane would be friendly enough to guide me on my way.</p>
+<p>As if reading my thoughts, I saw a flicker of light illuminate the crossroads in front of me for a heartbeat, before it swerved to light up the house to my right. My sensitive ears picked up the sounds of footsteps – several pairs. I found a lamppost and pressed myself up against the back of it as the humans rounded the corner. A group of five, walking close together, arms brushing. Two of them carried flashlights and aimed them at the darkness in front of them, moving them around like searchlights. I quickly and quietly snapped my fingers and my <em>kitsunebi</em> went out. The only light now was from these peoples’ flashlights. They rounded the corner, and my heart sunk in my chest when I realized they were coming this way. I had to decide quickly – reveal myself and risk being attacked, or let them pass and perhaps never see another potentially friendly face again.</p>
+<p>“I can’t believe we have to risk our lives scouting for wanderers while everyone else gets to have fun exploring perfectly safe levels,” a voice behind me muttered.</p>
+<p>“Quiet!” another one, male, whispered.</p>
+<p>“Oh, come on. It’s not like there’s anything here, wanderer or entity. This area is deserted.”<br />
+I tried to peer around the edge of the lamppost to try and get a glimpse of them, but one of them flicked their flashlight around and nearly blinded me as I ducked back into hiding.</p>
+<p>“Hold on. I saw movement, up ahead,” one of them said. They started loudly at first, but trailed off. My ears pricked, turning towards the location of the sound. Their footsteps became quieter, softer, and slower. They were coming for me.</p>
+<p>“It’s not making any noise, whatever it is,” another said. “Probably not a Hound, at least.”</p>
+<p>“Hey, if you’re human, come out and show yourself!”</p>
+<p>Reluctantly, I left my hiding spot and edged out into the open with my hands up. My heart plummeted as the light caught my kimono and climbed up to my face. I never liked being seen, even back in Japan.</p>
+<p>“Look at that, it’s just a girl,” a gruff male voice called. It was hard to see past the light of the flashlights, but I could make out the dim outlines of the humans behind it. They were all adults, mostly young, and they all wore casual clothing. The one thing in common they all had was a sewn-on logo on their clothing &#8212; a bird with open wings and a star inside its breast.</p>
+<p>“Never thought we’d actually find another wanderer out here. Looks Japanese by the way she’s dressed. What’s your name?”</p>
+<p>“I’m Kimiko,” I stammered. I fidgeted with my hands and stood as straight as I could, desperately trying to hide my tail underneath my dress. Then I saw the light move and land directly on it. There was a brief moment of silence, then-</p>
+<p>“That’s a tail! She’s not human!”</p>
+<p>“Get back, quick! We don’t know if she’s dangerous!”</p>
+<p>The humans reacted instantly. The two holding their flashlights blasted me with light, and through the blinding beams I could see the other three draw out long spears from out behind their backs. The pointed tips reflected the light from the flashlights and overwhelmed me with panic. In a split second, I swept my arm out in front of me, and a curved wall of flame erupted between us. The angry red tongues hissed at the humans, and upon feeling the roaring heat lick at their clothes, they screamed.</p>
+<p>“Stay back!” I shrieked. “Stay back, don’t hurt me!”</p>
+<p>They spun on their heels and ran as fast as they could down the street and around the corner. I watched them go. I watched their pumping legs kick back behind them, with their tailless rears. The sounds of their frantic footsteps echoed into the night as I let the flames die down and retreat regretfully into the earth. The moment the darkness swallowed me once more, I began to miss their voices already. Now I was truly alone, with nobody to heed my cries for help. I had wasted my only chance I had at salvation. I was so full of shame that I turned invisible involuntarily. I trudged through the puddles, making unseen wet prints on the asphalt. Never once have I wanted to rip my tail off more than in that one moment.</p>
+<p>I pulled out my foxfire once more, and treaded the sidewalk past the crossroads, deeper into the strange country. There was a clearing up ahead, with tall blades of grass waiting for a morning dew that never came. I waded into the field, feeling the spindly embrace of the grass brush around the hem of my <em>kimono</em>. Away from the telephone lights and the tall shadows of the trees, I could see the sky clearly now. It was full of stars, brilliant and luminous, twinkling as they turned their gazes on me. They blinked in unison like a chorus of perfectly harmonized singers, tugging on my heartstrings with beckoning, silent lullabies. The stars flew together like a flock of birds or a collection of floating lanterns, and yet here I was with my own little star – my own little <em>kitsunebi</em>, all alone in an unfamiliar land. The stars would always be out of my reach.</p>
+<p>As I lay down in the grass, I could almost hear the steady thrum of voices of the bustling city streets of Tokyo. I loved to watch the humans chatter and move about from a perch atop a building’s edge. Invisible, of course, for as long as I could manage it. It had happened so quickly – I had dared to venture down onto the sidewalk among the crowd, disguising myself as one of them, just to smell the fish propped up on the stands at the Tsukiji market. So many wonderful sights and sounds, decorations to admire and trinkets to ogle, and of course, the delicious food that even I couldn’t come close to being able to prepare so beautifully. I had felt so alive then. The world had felt so alive… until I accidentally bumped into a passerby.</p>
+<p>Instead of colliding and being knocked back, I simply phased right through him. I closed my eyes, bracing for the impact, but it never came. I noticed a whirling sensation blow past my ears, and found the smell of fresh and wet fish stacked on ice had vanished, replaced by an old, dusty, dead stench. I opened my eyes to see endless yellow wallpaper, with wet, moldy carpets oozing with an unknown moisture that soaked into my <em>zōri</em> sandals. From that moment onwards, I was lost. I had lost track of time since that moment – who knows how long it had been since I entered this strange place? I scrambled through surreal dimension after dimension, from an old and empty concrete warehouse to an endless office, until I finally wound up in this midnight suburb, lying in the grass, looking up at the stars.</p>
+<p>I closed my eyes, taking in the scent of the grass around me and the feel of the damp soil against my back. When I opened my eyes, I realized my mistake. The sky was foggy and starless, for even they had left me now. I jumped to my feet – the grass around me had grown from crawling at my toes to reaching up to my chest. I gazed wildly around. There was not a single house in sight. Instead, all that pierced through the night were two dim, pulsating glows on opposite sides of the horizon – one an ominous red and the other a mysterious white.</p>
+<p>Besides those two lights, there was nothing but grass, stretching as far as the eye could see. I made up my mind – staying still in such a strange and foreboding environment was simply not an option. I held my <em>kitsunebi</em> up high above my head as I spread apart the curtains of grass before me in the direction of the white light. Like a rainbow after a spring monsoon, no matter how far I travelled, it never seemed to get closer. However, the further I walked, the more I noticed that the sky was brightening like a black stain washing away from a white cloth. The suffocating darkness gave way as I walked into the light. It grew and grew, illuminating all of my senses. I raised my hand to shield myself from it, and when my eyes adjusted, I could see the faint outlines of trees.</p>
+<p>I stepped onto a field of short red grass, in front of a sparkling, hazy teal lake. Gasping, I ran forward, suddenly realizing my thirst. I stooped at the water’s edge, between crimson-tinted reeds, and drank. The water stung with its acrid, bitter taste, but it was still so sweet all the same. I lapped at the misty liquid until I had my fill, and then I stood up and looked around. Surrounding me on all sides was a mystical forest of crimson, with faded leaves whistling in the wind. I smelled life on the breath of the breeze before me. Turning in place, I saw the silhouettes of several wooden cabins clustered around the beach on the opposite side of the lake. Yellow squares of light peeked out from behind the windows. Civilization. A chance to not be alone again.</p>
+<p>I bounded through the mist and the wet, dark sand, skipping past the grey pebbles, slick with dew. Flowers and dandelions grew through small patches of dirt strewn across the lakeshore; the hem of my <em>kimono</em> brushed past them. I breathed in the scent of the fresh air &#8212; it was light as cotton, clear and crisp, if not a little chilly. The lilies on my yukata flew as I frolicked through the forest, searching for home.</p>
+<p>It was then my ears picked up a faint susurration behind the trees. Undecipherable words in a tone that carried secrecy with it whispered in my ear. I held my <em>kimono</em> up to avoid it from brushing against the vegetation as I edged closer to the sound of the voices. As I stepped past the brush and climbed over a small hill, I found myself behind a group of ten humans huddled together. Through and between the trees I could see the wooden cabins. From there, these humans would be hidden from view. What exactly were they doing?</p>
+<p>“Are you <em>sure</em> today is the shipment day?” one of the humans whispered to his partner. He wore a moss green cloak with crimson stripes that camouflaged him against the red-tinted bushes he hid behind. As I peeked around the trees, I saw that he was wearing a mask. A mask… with fox ears.</p>
+<p>“I’m sure of it. Just be patient, and they’ll come out eventually,” his partner whispered back. Besides them was a cardboard box filled with all sorts of clothing articles. Scarves, jewelry, necklaces… it was like a box full of festival costumes. Were they preparing for an event? I tiptoed closer. They all had masks – some in different shapes, some in different colors, but they all retained the likeness of a fox. <em>Kitsune</em> masks.</p>
+<p>“He said it would be today,” another piped up. “That man, he thought I was his wife; why would he lie?”</p>
+<p>“Are you sure you didn’t just get an intern or something? Maybe he got the date wrong? What was his job?”</p>
+<p>“He was…” the other trailed off into an uncomfortable and tense silence.</p>
+<p>As I pivoted my body to look at them from the side, I saw their masks in full detail – thin, narrow foxlike visages in white and black, with bold red lines running down their snouts and around their eyes. Seeing something like this brought back vivid and poignant memories of home – I could almost smell the smoke carrying fragments of frying food, the sound of the <em>koto</em> and the sight of dancing geisha, and of course, the <em>kitsune</em> masks on display.</p>
+<p>Perhaps these humans were like me, transported to a strange location, lost and alone and afraid. There was only one explanation for their <em>kitsune</em> masks – they came from Japan, too. Which meant that if I revealed myself as a <em>zenko kitsune</em>… they would certainly show me respect!</p>
+<p>I crept closer and closer, feeling the leaves of the brush at my feet shake slightly as my cloth passed over it. The tiny branches swayed a little, but thankfully the humans paid no heed. Instead, they gathered around the cardboard box, pulling out cloth after cloth and wrapping them around their bodies. I watched in amazement as their bodies began to shift and transform underneath their large green and red cloaks. Some grew taller, others grew shorter, and as they moved around, examining their new bodies, I realized the only part of their body that had remained constant was their masks.</p>
+<p>Human-like creatures with the power to shapeshift could only mean one thing: fellow <em>kitsune</em>. My heart leapt with joy as I bounded across the grass, my invisibility disappearing and my true form bursting forth. I jumped over a log, and in doing so my kimono lifted upwards just enough for my tail to wriggle free and raise itself high into the air. Upon landing down, each of their heads swiveled in my direction.</p>
+<p>“Who are you?” one of them barked, rising to his feet. The other <em>kitsune</em> at his side hushed him anxiously as she turned her head to glance at the cabins in the distance. The nearest cabin’s door swung open, and two men that looked exactly like two of the <em>kitsune’s</em> new forms came walking out carrying a large box of supplies.</p>
+<p>“Why, I’m one of you,” I responded, stepping forwards. Though the air was tense, not one member of the group made a move towards me. They narrowed their eyes in suspicion through their masks.</p>
+<p>“If that were true, you’d be wearing a mask like us,” the man who had spoken earlier said. “We would have been notified beforehand. I don’t know what your motives are, but we have our own business to attend to, and you’re interrupting us. Leave us alone to-”</p>
+<p>“Look! She has a tail!” another one exclaimed. In unison, I could feel the eyes behind the white plastic shift their gazes to take in the sight of my bushy tail.</p>
+<p>“Then that means…”</p>
+<p>Thinking quickly, I inhaled sharply and blew. Out from my mouth came the small blue flames. I narrowed my eyes and shaped the flames with the precision of a thousand moons of experience. The fire bent to my will and folded into the shape of my own mask. I reached out and snatched it out the air, feeling the heat evaporate from its surface. It was but hardened clay now. I strapped it onto my head – it fit my face perfectly, conforming to every curve. The others stood in awe.</p>
+<p>This was my chance. In an unfamiliar, endless world, the likelihood of me finding a group of people to be with a third time was very slim. No matter the cost, I knew that I had to gain their trust. I drew myself up as they spread out and surrounded me on all sides.</p>
+<p>“I’ve come to help you,” I said. I breathed fire into my voice, igniting it with passion and a sonorous song of magical flame. Silky smooth and musical, it drew my new companions closer. Their breath hung on every word, and I knew I had them in my trance. I knew then they were not my kind, but humans&#8230; even then, it was more than enough. They gazed upon with reverent eyes, eyes that had been so suspicious before. The sight of my tail had gotten them to lower their guards just enough for me to work my magic. I could see their minds dancing along to my tune as I spoke.</p>
+<p>“Show me what to do.”</p>
+<p><iframe src="/little-kitsunebi-part-i/html/9401009bfaf8e3a6a32a12c0a81518a62d9bc185-589764876436197019" allowtransparency="true" frameborder="0" class="html-block-iframe"></iframe></p>
+<div style="text-align: center;"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+17</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+</div>
+<div class="image-container"><img src="http://backrooms-wiki.wdfiles.com/local--files/little-kitsunebi-part-i/divider" width="700px" alt="divider" class="image" /></div>
+<hr />
+<div style="text-align: right;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Author(s)</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Hide&nbsp;author</a></div>
+<div class="collapsible-block-content">
+<p>By <a href="http://backrooms-wiki.wikidot.com/rikas-author-page|">Kitty Rika</a><br />
+<strong>Lily Image:</strong> <a href="https://www.rawpixel.com/image/2618180/free-illustration-image-lotus-water-lily-flower">Lotus Water Lily Illustration</a> on RawPixel, <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain</a></p>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_cc#pages">_cc</a><a href="/system:page-tags/tag/_trim#pages">_trim</a><a href="/system:page-tags/tag/contest-winner#pages">contest-winner</a><a href="/system:page-tags/tag/goicon2021#pages">goicon2021</a><a href="/system:page-tags/tag/masked-maidens#pages">masked-maidens</a><a href="/system:page-tags/tag/tale#pages">tale</a><a href="/system:page-tags/tag/unmasked-canon#pages">unmasked-canon</a><a href="/system:page-tags/tag/wonder#pages">wonder</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 16, last edited: <span class="odate time_1757559337 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">11 Sep 2025 02:55</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+17</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-14145541/little-kitsunebi-part-i" class="btn btn-default" id="discuss-button">Discuss (3)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

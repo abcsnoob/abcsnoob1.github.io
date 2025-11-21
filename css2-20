@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kavivanar';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jb4g.ttf) format('truetype');
+}

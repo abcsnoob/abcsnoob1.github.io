@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kings';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/kings/v9/8AtnGsK4O5CYXU_I.ttf) format('truetype');
+}

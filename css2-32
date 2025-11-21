@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'New Tegomin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfN0.ttf) format('truetype');
+}

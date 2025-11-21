@@ -1,0 +1,966 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-corrections" lang="en-corrections">
+
+<head>
+    <title>it&#039;ll all work out - The Backrooms</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "backrooms-wiki.wikidot.com";
+        WIKIREQUEST.info.siteId = 4431268;
+        WIKIREQUEST.info.siteUnixName = "backrooms-wiki";
+        WIKIREQUEST.info.categoryId = 38105090;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "it-ll-all-work-out";
+        OZONE.request.timestamp = 1763712118;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en-corrections';
+                WIKIREQUEST.info.pageUnixName = "it-ll-all-work-out";
+        WIKIREQUEST.info.pageId = 1331665516;
+                        WIKIREQUEST.info.lang = "en-corrections";
+        OZONE.lang = "en-corrections";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="og:title" content="it&#039;ll all work out"/>
+                                <meta name="og:description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:site_name" content="The Backrooms Wiki"/>
+                                <meta name="og:type" content="article"/>
+                                <meta name="description" content="Documenting the levels, entities, objects and phenomena of the Backrooms. You&#039;ve been here before."/>
+                                <meta name="og:image" content="http://backrooms-wiki.wikidot.com/local--files/start/opengraphhallprint.png"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="twitter:card" content="summary"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en-corrections"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--theme/base/css/style.css);
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--theme/base/css/style.css);
+</style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+    <meta name="google-adsense-account" content="ca-pub-7805322678042888"/>
+<style>
+@import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
+
+#side-bar .side-block.languages { margin-top: 0; }
+.side-block.languages .heading { margin-top: 1em; }
+
+#side-bar .side-block.socials {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#side-bar .side-block .sidebar-social {
+  background: rgb(var(--dark-gray-monochrome, 30, 30, 30));
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  transition: 0.1s;
+}
+
+#side-bar .side-block .sidebar-social:visited {
+  color: rgb(var(--white-monochrome, 240, 240, 240));
+}
+
+#side-bar .side-block .sidebar-social:is(:hover, :focus) {
+  background: rgb(var(--bright-accent, 90, 90, 90));
+}
+
+@media screen and (max-width: 56.25rem) {
+  #side-bar .side-block .sidebar-social {
+    width: 1.6rem;
+    height: 1.6rem;
+    font-size: 1.6rem;
+    margin: 0.3rem;
+  }
+}
+</style>
+<style>
+@import url("https://backrooms-wiki.wikidot.com/theme:old-liminal/code/1");
+</style>
+<style>
+@import url(https://backrooms-wiki.wikidot.com/local--code/theme%3Afragmented/1);
+</style>
+<style>
+.licensebox .collapsible-block-link {
+    margin-left: inherit;
+    padding: inherit;
+    transition: inherit;
+    opacity: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+</style>
+<style>
+@import url('https://backrooms-wiki.wikidot.com/component:colstyle/code/1');
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--7690939296dc/common--modules/js/pagerate/PageRateWidgetModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>The Backrooms</span></a></h1>
+                
+                    <h2><span>You've been here before.</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="list-pages-box">    
+    
+    
+    
+    </div>
+<div class="top-bar">
+<ul>
+<li><a href="/start">Home</a></li>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/top-rated-pages-this-month">Top Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a>
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+</ul>
+</li>
+<li><a href="/entities">Entities</a>
+<ul>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+</ul>
+</li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li><a href="/forum:start">Forums</a></li>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/contest-archive">Contest Archive</a></li>
+<li><a href="/page-of-the-week-archive">Page Of The Week Archive</a></li>
+<li><a href="/featured-archive">Featured Archive</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/site-rules">Site Rules</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/art-page-policy">Art Page Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>Wiki
+<ul>
+<li><a href="/system:join">Join The Wiki</a></li>
+<li><a href="/top-rated-pages">Top Pages</a></li>
+<li><a href="/most-recently-created">Most Recent</a></li>
+<li><a href="/lowest-rated-pages">Lowest Rated</a></li>
+<li><a href="/system:page-tags">Tags</a></li>
+<li><a href="/random:random-page">Random Page</a></li>
+<li><a href="http://backrooms-sandbox-2.wikidot.com/">Sandbox</a></li>
+<li><a href="/forum:start">Forums</a></li>
+</ul>
+</li>
+<li>Library
+<ul>
+<li><a href="/normal-levels-i">Levels</a></li>
+<li><a href="/unnumbered-levels">Unnumbered Levels</a></li>
+<li><a href="/entities">Entities</a></li>
+<li><a href="/unnumbered-entities">Unnumbered Entities</a></li>
+<li><a href="/objects">Objects</a></li>
+<li><a href="/phenomena">Phenomena</a></li>
+<li><a href="/tales">Tales</a></li>
+<li><a href="/poi-s">POI's</a></li>
+<li><a href="/groups-list">Groups</a></li>
+<li><a href="/canons">Canons</a></li>
+<li><a href="/joke-entries">Joke Entries</a></li>
+<li><a href="/themes">Themes</a></li>
+<li><a href="/components">Components</a></li>
+<li><a href="/translations-hub">Translations Hub</a></li>
+<li><a href="/art-gallery">Art Gallery</a></li>
+<li><a href="/hubs-hub">Hubs Hub</a></li>
+</ul>
+</li>
+<li>Info Pages
+<ul>
+<li><a href="/discord">Discord</a></li>
+<li><a href="/twitter">Twitter</a></li>
+<li><a href="/tumblr">Tumblr</a></li>
+<li><a href="https://linktr.ee/backroomswiki">Linktree</a></li>
+<li><a href="/guide-hub">Guide Hub</a></li>
+<li><a href="/greenlight-policy">Greenlight Policy</a></li>
+<li><a href="/tag-guide">Tag Guide</a></li>
+<li><a href="/criticism-policy">Criticism Policy</a></li>
+<li><a href="/licensing-guide">Licensing Guide</a></li>
+<li><a href="/image-use-policy">Image Use Policy</a></li>
+<li><a href="/rewrite-policy">Rewrite Policy</a></li>
+<li><a href="/deletions-policy">Deletions Guidelines</a></li>
+<li><a href="/authors-pages">Authors</a></li>
+<li><a href="/meet-the-staff">Meet The Staff</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block socials"><a class="sidebar-social fa-brands fa-x-twitter" href="/twitter"><span style="font-size:0%;">Twitter</span></a><a class="sidebar-social fa-brands fa-discord" href="/discord"><span style="font-size:0%;">Discord</span></a><a class="sidebar-social fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61575995663725/"><span style="font-size:0%;">Facebook</span></a><a class="sidebar-social fa-brands fa-instagram" href="https://www.instagram.com/backrooms.wikidot/"><span style="font-size:0%;">Instagram</span></a><a class="sidebar-social fa-brands fa-bluesky" href="https://bsky.app/profile/ts.thebackrooms.wiki/"><span style="font-size:0%;">Bluesky</span></a><a class="sidebar-social fa-brands fa-tumblr" href="/tumblr"><span style="font-size:0%;">Tumblr</span></a></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+</div>
+<div class="side-block">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">For&nbsp;New&nbsp;Users</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">–&nbsp;hide&nbsp;block</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/greenlight-policy">Greenlight Policy</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://backrooms-wiki.wikidot.com/forum/c-6898685/introductions">Forum: Introduce Yourself</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block languages"><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div><div class="list-pages-box">    
+
+
+    
+    
+    
+    </div></div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Library</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/normal-levels-i">Levels</a>|<a href="/unnumbered-levels">Unnumbered Levels</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/entities">Entities</a>|<a href="/unnumbered-entities">Unnumbered Entities</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/phenomena">Phenomena</a>|<a href="/objects">Objects</a>|<a href="/tales">Tales</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/poi-s">POI's</a>|<a href="/groups-list">Groups</a>|<a href="/canons">Canons</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/joke-entries">Joke Pages</a>|<a href="/themes">Themes</a>|<a href="/components">Components</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/art-gallery">Art Gallery</a>|<a href="/hubs-hub">Hubs Hub</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Wiki</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/how-many-pages">How Many Pages?</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-this-month">Top Rated New Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages-by-year">Top Pages by Year</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/top-rated-pages">Top Pages of All Time</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/most-recently-created">Newly Created Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/underread-and-underrated">Underread Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/random:random-page">Random Page</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/lowest-rated-pages">Lowest Rated Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:page-tags">Tags</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Community</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:join">Join The Wiki</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/forum:start">Forum</a> - <a href="/forum:recent-posts">New Posts</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/translations-hub">Translations Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/authors-pages">Authors' Pages</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/meet-the-staff">Meet The Staff</a></p>
+</div>
+</div>
+<div class="side-block">
+<div class="heading">
+<p><strong>Resources</strong></p>
+</div>
+<div class="menu-item">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/guide-hub">Guide Hub</a></p>
+</div>
+<div class="menu-item">
+<p><a href="http://www.backrooms-sandbox-2.wikidot.com">Sandbox</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/system:recent-changes">Recent Changes</a></p>
+</div>
+<div class="menu-item">
+<p><a href="/site-rules">Site Rules</a></p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<p><a class="open-menu" href="#side-bar"><br /></a></p>
+<a class="close-menu" href="##"><br />
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            it'll all work out
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+<p><iframe src="//interwiki.backroomswiki.cn/styleFrame.html?priority=2&type=sidebar&override=0&theme=https://backrooms-wiki.wdfiles.com//local--code/theme%3Afragmented/1&css={$css}" style="display: none"></iframe></p>
+<div style="text-align: center;">
+<h1 id="toc0"><span><span style="font-size:150%;">2~B</span></span></h1>
+<h5 id="toc1"><span><em>By Yellow</em></span></h5>
+</div>
+<br />
+<div style="text-align: right;"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+15</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+<p><span style="font-size:80%;"><em><tt>tw: panic attack, allusion/belittlement to/of self-harm.</tt></em></span></p>
+<hr />
+<p>Carefully, that first step is the one which matters the most, the one into a murky cloud, the one to a land I used to know. The land I used to know, the game I used to play. Once I'm in, I still won't know much, but I'll know what I learned, what I knew. What I knew is what will bid me adieu from this light. To play this silly game once more.</p>
+<p>I cannot play alone. I cannot be me. No one will play with me. I need to become something interesting. I'll morph into something she'll want to see in me. Something sweet. Something pretty.</p>
+<p>Who is that boy, what is his name, and why is he here?</p>
+<p>I'll show you, only you, the parts of me no one else will ever get to see.</p>
+<p>Sweaty pits, watering eyes and everything in between.</p>
+<p>I won't let me hide anything.</p>
+<p>For you.</p>
+<p>For me.<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>P<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>A<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>L~S<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>L~I<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>O~N<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>C~G<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>I'm not doing anything<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>But I'm lying <span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>Except crying<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>Thriving<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>On a dying hill<br />
+<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</span>Surviving<br />
+Dying<br /></p>
+<div style="text-align: center;">
+<p><span style="text-decoration: line-through;">i'm stalling</span></p>
+<p><span style="text-decoration: line-through;">anything to appear interesting</span></p>
+</div>
+<hr />
+<hr />
+<hr />
+<p>&quot;There has to be a reason, Daryll, there's always a reason for everything.&quot;</p>
+<p>At some bargain casino, Alexandria held a royal flush within her hands. Four 4's, that has to be symbolic of something. That doesn't play in to the king of hearts in the middle of it all, but does anyone even pay attention to suicide king anyways? Someone so memorable can become so cliché, Alexandria knew a lot about clichés. Quite frankly, betting it all just looked so right, yet intuition always comes out when you least expect it to. Alexandria didn't feel the need to put in all her chips yet, so she simply raised 20.</p>
+<p>&quot;Of course there's a reason for everything. Why wouldn't there be a reason for everything, when everything around everything always interacts with everything. So many factors, so many tiny pieces all connecting together in a puzzle, except the puzzle moves in 3 separate dimensions and also cuts across. How many dimensions would that be? Like, probably 6 or something, like the one version of chess.</p>
+<p>&quot;Regardless, a body's a body, one without trace is one we cannot haste.&quot;</p>
+<p>Alexandria gave a familiar scowl, followed by a face of scrutiny to guise confusion. &quot;Quit speaking in limericks or whatever the shit term is, I don't understand any of it. Call, two blue chips.&quot;</p>
+<p>Daryll was having none of it. Both chip wise and comprehension wise. &quot;If you took a moment to simply sit back and realize the bigger picture within, you would begin to put more pieces together. You can't lick a maple tree and expect syrup. Raise, 3 white chips.&quot;</p>
+<p>Alexandria bit her tongue. &quot;I'll do one for ya. Raise, 4 red chips.&quot;</p>
+<p>Daryll sighed, not the loud, heave-like kind. The cold, thoughtless one of defeat through victory. &quot;As expected, you just don't get it. Raise, 20 blue chips.&quot;</p>
+<p>Alexandria sat cold. Her poker face was wearing thin. &quot;Now what would you do that for?&quot;</p>
+<p>Daryll began counting out more chips. &quot;What, not explain it to you? Because I just did. I'm not a fan of repeating myself. I don't like repeating anything. I'll do it once and never do it again. Raise, 30 blue chips.&quot;</p>
+<p>Alexandria held little left in her pile. Both her money and patience were wearing thin. &quot;This is pointless. If you were to get off your pretentious ass and just cut to the damn chase, maybe people wouldn't always be such dicks to you. Also, quite frankly, you do seem to enjoy repeating yourself. I mean, <a class="newpage" href="/killer">look at your fucking arm</a>. How's that going, by the way?&quot; Alexandria weighed her options then. Having a cover for a lack of response always gives processing time.</p>
+<p>Daryll, already faceless, grew even more distant. &quot;It's fine. It'll all work out. None of your business, anyways, you weren't supposed to know of that in the first place. You have no reason to know of such personal things anyways.&quot;</p>
+<p>&quot;Don't be so condescending of me.&quot;</p>
+<p>&quot;I'll do whatever I want.&quot;</p>
+<p>&quot;Call, 10 blue chips.&quot;</p>
+<p>Daryll held no response. Alexandria stare for a moment, then she once more took a chance to think. After taking a moment, she realized that what she said was, in her words, shitty as hell. Naturally, Daryll was right about what he said, as what he was saying was occurring right in front of him. Alexandria chewed her cheek. All of a sudden, the poker table felt a little tighter then before.</p>
+<p>Daryll sat in silence further. Alexandria, naturally, felt guilty, and confronted it as such. &quot;Damn, I didn't mean that. That was a mistake. I'm-. I'm, uh.&quot;</p>
+<p>&quot;You're what now?&quot;</p>
+<p>&quot;I'm sorry.&quot; Her voice grew shaky for a moment.</p>
+<p>Daryll smirked, for he now knew he had won. &quot;As expected.&quot;</p>
+<p>The faceless dealer rematerialized, he had paid no attention to them as they spoke; he only saw money. Or, at least, whatever it's being represented as at the moment. &quot;All bets are placed and irreversible. Showdown!&quot;</p>
+<p>Alexandria laid out her royal flush. Daryll, naturally, had a straight.</p>
+<p>&quot;Cocksucker.&quot;</p>
+<p>&quot;Hah, you wish.&quot;</p>
+<p>&quot;I really don't need to.&quot;</p>
+<p>&quot;Ah, yada yada.&quot;</p>
+<p>The dealer collected the cards, shuffled, and dealt them new hands.</p>
+<hr />
+<p>Approaching a railway atop a high balcony is always seen differently every time. Context is key, lest you wish to assume everyone is about to jump off its peak. Yet, that approach to death is so utterly mundane, yet melodramatic. The corpse falls apart and it happens much too quickly. Regardless, it can be easy to assume, especially when said person is sitting on the railing facing the void.</p>
+<p>Alexandria knew a thing or two about not feeling quite in the moment, simply following body instincts. Daryll didn't know that, all he knew was she had a very valid reason to want to die and an easy outlet to do so. Unfortunately for him, or at least his thought process, Alexandria had already heard him begin approaching, yet remained on the rail, simply staring at him. Daryll thought he knew a lot, so he presumed he would be risking everything by taking one final step.</p>
+<p>&quot;I want to go down there. I want to see what's there.&quot;</p>
+<p>Daryll stared dumbfounded at Alexandria. What could she have been thinking? &quot;Alexandria, I think you need to calm down. I get that a lot has been on your mind regarding&#8230; recent events, but I just think you're being rather rash right now.&quot; Daryll spoke softly. He knew how to handle stuff like this. Just make her feel okay for the moment before dragging her away.</p>
+<p>&quot;You think you've seen rash? You're always so methodical and cold in every word you choose to speak. Why can't you speak to me like a normal human being? I've heard you say those words before.&quot;</p>
+<p>Shit. Daryll knew he was busted, that's all he could think.</p>
+<p>&quot;I will not be yet another person you save. You think you know all this and all that, but this void is made for me. I am but a dancer lost in her lonely waltz, waiting for her partner to find her and join her in a spin. I am the speaker for the void, you know nothing of this place.&quot;</p>
+<p>&quot;Alexandria, it's dangerous. I'm speaking to you from me, neither of us have the slightest clue what's down there. It's outside the streetway! The casinos shouldn't be left in this way. Remember <a href="/blue-channel">the stories.</a> Are you really gonna risk something like that?&quot;</p>
+<p>&quot;The, the fucking stories? You mean that old wives tale people tell to themselves? Fuck your &quot;glue&quot; theory, it doesn't make sense in the first place! All those statistics are too particular, why would any of that be needed in the first place. Not even counting the fact that it completely glazes over how it got there in the first place, everyone who claims it exist always act so pretentious about it. Forget you, we both know it's just another little story made up to comfort the naive, make them think there's a path for them.&quot;</p>
+<p>&quot;Alexandria, it is real, I've seen it myself!&quot; Obviously, Daryll was lying. He knew it wasn't real, he had done plenty of searching in all the paths that had been given to him. Quite frankly, if Daryll couldn't find it, it wasn't real.</p>
+<p>Alexandria couldn't do much, but she knew gamblers, and there's one thing gamblers can do right: read a facade. &quot;You stone hearted liar. Your poker face is lacking, or does it only come out when you win? That'd make sense.</p>
+<p>&quot;You're just a pretentious bitch, go find some other woman to make you feel better. That woman won't be me anymore.&quot;</p>
+<p>&quot;Alexandria, don't!&quot;</p>
+<p>Alexandria leapt from the balcony with grace. Not a jump, she wasn't going away. She was coming back home, at least, kind of.</p>
+<p>Daryll, being impulsive and without time to think it through, jumped with her. He too didn't jump. He leapt.</p>
+<p>Two slow dancers frolicked above the void before falling below.</p>
+<p>&#8230;&#8230;.</p>
+<p>&#8230;</p>
+<p>..</p>
+<p>.</p>
+<p>&#8230;..</p>
+<p><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></p>
+<p>but everything has a top, and by consequence, everything has a bottom. a rock bottom.</p>
+<p>and once you're at the bottom you can only go up. have you ever climbed a mountain before?</p>
+<hr />
+<p>&quot;Owwwww, my head.&quot;</p>
+<p>When Alexandria came back into her sense, there was but empty space around her. The surrounding terrain could only be described as a malnourished cave. There was wall around, definitely sedimentary, or else it would collapse onto her. Yet, no matter how she looked at it, the wall almost seemed porous. Craters were scattered unevenly like acne on a teens face, almost as if the entire place was simply an enlarged sponge. When Alexandria went to stand up, the echo reverberating around her was so loud it felt as though the walls were merely suggestions to the sound waves.</p>
+<p>The walls weren't approachable gray but rather toxic, murky purple. Like a tainted king, the wall seemed almost unforgivable for what it had done, even if it had only existed around Alexandria at that very moment. It was unapproachable, yet it was all around her, with many twisting halls leading to nothing but expected deceit. It was impossible to pick a direction; how could you pick direction with no guidance and only paths at the bottom of your life?</p>
+<p>What could Alexandria even say in that moment? She was alone, she had no guidance, and already she could feel something in the back of her throat. That tiny something, it was there but it had no name. Perhaps a fur ball, Alexandria spent too much time around cats anyways. It grew and as it grew she could only cough. She coughed louder and louder until she almost coughed all her guts out. Then, she almost threw up.</p>
+<p><em>Stupid, stupid, stupid, stupid little girl.</em></p>
+<p>All she could hear in her head was belittlement. She'd done something stupid off of nothing but impulse. Daryll told her not to, yet she followed through anyways. She could've taken the time to think it through, but noooooo, instead just take the most plummeting route instantaneously!</p>
+<p>People always like to act as though they are immortal once they are at the top. As though there is simply no way for them to lose what they have at that moment. However, there's one important factor to consider when you're at the top: when you look up, there's but a ceiling smothering your face. And when the realization finally kicks in that the ceiling is there and existent and you'll never beat it no matter how hard you bang on the drywall, you'll get startled enough to fall, down, down, down.</p>
+<p>Then life becomes a little bit more fragile.</p>
+<p>&quot;I can't take it!&quot; A certain gusto could be heard in her voice. She wasn't just mad, she was infuriated and filled with dread. Dread is a more subtle emotion, you see, it doesn't come out until you take out everything you need to take out. In the moment, dread is but an afterthought, and the thing about afterthoughts is they always get put next in line. Only after you confront everything bottled up and imminent can you take care of an afterthought, much in the same vein that you can only see the afterglow after the blinding lights.</p>
+<p>Except the afterglow is pretty and the afterthought is horrifying.</p>
+<p>Alexandria began slamming her body onto the walls while spouting unintelligible phrases, screaming them as loud as she could. Her faded jeans began tearing at the seams as she threw herself at anything she could see. Every part of her body felt like venom, she was but a poison rattlesnake. A former victim turned killer, she did everything she could to destroy anything in her wake.</p>
+<p>The walls were thin. Very thin. Every blow to them caused damage, making them collapse. Despite that, the roof which would've been there felt nonexistent. The walls went miles high, yet never once did they grow unstable. It was impossible to gauge exactly how far the walls went, making any attempt to measure would be useless. Funny how they always seem to try, yet always come short. Seems like a cheap copout, at least to Alexandria. What they're copping out of no one seems to know, what do they even want in the first place?</p>
+<p>You could break through the walls, but all you'd find is more wall. There was space to walk, but where would anyone go? What does space mean in a void? What is time?</p>
+<p>Alexandria banged on those walls for what felt like thousands of years until she finally felt her anger slowly start seeping away. Like black ooze, it almost seemed to flow out of her through any pores it could find. Like squeezing acne, it came out quickly. But there's something about squeezing out the anger, similar to squeezing out the acne.</p>
+<p>After it's all out the blood flows from the pores.</p>
+<p>Falling to the ground, Alexandria finally realized the severity of her situation. She was in an infinite void with no supplies and no one around to help her out. The walls seemed infinite and everything always felt off-putting. She had nowhere to go, no one to cry out for, she only had a battered deck of cards and enough water to sleep easy tonight. And that's when it kicked inside her, she felt herself going insane.</p>
+<p>Who could blame her? Her state of mind couldn't have been right, she figured she'd be trapped here forever. It's enough to make anyone lose a few screws.</p>
+<p>She fell to the ground and started weeping uncontrollably. Her tears dissolved the rocks below her, yet she did not care. Like a harsh wind on a rock on the beach, it began smoothening out the surface enough for her to not scrape her elbows on the rugged floor. Her tears did not gather in a pool, they only melted into the ground.</p>
+<p>The pain she felt in that moment, the love she gave away for an empty void, it would've made the masses cry out in pain. They would've looked for meaning, a reason as to why she decided to fall to the bottom of the floor. They'd see it as something so utterly pretty, perhaps twist these two young lovers into something they aren't. But there was no meaning. Alexandria did not love Daryll in the way Daryll did. Alexandria didn't want to declare any love by falling into a void. She only felt apathy for everybody and everything. Not one person in her life ever made her feel complete. There is no message there. She wasn't a fight, a theme, nor was she a love song. There was nothing to fight for, and there never would be.</p>
+<p>Don't make her something interesting. That's the worst feeling.</p>
+<p>Alexandria began hyperventilating. She could look around her and see the world distorting. The walls began melting around her, yet when she touched them funny colors popper up in her head. A tiny black dot in her vision began expanding and enlarging until she it blew up and consumed everything in her line of site. Her breaths were faster then she could comprehend, yet in that moment, she felt perfectly still. She panicked more and more and more.</p>
+<p>All her life, she put on a play. She began dancing the moment she learned that no one cared for the true person deep within her. She could play a thousand personas for any person and could play any part. She could've been an actor if she wasn't stuck here. No one she could tell everything too. No one was interested enough to listen like that.</p>
+<p>No one loved her like that ever before.</p>
+<p>Daryll told her one time about the way he saw signs in his head. They began the center of attention, any words in his head would project front and center for both sides of him to see. He could evaluate them and choose what to do from their musings. Maybe that's what she needed.</p>
+<p>In this black scape, where she couldn't control herself, she needed to find a way.</p>
+<p>Some light, somewhere half interesting.</p>
+<div style="text-align: center;">
+<p><tt>Welcome, esteemed guest.</tt></p>
+</div>
+<p>Somewhere where she could focus on herself, like the black foreground in her mind.</p>
+<div style="text-align: center;">
+<p><tt>Don't be so afraid, no one here is trying to hurt you.</tt></p>
+</div>
+<p>Somewhere&#8230; clean, like the home she had in her old world.</p>
+<div style="text-align: center;">
+<p><tt>Check-in</tt><br />
+<tt>Valet</tt><br />
+<tt>Bags</tt></p>
+</div>
+<p>She just had to open her eyes.</p>
+<div style="text-align: center;">
+<p><tt>Welcome to The Terror Hotel</tt></p>
+</div>
+<div style="text-align: center;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">it'll_all_work_out</a></div>
+<div class="collapsible-block-content">
+<p>in the end, we don't need to worry. right now, it doesn't make sense, and perhaps it won't truly end in a way which is satisfactory. no matter what, no matter what hardships are taken, it'll all work out in the end.</p>
+<p><em>fin~</em></p>
+</div>
+</div>
+</div>
+</div>
+<p><span style="font-size:80%;"><br /></span></p>
+<div style="text-align: center;"><span style="font-size:80%;"><br />
+<br /></span>
+<p><span style="font-size:80%;"><em><tt>But someone else was there</tt></em><br />
+<strong><a class="newpage" href="/killer">killer</a> ♡ it'll all work out ♡ <a class="newpage" href="/funeral">funeral</a></strong></span></p>
+</div>
+<span style="font-size:80%;"><br /></span>
+<p><span style="font-size:80%;"><br /></span></p>
+<div style="text-align: center;"><span style="font-size:80%;"><br />
+<br /></span>
+<p><span style="font-size:80%;"><strong>« <a href="/creep">creep</a> | <a href="https://www.youtube.com/watch?v=CDOaIcgUVEc&amp;scrlybrkr=92e8ca24">it'll all work out</a> (stranger in the alps) | <em>3</em> »</strong></span></p>
+</div>
+<span style="font-size:80%;"><br /></span>
+
+
+<div class="licensebox">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;Hide&nbsp;Licensing&nbsp;/&nbsp;Citation</a></div>
+<div class="collapsible-block-content">
+<p>Cite this page as:</p>
+<div class="list-pages-box">    <div class="list-pages-item">
+
+
+<blockquote>
+<p>&quot;<a href="/it-ll-all-work-out">it'll all work out</a>&quot; by yoyoflux, from the <a href="http://backrooms-wiki.wikidot.com/">Backrooms Wiki</a>. Source: <a href="https://backrooms-wiki.wikidot.com/it-ll-all-work-out">https://backrooms-wiki.wikidot.com/it-ll-all-work-out</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>.</p>
+</blockquote>
+</div>
+    
+    
+    
+    </div>
+
+
+<div class="colmod-block">
+<ul>
+<li class="folded">
+<ul>
+<li style="list-style: none">_</li>
+</ul>
+<div class="colmod-link-top">
+<div class="foldable-list-container"><a href="javascript:;">+ Embed citation as HTML</a><a href="javascript:;">- Embed citation as HTML</a></div>
+</div>
+<div class="colmod-content"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<div class="code" style="user-select: all;">
+<p><span style="white-space: pre-wrap;">&quot;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/it-ll-all-work-out&quot;&gt;it'll&#32;all&#32;work&#32;out&lt;/a&gt;&quot;&#32;by&#32;yoyoflux,&#32;from&#32;the&#32;&lt;a&#32;href=&quot;http://backrooms-wiki.wikidot.com/&quot;&gt;Backrooms&#32;Wiki&lt;/a&gt;.&#32;Source:&#32;&lt;a&#32;href=&quot;https://backrooms-wiki.wikidot.com/it-ll-all-work-out&quot;&gt;https://backrooms-wiki.wikidot.com/it-ll-all-work-out&lt;/a&gt;.&#32;Licensed&#32;under&#32;&lt;a&#32;href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA-3.0&lt;/a&gt;.</span></p>
+</div>
+</div>
+    
+    
+    
+    </div></div>
+<div>
+<div class="foldable-list-container"></div>
+</div>
+</li>
+</ul>
+</div>
+<hr />
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<div class="content-separator" style="display: none:"></div>
+<p>For more information about on-wiki content, visit the <a href="/licensing-master-list">Licensing Master List</a>.</p>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_licensebox#pages">_licensebox</a><a href="/system:page-tags/tag/bittersweet#pages">bittersweet</a><a href="/system:page-tags/tag/featured#pages">featured</a><a href="/system:page-tags/tag/nostalgia#pages">nostalgia</a><a href="/system:page-tags/tag/tale#pages">tale</a><a href="/system:page-tags/tag/terror-hotel-canon#pages">terror-hotel-canon</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">page revision: 5, last edited: <span class="odate time_1732979040 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Nov 2024 15:04</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+15</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
+<a href="/forum/t-14481879/it-ll-all-work-out" class="btn btn-default" id="discuss-button">Discuss (3)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">Update cookie settings</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Unless otherwise stated, the content of this page is licensed under
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>
